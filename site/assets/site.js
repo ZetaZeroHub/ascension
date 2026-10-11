@@ -5,7 +5,4 @@ fetch('/assets/archive-catalog.json').then(r=>{if(!r.ok)throw Error('Archive una
 select.onchange=()=>{const url=base+'/archive/'+select.value.split('/').map(encodeURIComponent).join('/');document.getElementById('archive-frame').src=url;document.getElementById('archive-full').href=url;};
 document.getElementById('language').onclick=()=>{window.setAlbumLanguage(document.documentElement.lang==='zh-CN'?'en':'zh');renderArchive()};
 document.addEventListener('album-language-change',renderArchive);
-document.getElementById('watch').onclick=()=>{const film=document.getElementById('film-player');document.getElementById('film').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});film.play().catch(()=>{const e=document.getElementById('play-error');e.hidden=false;e.textContent=document.body.classList.contains('english')?'Use the player controls to start playback.':'请点击播放器中的播放按钮。'})};
-
-document.getElementById('film-player').addEventListener('play',()=>{document.querySelector('.hero').classList.add('film-playing')});
-document.getElementById('film-player').addEventListener('pause',()=>{document.querySelector('.hero').classList.remove('film-playing')});
+document.getElementById('watch').onclick=()=>{document.getElementById('film').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});};

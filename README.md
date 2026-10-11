@@ -97,3 +97,9 @@ deploy/               不含凭据的 Nginx 模板
 感谢 [ComfyUI](https://comfy.org/)、[MiniMax](https://www.minimax.io/)、[OpenAI Codex](https://openai.com/codex/)、[剪映](https://www.capcut.cn/)、[Xanthus-Sanslab/jianying-ai-mcp](https://github.com/Xanthus-Sanslab/jianying-ai-mcp)、[Remotion](https://www.remotion.dev/) 与各 LoRA 作者。
 
 如果它帮你跑通了一个镜头，欢迎带着配置、实际耗时和作品来开 Issue。**从这份工程继续，而不是从零重来。**
+
+### 在线播放 / Online playback
+
+官网的成片区域使用哔哩哔哩嵌入播放器：[BV17zpn62ESB](https://www.bilibili.com/video/BV17zpn62ESB/)。页面不再请求本站的 MP4；历史下载包保持原样。移动端保留视频播放器，隐藏网易云音乐 iframe。
+
+The website streams the finished film through Bilibili rather than loading the site-hosted MP4. Existing release archives are unchanged. The video player stays available on mobile; only the NetEase music embed is hidden.
