@@ -6,3 +6,15 @@ select.onchange=()=>{const url=base+'/archive/'+select.value.split('/').map(enco
 document.getElementById('language').onclick=()=>{window.setAlbumLanguage(document.documentElement.lang==='zh-CN'?'en':'zh');renderArchive()};
 document.addEventListener('album-language-change',renderArchive);
 document.getElementById('watch').onclick=()=>{document.getElementById('film').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});};
+
+// Keep Bilibili primary. The self-hosted source is assigned only after a WeChat user clicks.
+const wechatFallback=document.getElementById('wechat-play');
+if(/MicroMessenger/i.test(navigator.userAgent))wechatFallback.hidden=false;
+wechatFallback.onclick=()=>{
+ const player=document.createElement('video');player.id='film-player';player.className='film-embed';player.controls=true;player.playsInline=true;player.preload='none';player.poster='/assets/ascension.webp';
+ player.setAttribute('webkit-playsinline','');player.setAttribute('x5-playsinline','');player.setAttribute('aria-label','飞升 / Ascension');
+ player.src='/media/ascension-720p.mp4';document.getElementById('film-player').replaceWith(player);wechatFallback.hidden=true;
+ const message=document.getElementById('film-error');
+ player.addEventListener('error',()=>{message.hidden=false;message.textContent=document.documentElement.lang==='zh-CN'?'视频暂时无法加载，请使用下方哔哩哔哩链接。':'Video unavailable. Please use the Bilibili link below.';});
+ player.play().catch(()=>{message.hidden=false;message.textContent=document.documentElement.lang==='zh-CN'?'请点击视频中的播放按钮。':'Tap play in the video controls.';});
+};

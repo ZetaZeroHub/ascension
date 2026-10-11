@@ -43,3 +43,5 @@ summary{list-style:none;display:flex;align-items:center;gap:12px}summary::-webki
 @media(max-width:760px){.listen iframe{display:none}}
 
 .watch .film-embed{display:block;width:100%;height:auto;aspect-ratio:16/9;border:0;background:#090f12}.film-external{display:inline-block;margin-top:18px;font-size:13px;text-decoration:underline;text-underline-offset:5px}
+
+button.film-external{background:none;border:0;color:inherit;padding:0;margin-right:24px;cursor:pointer}.film-external[hidden]{display:none}#film-error{font-size:13px;line-height:1.7}
