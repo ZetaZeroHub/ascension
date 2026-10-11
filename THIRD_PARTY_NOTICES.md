@@ -13,6 +13,7 @@ The MIT license applies to original project code, not to everything mentioned or
 | Remotion | https://www.remotion.dev/ | Historical composition source; no dependencies bundled |
 | Third-party skills | See docs/SKILLS.md | Names and provenance; no unknown-license skill bundles |
 | Product logos | site/assets/logos/sources.json | Unmodified official-source marks for identification |
+| GSAP 3.13.0 | https://gsap.com/ | Minified core from the official npm package; original copyright header retained. Governed by https://gsap.com/standard-license/ rather than this project's MIT license. |
 
 Copies of model cards in historical records are attributed reference material and remain subject to their upstream terms. Links to external examples do not make those examples part of this project's asset license.
 
