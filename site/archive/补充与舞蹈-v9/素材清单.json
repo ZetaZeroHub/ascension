@@ -1,0 +1,332 @@
+[
+  {
+    "shot": "13",
+    "prompt_id": "f57b8fed-015b-42d2-bdc7-fe22a62f705d",
+    "generation_seconds": 174.303,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100813,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "1d36b447ce6652675840dfb0b9626b4f219e093bc629e2f8e7746baa169d1230",
+    "name": "握紧种子",
+    "file": "独立视频/13-握紧种子.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.0930246914305337,
+    "motion_peak_seconds": [
+      1.25,
+      2.75,
+      4.625
+    ],
+    "use": "取种子之后／跃下之前的决心插镜",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "14",
+    "prompt_id": "24ba19b1-42fe-41bd-a1fc-ffa50a3ed86a",
+    "generation_seconds": 179.551,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100814,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "38718c408f702c31d0cc21bd48f4487eceae2864deec7727c0078f70d8232d9f",
+    "name": "断桥脚步",
+    "file": "独立视频/14-断桥脚步.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.9412471773178597,
+    "motion_peak_seconds": [
+      1.0833333333333333,
+      1.625,
+      3.75
+    ],
+    "use": "断桥全景与起跳之间",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "15",
+    "prompt_id": "12c63ae6-2c74-4d2a-b9a6-69db0bcbfc43",
+    "generation_seconds": 201.25,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100815,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "dba49f6a1e3b3d5254879fd2875b76e9f8ad42d338b81c272e3a4b5355b98250",
+    "name": "核心涟漪",
+    "file": "独立视频/15-核心涟漪.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.9912904614840097,
+    "motion_peak_seconds": [
+      2.1666666666666665,
+      3.0416666666666665,
+      4.666666666666667
+    ],
+    "use": "放下种子之后／重力反转之前",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "16",
+    "prompt_id": "c2b4766e-4b2f-4bc9-bb39-4173b87196d3",
+    "generation_seconds": 187.129,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100816,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "4b810e20a592907f31180a676a97cd5daa4fe2029b787b6820a79851e095b00d",
+    "name": "归来回望",
+    "file": "独立视频/16-归来回望.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.4169538515370066,
+    "motion_peak_seconds": [
+      2.875,
+      4.125,
+      4.625
+    ],
+    "use": "恢复城市结尾的情绪回声",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "17",
+    "prompt_id": "2548fc9e-01d1-4278-b20b-618e50282b69",
+    "generation_seconds": 209.109,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100817,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "9ca0b8c526cc43113e7eef9110fafbd726c44ef729a2a3982366332c6125e337",
+    "name": "正面群舞",
+    "file": "独立视频/17-正面群舞.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.8421170214811962,
+    "motion_peak_seconds": [
+      1.0833333333333333,
+      1.625,
+      3.9166666666666665
+    ],
+    "use": "建立舞台与主角，适合乐句起点",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "18",
+    "prompt_id": "77c0b61a-5309-427e-91c6-ee9083fc7db0",
+    "generation_seconds": 180.497,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100818,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "91d56dd1341a3869e985075e665e0033a5a5ef5376f0e7116168bb26e13e1daf",
+    "name": "低机位独舞",
+    "file": "独立视频/18-低机位独舞.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 2.091147623411039,
+    "motion_peak_seconds": [
+      3.1666666666666665,
+      4.166666666666667,
+      5.125
+    ],
+    "use": "下蹲至伸展，适合渐强段",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "19",
+    "prompt_id": "c9425010-7bc1-4bef-a98e-40dd0b255e1e",
+    "generation_seconds": 197.835,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100819,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "ae946c17b0bd157f611aa3a58f047aa454707d5880d07f72b37b47066dd00aa2",
+    "name": "侧面行进",
+    "file": "独立视频/19-侧面行进.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.8156517286126206,
+    "motion_peak_seconds": [
+      1.4583333333333333,
+      1.9583333333333333,
+      2.625
+    ],
+    "use": "横移与舒展，连接相邻景别",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "20",
+    "prompt_id": "b12ddc66-5435-4b7b-9b11-bfe5c5e2093c",
+    "generation_seconds": 177.31,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100820,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "3232bc39b2184e90846941a9f7cea2cc7b2bf64d9bef6145548d25fa0137dd21",
+    "name": "俯拍旋转",
+    "file": "独立视频/20-俯拍旋转.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 2.542736745462185,
+    "motion_peak_seconds": [
+      1.7083333333333333,
+      2.1666666666666665,
+      3.1666666666666665
+    ],
+    "use": "旋转与衣摆，适合高潮重拍",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "21",
+    "prompt_id": "e11af851-7d41-41cf-b872-87b74998d12b",
+    "generation_seconds": 202.412,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100821,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "fdf6617db20f079730380238b9e19d471ed99583fc694e92eda4b95bebbbde06",
+    "name": "近景律动",
+    "file": "独立视频/21-近景律动.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 3.163448140388582,
+    "motion_peak_seconds": [
+      1.9583333333333333,
+      4.166666666666667,
+      4.958333333333333
+    ],
+    "use": "眼神与上身动作，打断连续全景",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  },
+  {
+    "shot": "22",
+    "prompt_id": "8c485aa5-253f-46f7-977e-dd19313cfc53",
+    "generation_seconds": 178.23,
+    "native_size": [
+      640,
+      384
+    ],
+    "output_size": [
+      1280,
+      720
+    ],
+    "frames": 124,
+    "fps": 24.0,
+    "steps": 8,
+    "seed": 26100822,
+    "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "reference_mode": "image-to-video",
+    "sha256": "5738da0a925fcbd955b0e4d8474867882077ab59ce54123eb2177f3dcc74978c",
+    "name": "后方收束",
+    "file": "独立视频/22-后方收束.mp4",
+    "decoded_frames": 124,
+    "duration_seconds": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.2851682513709959,
+    "motion_peak_seconds": [
+      0.9166666666666666,
+      1.625,
+      2.1666666666666665
+    ],
+    "use": "舞台空间与队形收束，适合段落结束",
+    "resolution_note": "640x384 generated; center crop to 640x360 then Lanczos resize to 1280x720; not native 720p"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "shot": "13",
+  "name": "握紧种子",
+  "prompt_id": "69eea8c6-e616-4a54-8749-487902994806",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1949.884,
+  "interpolation_seconds": 46.2725932598114,
+  "seed": 26100813,
+  "source_reference_sha256": "370edd070966013703289c1d56620e8a8bd5f3ea0eb2bf25309c22c4c524c69c",
+  "native_sha256": "78d6db111d847e0b3571003707d1361ee33a39f78cc524df0077a0b121b8ed0a",
+  "master_sha256": "83bc514cc375788f38381b5664e9a13f75d2a24c43ad8bb04d2b5620c3959312",
+  "smooth_sha256": "696b536c42f6ffc9410748a4cc3ad7765a05d35c081125cc2c1e35dbffd90f9a",
+  "master_file": "24fps母版\\13-握紧种子.mp4",
+  "smooth_file": "48fps剪辑版\\13-握紧种子.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\13-握紧种子.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.798480316390836,
+    "max_frame_change": 2.795717477798462,
+    "sha256": "83bc514cc375788f38381b5664e9a13f75d2a24c43ad8bb04d2b5620c3959312"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\13-握紧种子.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.9931414946008791,
+    "max_frame_change": 1.584259271621704,
+    "sha256": "696b536c42f6ffc9410748a4cc3ad7765a05d35c081125cc2c1e35dbffd90f9a"
+  },
+  "visual_review": "pending"
+}

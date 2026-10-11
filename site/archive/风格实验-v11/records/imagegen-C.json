@@ -1,0 +1,23 @@
+[
+  {
+    "id": "10-C",
+    "shot": "10",
+    "style": "C",
+    "imagegen_file": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-fb84b617-50bc-4028-b252-b5f4d159e6d8.png",
+    "prompt": "Transform the first reference image into one refined 16:9 cinematic film still, using the second image only as a dry mineral texture and colour reference. Keep the same fully clothed adult characters, recognizable faces, short hairstyles, poses, exact camera composition, and architectural or studio layout. Warm weathered terracotta stone, deep ultramarine shadows, muted burgundy fabric, soft dusty amber light, natural matte portrait texture, fine analogue film grain, restrained contrast and soft highlight rolloff. Preserve the existing floating city, city portrait, or three-person dance scene as shown. In the dance scene keep the dark studio. Make surfaces dry and tactile and the lighting calm and cinematic. One complete wide image, no collage, captions, border, logos or extra subjects."
+  },
+  {
+    "id": "16-C",
+    "shot": "16",
+    "style": "C",
+    "imagegen_file": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-4f885c7f-047f-42a2-b037-7ab73ee25f83.png",
+    "prompt": "Transform the first reference image into one refined 16:9 cinematic film still, using the second image only as a dry mineral texture and colour reference. Keep the same fully clothed adult characters, recognizable faces, short hairstyles, poses, exact camera composition, and architectural or studio layout. Warm weathered terracotta stone, deep ultramarine shadows, muted burgundy fabric, soft dusty amber light, natural matte portrait texture, fine analogue film grain, restrained contrast and soft highlight rolloff. Preserve the existing floating city, city portrait, or three-person dance scene as shown. In the dance scene keep the dark studio. Make surfaces dry and tactile and the lighting calm and cinematic. One complete wide image, no collage, captions, border, logos or extra subjects."
+  },
+  {
+    "id": "19-C",
+    "shot": "19",
+    "style": "C",
+    "imagegen_file": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-8f07cddc-3a2e-44be-8a7f-02dd0ddaced7.png",
+    "prompt": "Transform the first reference image into one refined 16:9 cinematic film still, using the second image only as a dry mineral texture and colour reference. Keep the same fully clothed adult characters, recognizable faces, short hairstyles, poses, exact camera composition, and architectural or studio layout. Warm weathered terracotta stone, deep ultramarine shadows, muted burgundy fabric, soft dusty amber light, natural matte portrait texture, fine analogue film grain, restrained contrast and soft highlight rolloff. Preserve the existing floating city, city portrait, or three-person dance scene as shown. In the dance scene keep the dark studio. Make surfaces dry and tactile and the lighting calm and cinematic. One complete wide image, no collage, captions, border, logos or extra subjects.\nFinal targeted revision: Edit only the stage floor in the bottom part of this cinematic image. Replace its reflective finish with dry, rough, finely textured dark ochre sandstone and matte mineral dust. Remove reflected highlights and mirrored silhouettes from the floor. Preserve the exact three adult dancers, their faces, clothing, poses, positions and contact with the ground; preserve the sculpture, bonsai, backdrop, camera and warm cinematic lighting. Everything above the floor remains unchanged. One wide cinematic frame with a believable dry matte stage."
+  }
+]

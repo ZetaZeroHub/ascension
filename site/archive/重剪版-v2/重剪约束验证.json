@@ -1,0 +1,129 @@
+{
+  "native_clip_count": 14,
+  "same_native_clips": "passed",
+  "native_clips": [
+    {
+      "id": "01",
+      "sha256": "0249e82776b38545fc42ea84ba9e52605263cb02fb1379aeea06c92061b9cfa9"
+    },
+    {
+      "id": "02",
+      "sha256": "0fe2211af400541caec455a023b68d09209d0e2aaf7057bde7a3d3de3c32897b"
+    },
+    {
+      "id": "03",
+      "sha256": "9bd479e2446e34fbd9c4212663d6aa0f2f954479747bb37e84b92a24be9b7018"
+    },
+    {
+      "id": "04",
+      "sha256": "3b7658ae657d3cce888e75d068e9f6c03d83dbfeabc1f1fed301ef5ead013c63"
+    },
+    {
+      "id": "05",
+      "sha256": "6494099fd82210514d54374913339720152e37f9348bb1935fe12f6277b34578"
+    },
+    {
+      "id": "06",
+      "sha256": "fe2355195ca10f2d1463a5741a353b9fa070d8a521db65291782af33891421eb"
+    },
+    {
+      "id": "07",
+      "sha256": "b33571eb74ae15dc586956606c68bae55d7879ac060daedfa92294d3302442ce"
+    },
+    {
+      "id": "08",
+      "sha256": "c51b5338efa6bd6a27620a13ac4ef2930db5be55c6b6f02eb61972f71be528b4"
+    },
+    {
+      "id": "09",
+      "sha256": "7942de6d09a1d5106e11dd8f2b162e7a638606ce014fe04b9c79d485c1f9ab64"
+    },
+    {
+      "id": "10",
+      "sha256": "ca0bb332a6579ba427808091c65d70ca7d4c9b1aa9a88fe731a51817486efd4e"
+    },
+    {
+      "id": "11",
+      "sha256": "1668389870967e6a1c0ba90abe42de0aa921ed965361864691670fba6831b3f4"
+    },
+    {
+      "id": "12",
+      "sha256": "0c5afbd74b2fbf6b3823bb3af70af7ead6ce59e58855957840c1045e8b08605a"
+    },
+    {
+      "id": "13",
+      "sha256": "ef02b1cee53dc7017248b390cfb58523435db9ce601fa71275a77d01589a3137"
+    },
+    {
+      "id": "14",
+      "sha256": "dc45b074a35823d8939e3d00ab7bb2a869f6f816b51f5e1d3baeefb7514a14e3"
+    }
+  ],
+  "same_master_audio": "passed",
+  "master_sha256": "79c35b5658c71dc60ddf078dbc84535a6d44b853c07bc6c4314bf062f9c5fde8",
+  "duration_frames": 2282,
+  "timeline_continuity": "passed",
+  "early_frame_samples": 20,
+  "early_frame_max_mae_255": 0.34156379103660583,
+  "unchanged_early_picture": "passed with encoding tolerance",
+  "abrupt_reframe_accents": 0,
+  "cut_attack_evidence": [
+    {
+      "scene": "07",
+      "cut_seconds": 38.416666666666664,
+      "nearby_attack_seconds": 38.4,
+      "attack_band": "bass_flux",
+      "offset_ms": 16.667
+    },
+    {
+      "scene": "08",
+      "cut_seconds": 43.208333333333336,
+      "nearby_attack_seconds": 43.1947,
+      "attack_band": "bass_flux",
+      "offset_ms": 13.633
+    },
+    {
+      "scene": "09",
+      "cut_seconds": 50.416666666666664,
+      "nearby_attack_seconds": 50.3947,
+      "attack_band": "bass_flux",
+      "offset_ms": 21.967
+    },
+    {
+      "scene": "10",
+      "cut_seconds": 57.583333333333336,
+      "nearby_attack_seconds": 57.5893,
+      "attack_band": "all_flux",
+      "offset_ms": -5.967
+    },
+    {
+      "scene": "11",
+      "cut_seconds": 62.416666666666664,
+      "nearby_attack_seconds": 62.4107,
+      "attack_band": "bass_flux",
+      "offset_ms": 5.967
+    },
+    {
+      "scene": "12",
+      "cut_seconds": 67.20833333333333,
+      "nearby_attack_seconds": 67.2053,
+      "attack_band": "bass_flux",
+      "offset_ms": 3.033
+    },
+    {
+      "scene": "13",
+      "cut_seconds": 76.79166666666667,
+      "nearby_attack_seconds": 76.7947,
+      "attack_band": "all_flux",
+      "offset_ms": -3.033
+    },
+    {
+      "scene": "14",
+      "cut_seconds": 86.41666666666667,
+      "nearby_attack_seconds": 86.4107,
+      "attack_band": "bass_flux",
+      "offset_ms": 5.967
+    }
+  ],
+  "limitations": "Nearby spectral attacks support temporal alignment; they do not prove all cuts are score-derived downbeats or subjective musical fit."
+}

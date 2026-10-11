@@ -1,0 +1,52 @@
+{
+  "13": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "高清版手部、金手环和种子裂缝轮廓稳定；种子亮度随握紧逐步增强后回落。相较快速版，皮肤与布料纹理更清楚。采样插帧未见明显双影；结尾亮度自然消退。"
+  },
+  "14": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "靴子与桥缘位置连续，右前脚抬起再落下，桥边石块在后半段逐渐崩落；景深中的悬浮建筑未见明显跳变。高清版碎石纹理更清楚，采样的48fps插帧未见显著双影。动作整体较克制，适合剪作过桥前的悬念镜头。"
+  },
+  "15": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "金色裂纹种子在整段保持单一、静止且轮廓稳定；一圈主光环从种子底部持续向外扩张，后半段前景碎屑受光、背景空间保持连续。新版本种子与地面环纹细节更清楚。抽样奇数帧及强运动三联未见显著插帧双影。"
+  },
+  "16": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs, enlarged portrait timeline",
+    "notes": "主角从回望到浅笑，短发、五官、酒红色外套及背后的城市透视连续；放大人像时间线覆盖全段，未见明显换脸或口眼形变。高清版保留更多皮肤和织物细节；48fps强运动插帧在人脸边缘未见显著双影。"
+  },
+  "17": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "主角由站姿经侧步进入低重心张臂动作，两名灰衣伴舞始终分列其后且没有粘连；手臂、腿、衣摆和地面接触在抽帧中连续，白色雕塑与右侧苔景位置稳定。高清版人物与布料边缘更清楚。强运动处的48fps插帧未见明显肢体复制或双影；新版本后半段下蹲幅度比快速版更深，剪辑时可作为强拍动作。"
+  },
+  "18": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "主角从站姿小幅下蹲、向右伸展并以手指朝石翼方向收束，脚步与膝盖轨迹连续；白色石翼、底座和地面反射位置稳定。高清版衣料和雕塑石面层次更清楚。快速下沉约1.8秒处原生帧已有运动模糊，插帧也略软，但未见明显多出肢体或双影；严苛剪辑可选24fps母版。"
+  },
+  "19": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "主角侧面从左向右缓行并做高低交替的手臂弧线，两位伴舞在后景保持各自轨迹；螺旋白雕塑、盆景和横向光带位置连续。约3秒后主角遮挡一位伴舞的一部分，但未见人物融合。48fps强运动三联的衣袖、脚步和手臂没有明显复制或双影。"
+  },
+  "20": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs",
+    "notes": "俯视镜头中主角和两名伴舞各占稳定位置，约0.8至2.5秒完成转身、摆臂与衣摆展开，白色石环及圆形沙庭未漂移；新版本服装与地面纹理更清楚。快速摆臂的原生帧已有运动模糊，48fps在约0.9秒处可见轻微拖影，严苛剪辑可选24fps母版。约2.7秒后队形定格，后半段近乎静止，适合作为重拍后的停顿。"
+  },
+  "21": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs, enlarged 12-frame portrait timeline",
+    "notes": "主角由抬颏转为低头，约2.6至3.9秒以前臂掠过并暂时遮住部分脸，随后手臂下移、眼神重新看向镜头；短发、眼鼻嘴、酒红外套及金手环跨全段连续。放大的人像时间线未见换脸或口眼变形，手指在抬臂收势时保持可辨；48fps强运动三联未见显著双影。中段遮脸是动作内容，剪辑若需清晰眼神可取开头或末段。"
+  },
+  "22": {
+    "accepted": true,
+    "method": "v9/v10 matched-time frames, 24fps and 48fps contact sheets, sampled odd interpolated frames, six strongest-motion even/odd/even triptychs, cross-shot dance continuity sheet",
+    "notes": "主角从背向中心的站姿缓步转到正面，双臂由低位展开形成收束姿势；两位灰衣伴舞分列左右，先俯身再抬臂，身体和衣摆始终可区分。白色胸像、石雕、中央苔景及横向冷光位置稳定，脚步与地面反射连续。强运动原生／插帧／下一原生帧三联未见明显额外肢体或双影；与17至21号黑棚镜头的主角造型和冷青调色相接。"
+  }
+}

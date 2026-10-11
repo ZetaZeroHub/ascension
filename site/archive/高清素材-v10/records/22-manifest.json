@@ -1,0 +1,60 @@
+{
+  "shot": "22",
+  "name": "后方收束",
+  "prompt_id": "7a717807-137a-40a6-af54-ef43d28d8477",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1960.809,
+  "interpolation_seconds": 45.808173179626465,
+  "seed": 26100822,
+  "source_reference_sha256": "48a43084383f378f4dd0da8494c0cb6e3f765865b526fe861de1d46f89c1baa5",
+  "native_sha256": "f9032db20728f56d79828253e28d328c8c7860d33fad911cbe586d57755cf47e",
+  "master_sha256": "a4888ce091989b8ff898427527f3c6ea13a1f5ba9ce7696e5246b993ab89dd56",
+  "smooth_sha256": "82a05905e2e6223cb58a7dafc9d2a3621e3af7ef42be257113ec0850e1c6403e",
+  "master_file": "24fps母版\\22-后方收束.mp4",
+  "smooth_file": "48fps剪辑版\\22-后方收束.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\22-后方收束.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.1788888901956682,
+    "max_frame_change": 2.1200926303863525,
+    "sha256": "a4888ce091989b8ff898427527f3c6ea13a1f5ba9ce7696e5246b993ab89dd56"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\22-后方收束.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.6604485321480796,
+    "max_frame_change": 1.1869676113128662,
+    "sha256": "82a05905e2e6223cb58a7dafc9d2a3621e3af7ef42be257113ec0850e1c6403e"
+  },
+  "visual_review": "pending"
+}

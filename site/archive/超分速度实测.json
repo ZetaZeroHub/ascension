@@ -1,0 +1,10 @@
+{
+  "method": "4x-UltraSharp tiled FP16, 60% blend, resized to 1080p",
+  "seconds_per_frame": [
+    2.969000000040978,
+    1.0309999999590218,
+    1.0150000000139698
+  ],
+  "warm_estimated_full_seconds": 2334.4859999691835,
+  "total_seconds": 15.60999999998603
+}

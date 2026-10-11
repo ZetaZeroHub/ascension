@@ -1,0 +1,60 @@
+{
+  "shot": "20",
+  "name": "俯拍旋转",
+  "prompt_id": "b8573ec9-d000-4977-85c0-b231d46e98ef",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1941.202,
+  "interpolation_seconds": 48.74385213851929,
+  "seed": 26100820,
+  "source_reference_sha256": "6433ea1d87c9642f6e5b5e2d2dd0b0fa3ddaa0403a1c41f268dfaf0c2dbbbf19",
+  "native_sha256": "33e5a97fa9ed709ecec9e03523822708553b6346f7bee4a996b1725170acca00",
+  "master_sha256": "7d11a85ca5bb65723e8d2d5d6f6dcf3185f8f3120f4631443bf17e9cacbe177e",
+  "smooth_sha256": "4ffddcf7c93210cd16a2ae2c6a0a0a1f1c714a9e4c4974b66ccf234480898bef",
+  "master_file": "24fps母版\\20-俯拍旋转.mp4",
+  "smooth_file": "48fps剪辑版\\20-俯拍旋转.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\20-俯拍旋转.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 2.352860944360737,
+    "max_frame_change": 7.842245578765869,
+    "sha256": "7d11a85ca5bb65723e8d2d5d6f6dcf3185f8f3120f4631443bf17e9cacbe177e"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\20-俯拍旋转.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.3806125359790709,
+    "max_frame_change": 4.659768581390381,
+    "sha256": "4ffddcf7c93210cd16a2ae2c6a0a0a1f1c714a9e4c4974b66ccf234480898bef"
+  },
+  "visual_review": "pending"
+}

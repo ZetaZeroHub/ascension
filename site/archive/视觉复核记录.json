@@ -1,0 +1,18 @@
+{
+  "final_video": "飞升-MV-1080p.mp4",
+  "sampled_final_frames": 84,
+  "sampling": "Every 48 frames, both sides of scene cuts and accent reframes, and the final frame",
+  "native_review": "Eight sampled frames from each of all 14 locally generated clips",
+  "findings": [
+    "Consistent crimson silk, concrete architecture, black reflective water and gold light",
+    "Cloth climbs the stairs in scene 06, opens in scene 10, ascends through rings in scene 11",
+    "Return scenes visually recall the opening chamber; final picture fades out",
+    "No missing images, unintended black gaps or obvious broken compositions found in the reviewed samples"
+  ],
+  "limitations": [
+    "Visual sampling is not a full real-time viewing of every frame",
+    "Native detail remains limited by 704x384 generation; output is conventionally upscaled",
+    "No subjective full headphone or speaker listening was performed"
+  ],
+  "confidence": "Medium for artistic and motion-quality judgments; technical checks recorded separately"
+}

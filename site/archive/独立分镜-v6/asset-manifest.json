@@ -1,0 +1,134 @@
+[
+  {
+    "id": "01",
+    "name": "静止之城",
+    "start": 0,
+    "end": 4.8,
+    "prompt": "28mm extreme wide rear view. Courier small lower center facing a monumental dry brutalist city, giant black ring suspended above street, a few sparse raindrops frozen in midair, fog distant only. Dry matte pavement. Empty right hand, seed not acquired yet. Strong simple perspective.",
+    "file": "frames/01.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "4c889d16a930e64bf82f6fc476fcea92bf390129f3d0e1ae1c2f9891071929fb"
+  },
+  {
+    "id": "02",
+    "name": "她看见了光",
+    "start": 4.8,
+    "end": 9.8,
+    "prompt": "85mm intimate side profile closeup of courier face facing right, healthy neutral matte skin, single suspended rain droplet near her eye; faint warm light reflection in eye motivates her looking toward the seed. Soft charcoal architecture bokeh, dry hair, no glamour, no wet skin.",
+    "file": "frames/02.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "6500923ded7643d0a3295d5207e9260efdb38bfe08e86230f3979441027d6d19"
+  },
+  {
+    "id": "03",
+    "name": "被封存的生命",
+    "start": 9.8,
+    "end": 19.2,
+    "prompt": "40mm over RIGHT shoulder of courier whose bob and burgundy coat occupy lower left quarter; ahead a palm-sized pale gold sphere with one luminous fissure held inside a clear thin spherical membrane in a huge black ring chamber. Seed physically small not giant planet, camera can clearly see it. Soft dusty daylight, dry charcoal stone.",
+    "file": "frames/03.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "8ac5214eb507cc3e4d288145042258ca6c61f1b0c051483927371c75c81b3ad8"
+  },
+  {
+    "id": "04",
+    "name": "跨越禁令",
+    "start": 19.2,
+    "end": 28.8,
+    "prompt": "85mm closeup of courier RIGHT HAND with a single thin gold wrist thread and burgundy sleeve, five anatomically correct fingers gripping a palm-sized 7cm matte pale-gold ceramic sphere with a single luminous fissure, pushing through a delicate clear slit membrane. Same dry chamber softly out of focus. Seed firmly between thumb and fingers, no extra hand or body.",
+    "file": "frames/04.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "1b3f48f215a7663218fa3ebedb9b5c58b66ea9c1be76bc9868a41c73cc32be02"
+  },
+  {
+    "id": "05",
+    "name": "追击",
+    "start": 28.8,
+    "end": 33.6,
+    "prompt": "35mm side tracking composition, full courier body running left to right in a believable sprint, right hand firmly holding the 7cm seed near her chest, burgundy coat streaming left. Two huge floating black rings behind cast narrow soft search beams, dry rough stone elevated bridge, distant towers. Freeze readable real human running, not flying, no weapon.",
+    "file": "frames/05.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "e453930ff2f28af33a149414e8dcd5eae162b313d0a8495c2d40fb22925f85dd"
+  },
+  {
+    "id": "06",
+    "name": "逃路断裂",
+    "start": 33.6,
+    "end": 38.4,
+    "prompt": "24mm wide oblique aerial geography. Courier stands on LEFT broken bridge end, facing right, seed in right hand. Huge missing section of bridge center, opposite RIGHT edge separated by a 10m abyss. Jagged stone, a few falling blocks. Circular city shaft clearly visible below, matching previous city. No intact Y junction, unmistakable no way across.",
+    "file": "frames/06.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "f7d05f2ad85cea45a83461613e3828b468288cc528d54faeac4ab027ec403e90"
+  },
+  {
+    "id": "07",
+    "name": "作出选择",
+    "start": 38.4,
+    "end": 50.4,
+    "prompt": "65mm three-quarter medium close side view of courier standing on SAFE side of ledge, right hand with seed held to chest, wrist gold thread visible. She deliberately looks downward into a huge circular shaft behind right side of frame. Calm determined face, eyebrows slightly tense. Body upright not prone; clear voluntary decision, not slipping.",
+    "file": "frames/07.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "489c98bef642dcfcc4986c36a88abe4541887185a6adbeb61bea98268cf0f061"
+  },
+  {
+    "id": "08",
+    "name": "主动跃下",
+    "start": 50.4,
+    "end": 57.6,
+    "prompt": "35mm side wide full body shot courier actively pushing off LEFT jagged ledge into circular shaft at RIGHT, one boot just left ledge, other knee forward, torso leaning purposefully forward, RIGHT hand tightly holding seed against chest; burgundy coat streams left. Readable deliberate athletic leap, anatomically natural, no upside-down headfirst posture, no extra limbs.",
+    "file": "frames/08.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "7c139e4fa3494fc4524922b3b982e07e2f099d6a720d54caceae4c6d323cea42"
+  },
+  {
+    "id": "09",
+    "name": "击入核心",
+    "start": 57.6,
+    "end": 67.2,
+    "prompt": "50mm low close foreground view of 7cm cracked pale gold sphere touching matte black core stone, thin soft amber ring just begins spreading. Courier kneeling naturally behind it, right hand fingers just RELEASED the sphere, gold wrist thread visible; left palm stabilizes on ground. Face softly focused, not a contorted impact. Seed and releasing fingers hero, city foundation background. Physical causal action no fireworks.",
+    "file": "frames/09.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "1939995cb3407ea05cf6790b97fb54f79f3b865738fea74399cdb7ef124d69b1"
+  },
+  {
+    "id": "10",
+    "name": "逆转重力",
+    "start": 67.2,
+    "end": 74.4,
+    "prompt": "28mm low angle full body courier beginning to levitate upright slowly, both EMPTY hands visible at sides, red coat hangs and flows down. Huge dry concrete blocks suspended at different depths within the vertical city shaft; broad diffuse ivory light overhead. Relaxed natural anatomy, same face clothing, no seed in hand after core release.",
+    "file": "frames/10.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "792209379812821d394579f22b874dc93a7b4476632b0b382cf07521c85e9e02"
+  },
+  {
+    "id": "11",
+    "name": "天幕破裂",
+    "start": 74.4,
+    "end": 76.8,
+    "prompt": "18mm extreme wide grand climax, tiny upright courier hovering center as gigantic charcoal sky shell fractures outward in physically massive slabs revealing broad pale warm daylight. City towers below as scale reference. Burgundy silhouette legible, EMPTY hands. Elegant tectonic opening, no golden fireball, no laser fireworks, soft light even at climax, no shiny surfaces.",
+    "file": "frames/11.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "04636c73e0fead5492eff179a6d64e2de7ff75d4213cf0ba3f5b14cfeac39f56"
+  },
+  {
+    "id": "12",
+    "name": "复苏与回归",
+    "start": 76.8,
+    "end": 95.08,
+    "prompt": "50mm rear medium wide courier walking away into restored same city, coat calm, RIGHT empty relaxed hand visible with thin gold wrist thread. Sparse rain finally falls, muted pale green trees and warm lit windows, soft warm overcast daylight. Mostly dry matte weathered stone with occasional small damp patches, no mirror floor. Restrained hope, natural photo not CGI, no extra foreground characters.",
+    "file": "frames/12.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "99e8dd5c0ba8e52de463e55303eec02933e24ee4283d614ed73c5b81c38818ae"
+  }
+]

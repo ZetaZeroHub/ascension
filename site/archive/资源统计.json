@@ -1,0 +1,7 @@
+{
+  "samples": 1312,
+  "minimum_free_ram_mib": 6723.0,
+  "minimum_free_commit_mib": 5071.0,
+  "maximum_gpu_temperature_c": 72.0,
+  "maximum_total_gpu_used_mib": 7678.0
+}

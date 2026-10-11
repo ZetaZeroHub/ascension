@@ -1,0 +1,237 @@
+{
+  "prompt": [
+    19,
+    "c9425010-7bc1-4bef-a98e-40dd0b255e1e",
+    {
+      "1": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+          "weight_dtype": "default"
+        }
+      },
+      "2": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+          "type": "minimax",
+          "device": "default"
+        }
+      },
+      "3": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+        }
+      },
+      "6": {
+        "class_type": "MiniMaxH3ImageToVideo",
+        "inputs": {
+          "clip": [
+            "2",
+            0
+          ],
+          "vae": [
+            "3",
+            0
+          ],
+          "prompt": "Single uninterrupted cinematic dance shot in a black studio, same adult East Asian woman with short black bob, matte burgundy coat, black trousers and black boots. Restrained cool cyan shadows, neutral skin, moving soft light streaks behind the dancer, fine film texture. Coherent human anatomy, grounded feet, stable face, no extra limbs, no cuts, no captions, no graphic overlays. Dance phrase at approximately 100 beats per minute, sharp accents with controlled pauses. White sculptures stay rigid. Side profile full body. The lead dancer takes one controlled step to the right, performs a fluid torso wave and sweeps both arms forward then backward, ending in a still balanced stance. The two distant background dancers in asymmetric pale costumes perform one complementary slow arm wave. Camera tracks a short distance right. White spiral sculpture and fine gravel miniature landscape stay rigid.",
+          "width": 640,
+          "height": 384,
+          "length": 124,
+          "first_frame": [
+            "16",
+            0
+          ]
+        }
+      },
+      "7": {
+        "class_type": "KSamplerSelect",
+        "inputs": {
+          "sampler_name": "res_multistep"
+        }
+      },
+      "8": {
+        "class_type": "BasicScheduler",
+        "inputs": {
+          "model": [
+            "5",
+            0
+          ],
+          "scheduler": "simple",
+          "steps": 8,
+          "denoise": 1.0
+        }
+      },
+      "9": {
+        "class_type": "BasicGuider",
+        "inputs": {
+          "model": [
+            "5",
+            0
+          ],
+          "conditioning": [
+            "6",
+            0
+          ]
+        }
+      },
+      "10": {
+        "class_type": "RandomNoise",
+        "inputs": {
+          "noise_seed": 26100819
+        }
+      },
+      "11": {
+        "class_type": "SamplerCustomAdvanced",
+        "inputs": {
+          "noise": [
+            "10",
+            0
+          ],
+          "guider": [
+            "9",
+            0
+          ],
+          "sampler": [
+            "7",
+            0
+          ],
+          "sigmas": [
+            "8",
+            0
+          ],
+          "latent_image": [
+            "6",
+            1
+          ]
+        }
+      },
+      "12": {
+        "class_type": "VAEDecode",
+        "inputs": {
+          "samples": [
+            "11",
+            0
+          ],
+          "vae": [
+            "3",
+            0
+          ]
+        }
+      },
+      "14": {
+        "class_type": "CreateVideo",
+        "inputs": {
+          "images": [
+            "12",
+            0
+          ],
+          "fps": 24.0,
+          "bit_depth": 8,
+          "color_space": "sRGB",
+          "codec": "none"
+        }
+      },
+      "15": {
+        "class_type": "SaveVideo",
+        "inputs": {
+          "video": [
+            "14",
+            0
+          ],
+          "filename_prefix": "video/FeishengFastV9_19_fast8",
+          "format": "mp4",
+          "codec": {
+            "codec": "h264",
+            "encoding": {
+              "encoding": "re-encode",
+              "crf": 16.0
+            }
+          }
+        }
+      },
+      "5": {
+        "class_type": "LoraLoaderModelOnly",
+        "inputs": {
+          "model": [
+            "1",
+            0
+          ],
+          "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+          "strength_model": 1.0
+        }
+      },
+      "16": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "FeishengFastV9/19.png"
+        }
+      }
+    },
+    {
+      "client_id": "codex-feisheng-fast-v9",
+      "create_time": 1791471924567
+    },
+    [
+      "15"
+    ]
+  ],
+  "outputs": {
+    "15": {
+      "images": [
+        {
+          "filename": "FeishengFastV9_19_fast8_00001_.mp4",
+          "subfolder": "video",
+          "type": "output"
+        }
+      ],
+      "animated": [
+        true
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "c9425010-7bc1-4bef-a98e-40dd0b255e1e",
+          "timestamp": 1791471924568
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1",
+            "2",
+            "3",
+            "7",
+            "8",
+            "5"
+          ],
+          "prompt_id": "c9425010-7bc1-4bef-a98e-40dd0b255e1e",
+          "timestamp": 1791471924576
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "c9425010-7bc1-4bef-a98e-40dd0b255e1e",
+          "timestamp": 1791472122403
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "15": {
+      "node_id": "15",
+      "display_node": "15",
+      "parent_node": null,
+      "real_node_id": "15"
+    }
+  }
+}

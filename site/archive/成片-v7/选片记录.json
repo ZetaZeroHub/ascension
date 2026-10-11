@@ -1,0 +1,25 @@
+{
+  "shot": "08",
+  "retained_native_frames_inclusive": [
+    [
+      0,
+      25
+    ],
+    [
+      96,
+      123
+    ]
+  ],
+  "discarded_native_frames_inclusive": [
+    [
+      26,
+      95
+    ]
+  ],
+  "output_frames": [
+    86,
+    86
+  ],
+  "cut_seconds": 54,
+  "reason": "Reference-video conditioning inserted a running-on-bridge shot during the fall. Removed that discontinuity; retained departure and downward descent, independently retimed to the two musical phrases."
+}

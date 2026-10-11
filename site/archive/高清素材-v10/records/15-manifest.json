@@ -1,0 +1,60 @@
+{
+  "shot": "15",
+  "name": "核心涟漪",
+  "prompt_id": "3d8da47d-a836-43fa-b748-aad731e1b4d3",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1905.83,
+  "interpolation_seconds": 43.15477180480957,
+  "seed": 26100815,
+  "source_reference_sha256": "ac62fa5a03e2ba8fd0deb16ed541afd477732e905e72153c5865a591768fde0b",
+  "native_sha256": "53f287ff0db5be11a362639b24f0806f0072f469b0d707d7cb64a402cc70fbbc",
+  "master_sha256": "26f8ddb082402f8838911548043a587a5280bcc28119c84b8866a647216f79e2",
+  "smooth_sha256": "bc936f984b89c42e1a8acac89eb9f34e463f6545b9ef15102d192b443b3cab53",
+  "master_file": "24fps母版\\15-核心涟漪.mp4",
+  "smooth_file": "48fps剪辑版\\15-核心涟漪.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\15-核心涟漪.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.9980881084513858,
+    "max_frame_change": 3.2343287467956543,
+    "sha256": "26f8ddb082402f8838911548043a587a5280bcc28119c84b8866a647216f79e2"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\15-核心涟漪.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.5537649002981934,
+    "max_frame_change": 1.6889351606369019,
+    "sha256": "bc936f984b89c42e1a8acac89eb9f34e463f6545b9ef15102d192b443b3cab53"
+  },
+  "visual_review": "pending"
+}

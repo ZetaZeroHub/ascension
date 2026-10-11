@@ -1,0 +1,33 @@
+{
+  "retrieved_at": "2026-10-11T08:50:20.409580+00:00",
+  "assets": [
+    {
+      "file": "comfy.svg",
+      "asset_url": "https://comfy.org/icons/comfyicon.svg",
+      "source_page": "https://comfy.org/brand",
+      "label": "ComfyUI",
+      "sha256": "a9d97a5eb8384b3d564f3be4f2d103c65b65533665a736d1387e960bc8d44731"
+    },
+    {
+      "file": "minimax.webp",
+      "asset_url": "https://www.minimax.io/assets/logo/minimax-horizontal-white.webp",
+      "source_page": "https://www.minimax.io/",
+      "label": "MiniMax",
+      "sha256": "75822b99328197efb3b9bd319f954b55cd42b174117a09dc50eb2175cd990617"
+    },
+    {
+      "file": "codex.png",
+      "asset_url": "https://openai.gallerycdn.vsassets.io/extensions/openai/chatgpt/26.51007.21434/1791508178385/Microsoft.VisualStudio.Services.Icons.Default",
+      "source_page": "https://marketplace.visualstudio.com/items?itemName=openai.chatgpt",
+      "label": "Codex",
+      "sha256": "2ce1c57dd3b312417106a487815ab1235bddce17e1fa9b32a2f048bd71ee25d3"
+    },
+    {
+      "file": "jianying.svg",
+      "source_page": "https://www.capcut.cn/",
+      "label": "剪映 MCP",
+      "note": "Unmodified inline Jianying logo from official homepage. MCP is a separate text label for the community integration.",
+      "sha256": "2bc964e262b6cfa49b644a05b10d7322615bd5ba0c1150708c845fa8a2bb75b0"
+    }
+  ]
+}

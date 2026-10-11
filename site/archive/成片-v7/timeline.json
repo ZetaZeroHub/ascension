@@ -1,0 +1,274 @@
+[
+  {
+    "id": "01",
+    "source": "01",
+    "view": "wide",
+    "fromFrame": 0,
+    "duration": 115,
+    "trimBefore": 0
+  },
+  {
+    "id": "02",
+    "source": "02",
+    "view": "wide",
+    "fromFrame": 115,
+    "duration": 115,
+    "trimBefore": 0
+  },
+  {
+    "id": "03",
+    "source": "03",
+    "view": "wide",
+    "fromFrame": 230,
+    "duration": 116,
+    "trimBefore": 0
+  },
+  {
+    "id": "04",
+    "source": "02",
+    "view": "eye",
+    "fromFrame": 346,
+    "duration": 57,
+    "trimBefore": 115
+  },
+  {
+    "id": "05",
+    "source": "03",
+    "view": "wide",
+    "fromFrame": 403,
+    "duration": 58,
+    "trimBefore": 116
+  },
+  {
+    "id": "06",
+    "source": "04",
+    "view": "wide",
+    "fromFrame": 461,
+    "duration": 115,
+    "trimBefore": 0
+  },
+  {
+    "id": "07",
+    "source": "04",
+    "view": "detail",
+    "fromFrame": 576,
+    "duration": 58,
+    "trimBefore": 115
+  },
+  {
+    "id": "08",
+    "source": "05",
+    "view": "wide",
+    "fromFrame": 634,
+    "duration": 57,
+    "trimBefore": 0
+  },
+  {
+    "id": "09",
+    "source": "05",
+    "view": "detail",
+    "fromFrame": 691,
+    "duration": 58,
+    "trimBefore": 57
+  },
+  {
+    "id": "10",
+    "source": "05",
+    "view": "wide",
+    "fromFrame": 749,
+    "duration": 57,
+    "trimBefore": 115
+  },
+  {
+    "id": "11",
+    "source": "06",
+    "view": "wide",
+    "fromFrame": 806,
+    "duration": 58,
+    "trimBefore": 0
+  },
+  {
+    "id": "12",
+    "source": "06",
+    "view": "wide",
+    "fromFrame": 864,
+    "duration": 58,
+    "trimBefore": 58
+  },
+  {
+    "id": "13",
+    "source": "07",
+    "view": "wide",
+    "fromFrame": 922,
+    "duration": 115,
+    "trimBefore": 0
+  },
+  {
+    "id": "14",
+    "source": "06",
+    "view": "wide",
+    "fromFrame": 1037,
+    "duration": 57,
+    "trimBefore": 116
+  },
+  {
+    "id": "15",
+    "source": "07",
+    "view": "eye",
+    "fromFrame": 1094,
+    "duration": 58,
+    "trimBefore": 115
+  },
+  {
+    "id": "16",
+    "source": "07",
+    "view": "detail",
+    "fromFrame": 1152,
+    "duration": 58,
+    "trimBefore": 173
+  },
+  {
+    "id": "17",
+    "source": "08",
+    "view": "wide",
+    "fromFrame": 1210,
+    "duration": 86,
+    "trimBefore": 0
+  },
+  {
+    "id": "18",
+    "source": "08",
+    "view": "wide",
+    "fromFrame": 1296,
+    "duration": 86,
+    "trimBefore": 86
+  },
+  {
+    "id": "19",
+    "source": "09",
+    "view": "detail",
+    "fromFrame": 1382,
+    "duration": 58,
+    "trimBefore": 0
+  },
+  {
+    "id": "20",
+    "source": "09",
+    "view": "wide",
+    "fromFrame": 1440,
+    "duration": 58,
+    "trimBefore": 58
+  },
+  {
+    "id": "21",
+    "source": "09",
+    "view": "detail",
+    "fromFrame": 1498,
+    "duration": 57,
+    "trimBefore": 116
+  },
+  {
+    "id": "22",
+    "source": "10",
+    "view": "wide",
+    "fromFrame": 1555,
+    "duration": 29,
+    "trimBefore": 0
+  },
+  {
+    "id": "23",
+    "source": "10",
+    "view": "detail",
+    "fromFrame": 1584,
+    "duration": 29,
+    "trimBefore": 29
+  },
+  {
+    "id": "24",
+    "source": "10",
+    "view": "wide",
+    "fromFrame": 1613,
+    "duration": 57,
+    "trimBefore": 58
+  },
+  {
+    "id": "25",
+    "source": "11",
+    "view": "wide",
+    "fromFrame": 1670,
+    "duration": 29,
+    "trimBefore": 0
+  },
+  {
+    "id": "26",
+    "source": "10",
+    "view": "wide",
+    "fromFrame": 1699,
+    "duration": 29,
+    "trimBefore": 115
+  },
+  {
+    "id": "27",
+    "source": "11",
+    "view": "wide",
+    "fromFrame": 1728,
+    "duration": 29,
+    "trimBefore": 29
+  },
+  {
+    "id": "28",
+    "source": "10",
+    "view": "wide",
+    "fromFrame": 1757,
+    "duration": 29,
+    "trimBefore": 144
+  },
+  {
+    "id": "29",
+    "source": "11",
+    "view": "wide",
+    "fromFrame": 1786,
+    "duration": 57,
+    "trimBefore": 58
+  },
+  {
+    "id": "30",
+    "source": "12",
+    "view": "wide",
+    "fromFrame": 1843,
+    "duration": 115,
+    "trimBefore": 0
+  },
+  {
+    "id": "31",
+    "source": "12",
+    "view": "detail",
+    "fromFrame": 1958,
+    "duration": 58,
+    "trimBefore": 115
+  },
+  {
+    "id": "32",
+    "source": "12",
+    "view": "wide",
+    "fromFrame": 2016,
+    "duration": 58,
+    "trimBefore": 173
+  },
+  {
+    "id": "33",
+    "source": "12",
+    "view": "wide",
+    "fromFrame": 2074,
+    "duration": 86,
+    "trimBefore": 231
+  },
+  {
+    "id": "34",
+    "source": "12",
+    "view": "wide",
+    "fromFrame": 2160,
+    "duration": 122,
+    "trimBefore": 317
+  }
+]

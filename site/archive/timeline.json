@@ -1,0 +1,265 @@
+{
+  "fps": 24,
+  "durationInFrames": 2282,
+  "audioOffsetFrames": 0,
+  "scenes": [
+    {
+      "id": "01",
+      "from": 0,
+      "to": 236,
+      "title": "重力之室"
+    },
+    {
+      "id": "02",
+      "from": 236,
+      "to": 462,
+      "title": "来自裂隙的召唤"
+    },
+    {
+      "id": "03",
+      "from": 462,
+      "to": 577,
+      "title": "自缚"
+    },
+    {
+      "id": "04",
+      "from": 577,
+      "to": 692,
+      "title": "水中的路"
+    },
+    {
+      "id": "05",
+      "from": 692,
+      "to": 807,
+      "title": "越界"
+    },
+    {
+      "id": "06",
+      "from": 807,
+      "to": 973,
+      "title": "无尽阶梯"
+    },
+    {
+      "id": "07",
+      "from": 973,
+      "to": 1145,
+      "title": "镜廊"
+    },
+    {
+      "id": "08",
+      "from": 1145,
+      "to": 1261,
+      "title": "悬于深渊"
+    },
+    {
+      "id": "09",
+      "from": 1261,
+      "to": 1383,
+      "title": "归零"
+    },
+    {
+      "id": "10",
+      "from": 1383,
+      "to": 1556,
+      "title": "破茧"
+    },
+    {
+      "id": "11",
+      "from": 1556,
+      "to": 1729,
+      "title": "穿环而上"
+    },
+    {
+      "id": "12",
+      "from": 1729,
+      "to": 1858,
+      "title": "飞升"
+    },
+    {
+      "id": "13",
+      "from": 1858,
+      "to": 2082,
+      "title": "携光归来"
+    },
+    {
+      "id": "14",
+      "from": 2082,
+      "to": 2282,
+      "title": "世界已改变"
+    }
+  ],
+  "cuts": [
+    {
+      "kind": "scene_cut",
+      "scene": "02",
+      "frame": 236,
+      "seconds": 9.833333333333334,
+      "measured_beat_seconds": 9.82766439909297,
+      "error_ms": 5.669,
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "03",
+      "frame": 462,
+      "seconds": 19.25,
+      "measured_beat_seconds": 19.236281179138324,
+      "error_ms": 13.719,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "04",
+      "frame": 577,
+      "seconds": 24.041666666666668,
+      "measured_beat_seconds": 24.035374149659862,
+      "error_ms": 6.293,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "05",
+      "frame": 692,
+      "seconds": 28.833333333333332,
+      "measured_beat_seconds": 28.834467120181404,
+      "error_ms": -1.134,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "06",
+      "frame": 807,
+      "seconds": 33.625,
+      "measured_beat_seconds": 33.63356009070295,
+      "error_ms": -8.56,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "07",
+      "frame": 973,
+      "seconds": 40.541666666666664,
+      "measured_beat_seconds": 40.52789115646259,
+      "error_ms": 13.776,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "08",
+      "frame": 1145,
+      "seconds": 47.708333333333336,
+      "measured_beat_seconds": 47.72154195011338,
+      "error_ms": -13.209,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "09",
+      "frame": 1261,
+      "seconds": 52.541666666666664,
+      "measured_beat_seconds": 52.53061224489796,
+      "error_ms": 11.054,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "10",
+      "frame": 1383,
+      "seconds": 57.625,
+      "measured_beat_seconds": 57.61904761904762,
+      "error_ms": 5.952,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1441,
+      "seconds": 60.041666666666664,
+      "measured_beat_seconds": 60.03356009070295,
+      "error_ms": 8.107,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1470,
+      "seconds": 61.25,
+      "measured_beat_seconds": 61.23083900226757,
+      "error_ms": 19.161,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "11",
+      "frame": 1556,
+      "seconds": 64.83333333333333,
+      "measured_beat_seconds": 64.82267573696146,
+      "error_ms": 10.658,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1642,
+      "seconds": 68.41666666666667,
+      "measured_beat_seconds": 68.42448979591836,
+      "error_ms": -7.823,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1671,
+      "seconds": 69.625,
+      "measured_beat_seconds": 69.63174603174603,
+      "error_ms": -6.746,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "12",
+      "frame": 1729,
+      "seconds": 72.04166666666667,
+      "measured_beat_seconds": 72.02630385487528,
+      "error_ms": 15.363,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1786,
+      "seconds": 74.41666666666667,
+      "measured_beat_seconds": 74.43083900226758,
+      "error_ms": -14.172,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "reframe_accent",
+      "scene": "",
+      "frame": 1801,
+      "seconds": 75.04166666666667,
+      "measured_beat_seconds": 75.02947845804988,
+      "error_ms": 12.188,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "13",
+      "frame": 1858,
+      "seconds": 77.41666666666667,
+      "measured_beat_seconds": 77.42403628117914,
+      "error_ms": -7.37,
+      "confidence": "medium-high"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "14",
+      "frame": 2082,
+      "seconds": 86.75,
+      "measured_beat_seconds": 86.7328798185941,
+      "error_ms": 17.12,
+      "confidence": "medium-high"
+    }
+  ],
+  "note": "Beat tracking is an estimate, not a verified score transcription. Early quiet introduction has lower confidence."
+}

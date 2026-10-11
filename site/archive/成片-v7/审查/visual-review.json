@@ -1,0 +1,77 @@
+{
+  "status": "reviewed",
+  "reviewed_sha256": "d11e3e13d2466bf595fe2701e4f7a4f48ed41f777f5df79f37dc118e6ebc5bdd",
+  "reviewer": "primary agent",
+  "method": "Viewed all 8 continuous contact sheets (one sample every 12 frames) and all 7 cut-boundary sheets (two preceding frames, the cut frame and two following frames), plus native clip contact sheets and rendered VFX previews. Audio assessed through complete decoded waveform correlation, offset and loudness, not subjective listening.",
+  "continuous_samples": 191,
+  "cut_boundary_samples": 165,
+  "evidence": [
+    "连续-01.jpg",
+    "连续-02.jpg",
+    "连续-03.jpg",
+    "连续-04.jpg",
+    "连续-05.jpg",
+    "连续-06.jpg",
+    "连续-07.jpg",
+    "连续-08.jpg",
+    "切点-01.jpg",
+    "切点-02.jpg",
+    "切点-03.jpg",
+    "切点-04.jpg",
+    "切点-05.jpg",
+    "切点-06.jpg",
+    "切点-07.jpg"
+  ],
+  "open_high_severity_issues": 0,
+  "resolved_issues": [
+    {
+      "severity": "high",
+      "finding": "Original shot 08 inserted bridge running between airborne sections.",
+      "resolution": "Removed native frames 26-95; independently retimed frames 0-25 and 96-123. The final 50.4-57.6 second section now contains only departure and descent; cut is exactly at frame 1296 / 54 seconds.",
+      "evidence": [
+        "连续-05.jpg",
+        "切点-04.jpg",
+        "../选片记录.json"
+      ]
+    },
+    {
+      "severity": "high",
+      "finding": "Earlier edit alternated running after arrival and kneeling after ascent, reversing cause and effect.",
+      "resolution": "Completed the run before the bridge arrival and completed core activation before ascent. Final sampled chronology is take seed, run, stop, decide, leap, activate, ascend, break sky, return.",
+      "evidence": [
+        "连续-03.jpg",
+        "连续-04.jpg",
+        "连续-06.jpg"
+      ]
+    },
+    {
+      "severity": "medium",
+      "finding": "Initial procedural ripple floated above the contact point, and sky light had geometric hard edges.",
+      "resolution": "Placed the ripple on the floor with seed occlusion; softened and reduced the sky light. Final cut and continuous frames show integrated floor light and soft sky illumination.",
+      "evidence": [
+        "切点-04.jpg",
+        "连续-07.jpg"
+      ]
+    },
+    {
+      "severity": "medium",
+      "finding": "First selected-shot concat export used an implicit 25 fps output and shifted the internal cut.",
+      "resolution": "Explicit 24 fps time base, PTS and output rate. Verified 172 frames, 24 fps, largest scene transition at local frame 86, and final frame 1296 on the cut sheet.",
+      "evidence": [
+        "切点-04.jpg"
+      ]
+    }
+  ],
+  "observations": {
+    "narrative": "A burgundy-coated courier takes the seed, chooses the leap, restores the core, ascends and returns to a greener city. Cause and effect remain readable after the chronological fixes.",
+    "rhythm": "Phrase-length shots tighten toward alternating 1.2-second climax inserts. Main compositing cues are frame-quantized near 57.6, 67.2 and 74.4 seconds; the reveal accelerates after the last cue and resolves at 76.8 seconds.",
+    "continuity": "Coat, short dark hair and held seed remain recognizable. The 54-second edit is an intentional temporal/angle jump during descent, not a claim of an unbroken physical simulation.",
+    "finishing": "Warm-grey B palette, restrained highlight roll-off and procedural effects retained; no obvious accidental empty frames, stray UI or broken titles seen in inspected frames. Ending fades over the unchanged musical tail."
+  },
+  "limitations": [
+    "Frame sampling cannot exclude every single-frame artifact and is not a subjective real-time full watch/listen.",
+    "AI facial, hand and architectural micro-details can vary; optical-flow slow motion can soften moving edges.",
+    "No subjective headphone or speaker listening was performed. Audio integrity and synchronization were measured objectively.",
+    "Beat detection and artistic quality remain medium-confidence judgments; verified encoding, frame count and audio offset are high-confidence measurements."
+  ]
+}

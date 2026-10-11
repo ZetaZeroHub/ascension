@@ -1,0 +1,156 @@
+[
+  {
+    "id": "01",
+    "native_frames": 124,
+    "edit_frames": 236,
+    "first_endpoint_pixel_mae_255": 0.2745213508605957,
+    "last_endpoint_pixel_mae_255": 0.40573829412460327,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "02",
+    "native_frames": 124,
+    "edit_frames": 226,
+    "first_endpoint_pixel_mae_255": 0.5893702507019043,
+    "last_endpoint_pixel_mae_255": 0.6678577661514282,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "03",
+    "native_frames": 124,
+    "edit_frames": 115,
+    "first_endpoint_pixel_mae_255": 0.2910045385360718,
+    "last_endpoint_pixel_mae_255": 0.531898558139801,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "04",
+    "native_frames": 124,
+    "edit_frames": 115,
+    "first_endpoint_pixel_mae_255": 0.4408390522003174,
+    "last_endpoint_pixel_mae_255": 0.7344354391098022,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "05",
+    "native_frames": 124,
+    "edit_frames": 115,
+    "first_endpoint_pixel_mae_255": 0.6307311654090881,
+    "last_endpoint_pixel_mae_255": 0.7917048931121826,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "06",
+    "native_frames": 124,
+    "edit_frames": 166,
+    "first_endpoint_pixel_mae_255": 0.4875229299068451,
+    "last_endpoint_pixel_mae_255": 0.8410965204238892,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "07",
+    "native_frames": 124,
+    "edit_frames": 172,
+    "first_endpoint_pixel_mae_255": 0.4707857370376587,
+    "last_endpoint_pixel_mae_255": 0.708217442035675,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "08",
+    "native_frames": 124,
+    "edit_frames": 116,
+    "first_endpoint_pixel_mae_255": 0.3700863718986511,
+    "last_endpoint_pixel_mae_255": 0.7845138311386108,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "09",
+    "native_frames": 124,
+    "edit_frames": 122,
+    "first_endpoint_pixel_mae_255": 0.28292691707611084,
+    "last_endpoint_pixel_mae_255": 0.5379367470741272,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "10",
+    "native_frames": 124,
+    "edit_frames": 173,
+    "first_endpoint_pixel_mae_255": 0.5855700373649597,
+    "last_endpoint_pixel_mae_255": 0.9606983065605164,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "11",
+    "native_frames": 124,
+    "edit_frames": 173,
+    "first_endpoint_pixel_mae_255": 0.4779965281486511,
+    "last_endpoint_pixel_mae_255": 0.6512007117271423,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "12",
+    "native_frames": 124,
+    "edit_frames": 129,
+    "first_endpoint_pixel_mae_255": 0.6870290040969849,
+    "last_endpoint_pixel_mae_255": 1.1555323600769043,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "13",
+    "native_frames": 124,
+    "edit_frames": 224,
+    "first_endpoint_pixel_mae_255": 0.39026495814323425,
+    "last_endpoint_pixel_mae_255": 0.6159347295761108,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "id": "14",
+    "native_frames": 124,
+    "edit_frames": 200,
+    "first_endpoint_pixel_mae_255": 0.5355520248413086,
+    "last_endpoint_pixel_mae_255": 0.7379902601242065,
+    "graded_size": [
+      1920,
+      1080
+    ]
+  }
+]

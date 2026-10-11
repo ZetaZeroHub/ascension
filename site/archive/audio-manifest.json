@@ -1,0 +1,19 @@
+{
+  "routing_profile": "user-provided-original-instrumental",
+  "provider": "local user file",
+  "service": "offline FFmpeg",
+  "model": null,
+  "voice_id": null,
+  "duration_seconds": 95.08136054421769,
+  "processing": "Decode AAC priming, retain original speed and full song; static -6 dB gain; 48 kHz stereo PCM24 master. No added voice, music or SFX.",
+  "assets": [
+    {
+      "path": "public/audio/feisheng-original.m4a",
+      "sha256": "b4352101a9c1c689ab6336ffb36074dbcc0295827ffac88c8da096f4c87c531d"
+    },
+    {
+      "path": "public/audio/feisheng-master.wav",
+      "sha256": "79c35b5658c71dc60ddf078dbc84535a6d44b853c07bc6c4314bf062f9c5fde8"
+    }
+  ]
+}

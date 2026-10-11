@@ -1,0 +1,32 @@
+{
+  "eid": "10-A",
+  "prompt_id": "55e7873c-353b-40bd-8f80-8deef2f7c065",
+  "file": "clips\\10-A.mp4",
+  "native_file": "native\\10-A.mp4",
+  "native_size": [
+    640,
+    384
+  ],
+  "resolution_note": "Generated at 640x384, centre-cropped to 640x360 and Lanczos scaled to 1280x720",
+  "steps": 8,
+  "turbo": true,
+  "seed": 26101110,
+  "style_adapter": "FeishengStyleV11/minimax_h3_looping_sketch_anime_v1.safetensors",
+  "style_strength": 0.85,
+  "first_frame_sha256": "7b6b1f423a7e348166eac9cdaf2a72ac8708f09df0f77ba37b98512c0963a40e",
+  "generation_seconds": 166.927,
+  "sha256": "f25b8472b8dd8589bb7473cd79ff850b73454e4d81c287cc2efa6c3e8dcdde85",
+  "native_sha256": "402aecb98e7ae4a21e60a8e11b36434f379d93afbbd7f0de8fe8cca0f4edbbb6",
+  "verified": true,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "frames": 73,
+  "duration_seconds": 3.0416666666666665,
+  "audio_streams": 0,
+  "black_frames": [],
+  "mean_frame_change": 1.0049459917677774,
+  "max_frame_change": 1.5560417175292969
+}

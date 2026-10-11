@@ -1,0 +1,60 @@
+{
+  "shot": "21",
+  "name": "近景律动",
+  "prompt_id": "a3570c50-1b9d-456e-8697-5c22aa88ce35",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 2002.793,
+  "interpolation_seconds": 45.69638538360596,
+  "seed": 26100821,
+  "source_reference_sha256": "3224b437b864d52c0e273dcc138ff18ec739791e726a7f2b84f66104bd77d48b",
+  "native_sha256": "e50e56eb51312ac27d30691fb7f5f5f99e718bc27c6dcabf56fc2df5dbcbd209",
+  "master_sha256": "5b64ce9618321913835bc44ff76af2e261f979aad252e642d41cd8ecf67b1ad9",
+  "smooth_sha256": "cbffe83513798bd7d772aeaff86183fd35ea4495f48f8df16a83752c58c8e171",
+  "master_file": "24fps母版\\21-近景律动.mp4",
+  "smooth_file": "48fps剪辑版\\21-近景律动.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\21-近景律动.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 2.737981778213648,
+    "max_frame_change": 5.439953804016113,
+    "sha256": "5b64ce9618321913835bc44ff76af2e261f979aad252e642d41cd8ecf67b1ad9"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\21-近景律动.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.5356122504670913,
+    "max_frame_change": 3.1111342906951904,
+    "sha256": "cbffe83513798bd7d772aeaff86183fd35ea4495f48f8df16a83752c58c8e171"
+  },
+  "visual_review": "pending"
+}

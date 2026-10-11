@@ -1,0 +1,20 @@
+{
+  "shot": "15",
+  "prompt_id": "12c63ae6-2c74-4d2a-b9a6-69db0bcbfc43",
+  "generation_seconds": 201.25,
+  "native_size": [
+    640,
+    384
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "frames": 124,
+  "fps": 24,
+  "steps": 8,
+  "seed": 26100815,
+  "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+  "reference_mode": "image-to-video",
+  "sha256": "dba49f6a1e3b3d5254879fd2875b76e9f8ad42d338b81c272e3a4b5355b98250"
+}

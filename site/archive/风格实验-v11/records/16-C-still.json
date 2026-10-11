@@ -1,0 +1,14 @@
+{
+  "id": "16-C",
+  "shot": "16",
+  "style": "C",
+  "imagegen_file": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-4f885c7f-047f-42a2-b037-7ab73ee25f83.png",
+  "prompt": "Transform the first reference image into one refined 16:9 cinematic film still, using the second image only as a dry mineral texture and colour reference. Keep the same fully clothed adult characters, recognizable faces, short hairstyles, poses, exact camera composition, and architectural or studio layout. Warm weathered terracotta stone, deep ultramarine shadows, muted burgundy fabric, soft dusty amber light, natural matte portrait texture, fine analogue film grain, restrained contrast and soft highlight rolloff. Preserve the existing floating city, city portrait, or three-person dance scene as shown. In the dance scene keep the dark studio. Make surfaces dry and tactile and the lighting calm and cinematic. One complete wide image, no collage, captions, border, logos or extra subjects.",
+  "engine": "built-in image_gen",
+  "sha256": "133c2f1d8da04445b05889510523c257afc5126d641d3aecee13d70bcabd1233",
+  "size": [
+    1672,
+    941
+  ],
+  "delivered_file": "frames\\16-C.png"
+}

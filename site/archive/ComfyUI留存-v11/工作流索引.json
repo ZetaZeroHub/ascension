@@ -1,0 +1,2031 @@
+[
+  {
+    "group": "早期红绸",
+    "name": "01.json",
+    "original_api": "outputs/Feisheng-MV/工作流/01-API.json",
+    "api_sha256": "e7ccc97ecd7f8730fb77f7c6fe4d4d98142fc82325df6da38477f8b65d3e9195",
+    "retained_api": "API/早期红绸/01-API.json",
+    "retained_native": "工作流/早期红绸/01.json",
+    "comfy_native": "<LOCAL_PATH>/01.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/01.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/01-first.png",
+        "path": "<LOCAL_PATH>/01-first.png",
+        "exists": true,
+        "sha256": "e9c3cac214916c0b19d64a3c71d4195abc84e39edfc9e45b2e94afc9fad6a7c1",
+        "bytes": 1856862,
+        "archived_path": "inputs/Feisheng/01-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/01-last.png",
+        "path": "<LOCAL_PATH>/01-last.png",
+        "exists": true,
+        "sha256": "6cdeb61b1ce11500dd37170dcb54ad74e5e958bfc8b0f03f261cf38473080fc3",
+        "bytes": 1628819,
+        "archived_path": "inputs/Feisheng/01-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/01-history.json",
+      "records/早期红绸/01-submitted.json",
+      "records/早期红绸/01-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "02.json",
+    "original_api": "outputs/Feisheng-MV/工作流/02-API.json",
+    "api_sha256": "441141c110d34fd81412131821d728f3023366d1cb9c581be0a45f0e45c083b8",
+    "retained_api": "API/早期红绸/02-API.json",
+    "retained_native": "工作流/早期红绸/02.json",
+    "comfy_native": "<LOCAL_PATH>/02.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/02.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/02-first.png",
+        "path": "<LOCAL_PATH>/02-first.png",
+        "exists": true,
+        "sha256": "403cb1bc6268fe320b5ac5dc7fabeb2d71e8846799002f19d60cfb16070fd858",
+        "bytes": 2268854,
+        "archived_path": "inputs/Feisheng/02-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/02-last.png",
+        "path": "<LOCAL_PATH>/02-last.png",
+        "exists": true,
+        "sha256": "64a16950aae7540e756ae76453576f34e7c39d0c97ef2910de50b520d880285a",
+        "bytes": 2100653,
+        "archived_path": "inputs/Feisheng/02-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/02-history.json",
+      "records/早期红绸/02-submitted.json",
+      "records/早期红绸/02-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "03.json",
+    "original_api": "outputs/Feisheng-MV/工作流/03-API.json",
+    "api_sha256": "ede9c409e02e363a611bca1bc2a5ca7b4d0244ae29841cda9087c86bc1c6846d",
+    "retained_api": "API/早期红绸/03-API.json",
+    "retained_native": "工作流/早期红绸/03.json",
+    "comfy_native": "<LOCAL_PATH>/03.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/03.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/03-first.png",
+        "path": "<LOCAL_PATH>/03-first.png",
+        "exists": true,
+        "sha256": "8987759f1eceb98693eb83da8481237358739165bb89622f6f9055abe77bfbef",
+        "bytes": 1754524,
+        "archived_path": "inputs/Feisheng/03-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/03-last.png",
+        "path": "<LOCAL_PATH>/03-last.png",
+        "exists": true,
+        "sha256": "8ced71b247622523459339805836a4e7f4bea9caaf51ab9215d66c645b7f852c",
+        "bytes": 1747118,
+        "archived_path": "inputs/Feisheng/03-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/03-history.json",
+      "records/早期红绸/03-submitted.json",
+      "records/早期红绸/03-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "04.json",
+    "original_api": "outputs/Feisheng-MV/工作流/04-API.json",
+    "api_sha256": "75a0e9a4ba2719d4e7c48bad7771ceb96a2fd2ca8e5359a8a9dc9ad6c1595c58",
+    "retained_api": "API/早期红绸/04-API.json",
+    "retained_native": "工作流/早期红绸/04.json",
+    "comfy_native": "<LOCAL_PATH>/04.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/04.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/04-first.png",
+        "path": "<LOCAL_PATH>/04-first.png",
+        "exists": true,
+        "sha256": "71c33f3e688e7a8b278b4885fe593e0adafbe50504b34faa6bc254680ad7ab3d",
+        "bytes": 1871456,
+        "archived_path": "inputs/Feisheng/04-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/04-last.png",
+        "path": "<LOCAL_PATH>/04-last.png",
+        "exists": true,
+        "sha256": "c744da540f22f7850803bd9d8b1490035f72f068d104d3e7c5b45a8861a4ef90",
+        "bytes": 1762676,
+        "archived_path": "inputs/Feisheng/04-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/04-history.json",
+      "records/早期红绸/04-submitted.json",
+      "records/早期红绸/04-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "05.json",
+    "original_api": "outputs/Feisheng-MV/工作流/05-API.json",
+    "api_sha256": "45abda9b07052c872324658bdf695b78ce1842b33a4abe3d2a73cabeaf8eca5f",
+    "retained_api": "API/早期红绸/05-API.json",
+    "retained_native": "工作流/早期红绸/05.json",
+    "comfy_native": "<LOCAL_PATH>/05.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/05.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/05-first.png",
+        "path": "<LOCAL_PATH>/05-first.png",
+        "exists": true,
+        "sha256": "4432b908dea16a179f7e6afa42c3f509c35eb53a2a95b51e1ee11f9fa3f819fb",
+        "bytes": 2176574,
+        "archived_path": "inputs/Feisheng/05-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/05-last.png",
+        "path": "<LOCAL_PATH>/05-last.png",
+        "exists": true,
+        "sha256": "ca16496ddff4d4237307502d4ac6728450592d7f6aff224a7fae0dbfe4150c68",
+        "bytes": 2042318,
+        "archived_path": "inputs/Feisheng/05-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/05-history.json",
+      "records/早期红绸/05-submitted.json",
+      "records/早期红绸/05-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "06.json",
+    "original_api": "outputs/Feisheng-MV/工作流/06-API.json",
+    "api_sha256": "e8dd922037439d9431ee8ac6c0908ea4be486291381e1c38d437985ea0e2b61a",
+    "retained_api": "API/早期红绸/06-API.json",
+    "retained_native": "工作流/早期红绸/06.json",
+    "comfy_native": "<LOCAL_PATH>/06.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/06.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/06-first.png",
+        "path": "<LOCAL_PATH>/06-first.png",
+        "exists": true,
+        "sha256": "0cf8937a679f347a2f6493a2d90ee292b570642c104de485e1eefb134d5f4299",
+        "bytes": 1917153,
+        "archived_path": "inputs/Feisheng/06-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/06-last.png",
+        "path": "<LOCAL_PATH>/06-last.png",
+        "exists": true,
+        "sha256": "4bd7a1266988484f356974ee0ad2c828debb9fa6b6433c20f695b587876f94a9",
+        "bytes": 1976774,
+        "archived_path": "inputs/Feisheng/06-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/06-history.json",
+      "records/早期红绸/06-submitted.json",
+      "records/早期红绸/06-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "07.json",
+    "original_api": "outputs/Feisheng-MV/工作流/07-API.json",
+    "api_sha256": "65f4d3512c168ed62bda3f44d430eaab90da191ff00d1a1dd975f8b0e9d667b0",
+    "retained_api": "API/早期红绸/07-API.json",
+    "retained_native": "工作流/早期红绸/07.json",
+    "comfy_native": "<LOCAL_PATH>/07.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/07.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/07-first.png",
+        "path": "<LOCAL_PATH>/07-first.png",
+        "exists": true,
+        "sha256": "9bf673dba2daa79b778f4048ff74d7ebc31a64c3f991c8ec1049c7e5d900545e",
+        "bytes": 1908177,
+        "archived_path": "inputs/Feisheng/07-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/07-last.png",
+        "path": "<LOCAL_PATH>/07-last.png",
+        "exists": true,
+        "sha256": "dd56ccb458db3d07b2f207d46ec892e128c8472044a0df0961e5407c7182b722",
+        "bytes": 1694942,
+        "archived_path": "inputs/Feisheng/07-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/07-history.json",
+      "records/早期红绸/07-submitted.json",
+      "records/早期红绸/07-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "08.json",
+    "original_api": "outputs/Feisheng-MV/工作流/08-API.json",
+    "api_sha256": "afb01bb0c3b119e35ffa0e09626bfc8f5b0a77c3dbcaca6a50d120245b5e3b5d",
+    "retained_api": "API/早期红绸/08-API.json",
+    "retained_native": "工作流/早期红绸/08.json",
+    "comfy_native": "<LOCAL_PATH>/08.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/08.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/08-first.png",
+        "path": "<LOCAL_PATH>/08-first.png",
+        "exists": true,
+        "sha256": "bc035e00e5bc4d835a1033b8f2ed2cf71c70216e47aebb1cb19221c6def003e0",
+        "bytes": 1829968,
+        "archived_path": "inputs/Feisheng/08-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/08-last.png",
+        "path": "<LOCAL_PATH>/08-last.png",
+        "exists": true,
+        "sha256": "a32f06d01ced2fb3938540eac67b5bbc13e8ffece099aba5b0c5b6f5cbe8c450",
+        "bytes": 1908385,
+        "archived_path": "inputs/Feisheng/08-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/08-history.json",
+      "records/早期红绸/08-submitted.json",
+      "records/早期红绸/08-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "09.json",
+    "original_api": "outputs/Feisheng-MV/工作流/09-API.json",
+    "api_sha256": "44c00ecbf90bcdcfed8a6b8ae0a41e245630f9bccb10779f99e1c73acc439437",
+    "retained_api": "API/早期红绸/09-API.json",
+    "retained_native": "工作流/早期红绸/09.json",
+    "comfy_native": "<LOCAL_PATH>/09.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/09.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/09-first.png",
+        "path": "<LOCAL_PATH>/09-first.png",
+        "exists": true,
+        "sha256": "898a9ce0daa9b6b33e3a33dab341096ed087ac26d9e158a369a42ef68db36400",
+        "bytes": 1717267,
+        "archived_path": "inputs/Feisheng/09-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/09-last.png",
+        "path": "<LOCAL_PATH>/09-last.png",
+        "exists": true,
+        "sha256": "530a6608f2c07bcaad2fd8d3c72af23f8b838efe11f296045f2e1d38522be3d8",
+        "bytes": 1704382,
+        "archived_path": "inputs/Feisheng/09-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/09-history.json",
+      "records/早期红绸/09-submitted.json",
+      "records/早期红绸/09-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "10.json",
+    "original_api": "outputs/Feisheng-MV/工作流/10-API.json",
+    "api_sha256": "f26bdc5551d623437829b71acee906e170be8824b15bcb3d6b711ad6ece494f6",
+    "retained_api": "API/早期红绸/10-API.json",
+    "retained_native": "工作流/早期红绸/10.json",
+    "comfy_native": "<LOCAL_PATH>/10.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/10.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/10-first.png",
+        "path": "<LOCAL_PATH>/10-first.png",
+        "exists": true,
+        "sha256": "1380b129f2b94a4cc0367424972354099b62af1584829b99db853d8463a776b3",
+        "bytes": 2032240,
+        "archived_path": "inputs/Feisheng/10-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/10-last.png",
+        "path": "<LOCAL_PATH>/10-last.png",
+        "exists": true,
+        "sha256": "0238a344fbfa3c6b3a512a3a04bf14de9c0d703f656262a0ee71beac354f51b5",
+        "bytes": 2027187,
+        "archived_path": "inputs/Feisheng/10-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/10-history.json",
+      "records/早期红绸/10-submitted.json",
+      "records/早期红绸/10-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "11.json",
+    "original_api": "outputs/Feisheng-MV/工作流/11-API.json",
+    "api_sha256": "d837244fc5fb0a39fab210793dae8a8562760612b1bd75b6cf7da7d1cd88d8cb",
+    "retained_api": "API/早期红绸/11-API.json",
+    "retained_native": "工作流/早期红绸/11.json",
+    "comfy_native": "<LOCAL_PATH>/11.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/11.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/11-first.png",
+        "path": "<LOCAL_PATH>/11-first.png",
+        "exists": true,
+        "sha256": "9d9b12d5ecdfc9c8bf1beda63a202a3ac11bb1ccfe4b266c0fa6a04a085c50d8",
+        "bytes": 2069538,
+        "archived_path": "inputs/Feisheng/11-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/11-last.png",
+        "path": "<LOCAL_PATH>/11-last.png",
+        "exists": true,
+        "sha256": "6a139a50f694271a57c76885f464f9238ea3a9659fb971185a59c7f08232861e",
+        "bytes": 1972738,
+        "archived_path": "inputs/Feisheng/11-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/11-history.json",
+      "records/早期红绸/11-submitted.json",
+      "records/早期红绸/11-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "12.json",
+    "original_api": "outputs/Feisheng-MV/工作流/12-API.json",
+    "api_sha256": "1935a313c101fd714c365aef8243c0569ae81167186cd79997df531895a87ed4",
+    "retained_api": "API/早期红绸/12-API.json",
+    "retained_native": "工作流/早期红绸/12.json",
+    "comfy_native": "<LOCAL_PATH>/12.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/12.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/12-first.png",
+        "path": "<LOCAL_PATH>/12-first.png",
+        "exists": true,
+        "sha256": "fae3d4a59e65419caa80b8794594174294ca92f040d22fd6489a11a77ce57145",
+        "bytes": 2145369,
+        "archived_path": "inputs/Feisheng/12-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/12-last.png",
+        "path": "<LOCAL_PATH>/12-last.png",
+        "exists": true,
+        "sha256": "a441109283f6f89b420a6082b1d56365ae13e8660c1f28179f925e1f29be0642",
+        "bytes": 2246690,
+        "archived_path": "inputs/Feisheng/12-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/12-history.json",
+      "records/早期红绸/12-submitted.json",
+      "records/早期红绸/12-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "13.json",
+    "original_api": "outputs/Feisheng-MV/工作流/13-API.json",
+    "api_sha256": "2c0069715ef3baed70ab6add5374290fb4b215f8756a000478740cec16ccba8a",
+    "retained_api": "API/早期红绸/13-API.json",
+    "retained_native": "工作流/早期红绸/13.json",
+    "comfy_native": "<LOCAL_PATH>/13.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/13.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/13-first.png",
+        "path": "<LOCAL_PATH>/13-first.png",
+        "exists": true,
+        "sha256": "cf3ebb7bb9ee350d6cdd8195c4162ca2575ce6672320dfeb6840f21bc69471f7",
+        "bytes": 1816174,
+        "archived_path": "inputs/Feisheng/13-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/13-last.png",
+        "path": "<LOCAL_PATH>/13-last.png",
+        "exists": true,
+        "sha256": "c17116d7d95d91e145ffeacd5ee6e7b27c8bed58f00552a4440cce37d2b75796",
+        "bytes": 1760738,
+        "archived_path": "inputs/Feisheng/13-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/13-history.json",
+      "records/早期红绸/13-submitted.json",
+      "records/早期红绸/13-manifest.json"
+    ]
+  },
+  {
+    "group": "早期红绸",
+    "name": "14.json",
+    "original_api": "outputs/Feisheng-MV/工作流/14-API.json",
+    "api_sha256": "f330e3c9f6e9dc8dedf000442790a92188ac8ae6dfd5706a5268d040dbfab562",
+    "retained_api": "API/早期红绸/14-API.json",
+    "retained_native": "工作流/早期红绸/14.json",
+    "comfy_native": "<LOCAL_PATH>/14.json",
+    "comfy_userdata": "workflows/Feisheng-MV/早期红绸/14.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "Feisheng/14-first.png",
+        "path": "<LOCAL_PATH>/14-first.png",
+        "exists": true,
+        "sha256": "4c87f15f271031453936181b102e9e8f9dfbbab0b0420694305ec289b6146e8c",
+        "bytes": 1841155,
+        "archived_path": "inputs/Feisheng/14-first.png"
+      },
+      {
+        "comfy_input": "Feisheng/14-last.png",
+        "path": "<LOCAL_PATH>/14-last.png",
+        "exists": true,
+        "sha256": "a1c567a46976eb4e670240200f91b1c5a882bdd682d8d6033f511c0f76a53d30",
+        "bytes": 1802239,
+        "archived_path": "inputs/Feisheng/14-last.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/早期红绸/14-history.json",
+      "records/早期红绸/14-submitted.json",
+      "records/早期红绸/14-manifest.json"
+    ]
+  },
+  {
+    "group": "快速档示例",
+    "name": "22-example.json",
+    "original_api": "outputs/Feisheng-MV/快速档-5分钟/22-example-API.json",
+    "api_sha256": "5a6065578ddda9382227f793368f560c0136622bc129e589bbc1512e7bcbfe64",
+    "retained_api": "API/快速档示例/22-example-API.json",
+    "retained_native": "工作流/快速档示例/22-example.json",
+    "comfy_native": "<LOCAL_PATH>/22-example.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速档示例/22-example.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengQuick5/22-example.png",
+        "path": "<LOCAL_PATH>/22-example.png",
+        "exists": true,
+        "sha256": "48a43084383f378f4dd0da8494c0cb6e3f765865b526fe861de1d46f89c1baa5",
+        "bytes": 2326533,
+        "archived_path": "inputs/FeishengQuick5/22-example.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  },
+  {
+    "group": "剧情-v7",
+    "name": "01.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/01-API.json",
+    "api_sha256": "9e6dca18365db01d59e7c59b45519110a7afe7c655e11be0058f956b8a58896c",
+    "retained_api": "API/剧情-v7/01-API.json",
+    "retained_native": "工作流/剧情-v7/01.json",
+    "comfy_native": "<LOCAL_PATH>/01.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/01.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/01.png",
+        "path": "<LOCAL_PATH>/01.png",
+        "exists": true,
+        "sha256": "4c889d16a930e64bf82f6fc476fcea92bf390129f3d0e1ae1c2f9891071929fb",
+        "bytes": 2613052,
+        "archived_path": "inputs/FeishengV7/01.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/01-history.json",
+      "records/剧情-v7/01-submitted.json",
+      "records/剧情-v7/01-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "02.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/02-API.json",
+    "api_sha256": "7161f5fe6ff5ec718cca7c03f994fa36b2444ac7e34d369bd9d71e5436019d79",
+    "retained_api": "API/剧情-v7/02-API.json",
+    "retained_native": "工作流/剧情-v7/02.json",
+    "comfy_native": "<LOCAL_PATH>/02.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/02.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/02.png",
+        "path": "<LOCAL_PATH>/02.png",
+        "exists": true,
+        "sha256": "6500923ded7643d0a3295d5207e9260efdb38bfe08e86230f3979441027d6d19",
+        "bytes": 1943761,
+        "archived_path": "inputs/FeishengV7/02.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/02-history.json",
+      "records/剧情-v7/02-submitted.json",
+      "records/剧情-v7/02-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "03.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/03-API.json",
+    "api_sha256": "66e85179eba8d510ee5476e3755149105d2c3beef02675939891d2fb8fa22a60",
+    "retained_api": "API/剧情-v7/03-API.json",
+    "retained_native": "工作流/剧情-v7/03.json",
+    "comfy_native": "<LOCAL_PATH>/03.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/03.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/03.png",
+        "path": "<LOCAL_PATH>/03.png",
+        "exists": true,
+        "sha256": "8ac5214eb507cc3e4d288145042258ca6c61f1b0c051483927371c75c81b3ad8",
+        "bytes": 2125536,
+        "archived_path": "inputs/FeishengV7/03.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/03-history.json",
+      "records/剧情-v7/03-submitted.json",
+      "records/剧情-v7/03-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "04.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/04-API.json",
+    "api_sha256": "dc45ecda0ef73b4706c1329dd7aa1bc9873054d36aea2d88242cdde3bf9d1f95",
+    "retained_api": "API/剧情-v7/04-API.json",
+    "retained_native": "工作流/剧情-v7/04.json",
+    "comfy_native": "<LOCAL_PATH>/04.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/04.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/04.png",
+        "path": "<LOCAL_PATH>/04.png",
+        "exists": true,
+        "sha256": "1b3f48f215a7663218fa3ebedb9b5c58b66ea9c1be76bc9868a41c73cc32be02",
+        "bytes": 2160233,
+        "archived_path": "inputs/FeishengV7/04.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/04-history.json",
+      "records/剧情-v7/04-submitted.json",
+      "records/剧情-v7/04-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "05.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/05-API.json",
+    "api_sha256": "cb835d29a3f4bad62741313ce7b4fc541a48ea6dffa02e2a0ee0212fd9160807",
+    "retained_api": "API/剧情-v7/05-API.json",
+    "retained_native": "工作流/剧情-v7/05.json",
+    "comfy_native": "<LOCAL_PATH>/05.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/05.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/05.png",
+        "path": "<LOCAL_PATH>/05.png",
+        "exists": true,
+        "sha256": "e453930ff2f28af33a149414e8dcd5eae162b313d0a8495c2d40fb22925f85dd",
+        "bytes": 2103211,
+        "archived_path": "inputs/FeishengV7/05.png"
+      },
+      {
+        "comfy_input": "FeishengV7/character.png",
+        "path": "<LOCAL_PATH>/character.png",
+        "exists": true,
+        "sha256": "b4bbdbc734f2c794ba0b62e6f1313a93df4a8d91578268f8ca48c8be197e465e",
+        "bytes": 2048753,
+        "archived_path": "inputs/FeishengV7/character.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/05-history.json",
+      "records/剧情-v7/05-submitted.json",
+      "records/剧情-v7/05-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "06.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/06-API.json",
+    "api_sha256": "4d4044fa9df211cb8c02d22d717d9a4ecab59067ef202727492ef80c92f63ba3",
+    "retained_api": "API/剧情-v7/06-API.json",
+    "retained_native": "工作流/剧情-v7/06.json",
+    "comfy_native": "<LOCAL_PATH>/06.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/06.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/06.png",
+        "path": "<LOCAL_PATH>/06.png",
+        "exists": true,
+        "sha256": "f7d05f2ad85cea45a83461613e3828b468288cc528d54faeac4ab027ec403e90",
+        "bytes": 2609699,
+        "archived_path": "inputs/FeishengV7/06.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/06-history.json",
+      "records/剧情-v7/06-submitted.json",
+      "records/剧情-v7/06-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "07.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/07-API.json",
+    "api_sha256": "cd33b8d8744541fafdcbaebc8ffdd39e19dbbc916af2b7d369b3461504052023",
+    "retained_api": "API/剧情-v7/07-API.json",
+    "retained_native": "工作流/剧情-v7/07.json",
+    "comfy_native": "<LOCAL_PATH>/07.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/07.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/07.png",
+        "path": "<LOCAL_PATH>/07.png",
+        "exists": true,
+        "sha256": "489c98bef642dcfcc4986c36a88abe4541887185a6adbeb61bea98268cf0f061",
+        "bytes": 2224787,
+        "archived_path": "inputs/FeishengV7/07.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/07-history.json",
+      "records/剧情-v7/07-submitted.json",
+      "records/剧情-v7/07-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "08.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/08-API.json",
+    "api_sha256": "045212e996165c09f26427ffca54acea66b0a39be916f4cfe6b215478ea4c768",
+    "retained_api": "API/剧情-v7/08-API.json",
+    "retained_native": "工作流/剧情-v7/08.json",
+    "comfy_native": "<LOCAL_PATH>/08.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/08.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/08.png",
+        "path": "<LOCAL_PATH>/08.png",
+        "exists": true,
+        "sha256": "7c139e4fa3494fc4524922b3b982e07e2f099d6a720d54caceae4c6d323cea42",
+        "bytes": 2240199,
+        "archived_path": "inputs/FeishengV7/08.png"
+      },
+      {
+        "comfy_input": "FeishengV7/character.png",
+        "path": "<LOCAL_PATH>/character.png",
+        "exists": true,
+        "sha256": "b4bbdbc734f2c794ba0b62e6f1313a93df4a8d91578268f8ca48c8be197e465e",
+        "bytes": 2048753,
+        "archived_path": "inputs/FeishengV7/character.png"
+      },
+      {
+        "comfy_input": "FeishengV7/05-motion.mp4",
+        "path": "<LOCAL_PATH>/05-motion.mp4",
+        "exists": true,
+        "sha256": "3b43798be11929db072674723b3ec2a1294a48dc099a08850fd877c8495a3e9e",
+        "bytes": 2834660,
+        "archived_path": "inputs/FeishengV7/05-motion.mp4"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/08-history.json",
+      "records/剧情-v7/08-submitted.json",
+      "records/剧情-v7/08-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "09.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/09-API.json",
+    "api_sha256": "646cd8706fffd8ab17cb865ffdd0c2207eb27748582c6b0485d4cde0fc0d66c4",
+    "retained_api": "API/剧情-v7/09-API.json",
+    "retained_native": "工作流/剧情-v7/09.json",
+    "comfy_native": "<LOCAL_PATH>/09.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/09.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/09.png",
+        "path": "<LOCAL_PATH>/09.png",
+        "exists": true,
+        "sha256": "1939995cb3407ea05cf6790b97fb54f79f3b865738fea74399cdb7ef124d69b1",
+        "bytes": 2228960,
+        "archived_path": "inputs/FeishengV7/09.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/09-history.json",
+      "records/剧情-v7/09-submitted.json",
+      "records/剧情-v7/09-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "10.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/10-API.json",
+    "api_sha256": "1495a98afb49c79719ceadf1bb4dadd7dc2099c95541e7647bde6b63935b3718",
+    "retained_api": "API/剧情-v7/10-API.json",
+    "retained_native": "工作流/剧情-v7/10.json",
+    "comfy_native": "<LOCAL_PATH>/10.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/10.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/10.png",
+        "path": "<LOCAL_PATH>/10.png",
+        "exists": true,
+        "sha256": "792209379812821d394579f22b874dc93a7b4476632b0b382cf07521c85e9e02",
+        "bytes": 2699756,
+        "archived_path": "inputs/FeishengV7/10.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/10-history.json",
+      "records/剧情-v7/10-submitted.json",
+      "records/剧情-v7/10-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "11.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/11-API.json",
+    "api_sha256": "b81a7a970198d5549773ecbed2f0a2a87f75633825805cf0a1cd20f4cc088251",
+    "retained_api": "API/剧情-v7/11-API.json",
+    "retained_native": "工作流/剧情-v7/11.json",
+    "comfy_native": "<LOCAL_PATH>/11.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/11.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/11.png",
+        "path": "<LOCAL_PATH>/11.png",
+        "exists": true,
+        "sha256": "04636c73e0fead5492eff179a6d64e2de7ff75d4213cf0ba3f5b14cfeac39f56",
+        "bytes": 2957416,
+        "archived_path": "inputs/FeishengV7/11.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/11-history.json",
+      "records/剧情-v7/11-submitted.json",
+      "records/剧情-v7/11-manifest.json"
+    ]
+  },
+  {
+    "group": "剧情-v7",
+    "name": "12.json",
+    "original_api": "outputs/Feisheng-MV/成片-v7/workflows/12-API.json",
+    "api_sha256": "1ed0dbe01ef4389b928053c893c81196fd639f665a596736114d4545ff93746a",
+    "retained_api": "API/剧情-v7/12-API.json",
+    "retained_native": "工作流/剧情-v7/12.json",
+    "comfy_native": "<LOCAL_PATH>/12.json",
+    "comfy_userdata": "workflows/Feisheng-MV/剧情-v7/12.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengV7/12.png",
+        "path": "<LOCAL_PATH>/12.png",
+        "exists": true,
+        "sha256": "99e8dd5c0ba8e52de463e55303eec02933e24ee4283d614ed73c5b81c38818ae",
+        "bytes": 2608376,
+        "archived_path": "inputs/FeishengV7/12.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/剧情-v7/12-history.json",
+      "records/剧情-v7/12-submitted.json",
+      "records/剧情-v7/12-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "13.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/13-API.json",
+    "api_sha256": "97db855fa066532be3d154184d018fd6f19a27e7011bc891793b26f3471169e8",
+    "retained_api": "API/快速-v9/13-API.json",
+    "retained_native": "工作流/快速-v9/13.json",
+    "comfy_native": "<LOCAL_PATH>/13.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/13.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/13.png",
+        "path": "<LOCAL_PATH>/13.png",
+        "exists": true,
+        "sha256": "370edd070966013703289c1d56620e8a8bd5f3ea0eb2bf25309c22c4c524c69c",
+        "bytes": 2082548,
+        "archived_path": "inputs/FeishengFastV9/13.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/13-history.json",
+      "records/快速-v9/13-submitted.json",
+      "records/快速-v9/13-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "14.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/14-API.json",
+    "api_sha256": "01364996d6390b86ecefd95312c42be43d22ea088298fc5754ddae4c5ece6325",
+    "retained_api": "API/快速-v9/14-API.json",
+    "retained_native": "工作流/快速-v9/14.json",
+    "comfy_native": "<LOCAL_PATH>/14.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/14.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/14.png",
+        "path": "<LOCAL_PATH>/14.png",
+        "exists": true,
+        "sha256": "e4d8e15fd4a4bfb7743eac8d1c928d345d2c000a11a9dc3c40c94a9201932361",
+        "bytes": 2192272,
+        "archived_path": "inputs/FeishengFastV9/14.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/14-history.json",
+      "records/快速-v9/14-submitted.json",
+      "records/快速-v9/14-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "15.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/15-API.json",
+    "api_sha256": "17aafec5dfa877e087e8587d23aab97fcb306e624125b792dcb46335b35bc32b",
+    "retained_api": "API/快速-v9/15-API.json",
+    "retained_native": "工作流/快速-v9/15.json",
+    "comfy_native": "<LOCAL_PATH>/15.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/15.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/15.png",
+        "path": "<LOCAL_PATH>/15.png",
+        "exists": true,
+        "sha256": "ac62fa5a03e2ba8fd0deb16ed541afd477732e905e72153c5865a591768fde0b",
+        "bytes": 2117390,
+        "archived_path": "inputs/FeishengFastV9/15.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/15-history.json",
+      "records/快速-v9/15-submitted.json",
+      "records/快速-v9/15-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "16.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/16-API.json",
+    "api_sha256": "c3b236a31ac287b0120dd6746c28f4cf4898c0c77336c36d44b8e20f287ec733",
+    "retained_api": "API/快速-v9/16-API.json",
+    "retained_native": "工作流/快速-v9/16.json",
+    "comfy_native": "<LOCAL_PATH>/16.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/16.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/16.png",
+        "path": "<LOCAL_PATH>/16.png",
+        "exists": true,
+        "sha256": "7263b5f50aba207df67abd527ebc99332c1cd7ed4762b3fa9a579bf0fca7529a",
+        "bytes": 2048324,
+        "archived_path": "inputs/FeishengFastV9/16.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/16-history.json",
+      "records/快速-v9/16-submitted.json",
+      "records/快速-v9/16-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "17.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/17-API.json",
+    "api_sha256": "4f97f77fecfb963cbeed623dba7038cc9e73b88e0794d9967b40473cdf6818e9",
+    "retained_api": "API/快速-v9/17-API.json",
+    "retained_native": "工作流/快速-v9/17.json",
+    "comfy_native": "<LOCAL_PATH>/17.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/17.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/17.png",
+        "path": "<LOCAL_PATH>/17.png",
+        "exists": true,
+        "sha256": "3829bbd12c83d521734d24c80c79a71e4bc11fd59b29900c67e6d8cf50f73537",
+        "bytes": 2171891,
+        "archived_path": "inputs/FeishengFastV9/17.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/17-history.json",
+      "records/快速-v9/17-submitted.json",
+      "records/快速-v9/17-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "18.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/18-API.json",
+    "api_sha256": "7f71f1cbbbbcd2bad90c4c3f0b30d3bb18445f826ec6a333a8acb04a5d8b250c",
+    "retained_api": "API/快速-v9/18-API.json",
+    "retained_native": "工作流/快速-v9/18.json",
+    "comfy_native": "<LOCAL_PATH>/18.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/18.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/18.png",
+        "path": "<LOCAL_PATH>/18.png",
+        "exists": true,
+        "sha256": "0ca8cb5075ed1e49ee90bae1d58179b9c60eb163d1e595a5f0902c3cc1341282",
+        "bytes": 2136565,
+        "archived_path": "inputs/FeishengFastV9/18.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/18-history.json",
+      "records/快速-v9/18-submitted.json",
+      "records/快速-v9/18-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "19.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/19-API.json",
+    "api_sha256": "05fc90e7dee9caf0b3c5cada5c8a9928d2171d18ed60276ad3f84298f6d77bd5",
+    "retained_api": "API/快速-v9/19-API.json",
+    "retained_native": "工作流/快速-v9/19.json",
+    "comfy_native": "<LOCAL_PATH>/19.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/19.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/19.png",
+        "path": "<LOCAL_PATH>/19.png",
+        "exists": true,
+        "sha256": "7e4f88f14dca5d96a883a279470467884a22a845898cfa6f68b029e22062aa82",
+        "bytes": 2217976,
+        "archived_path": "inputs/FeishengFastV9/19.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/19-history.json",
+      "records/快速-v9/19-submitted.json",
+      "records/快速-v9/19-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "20.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/20-API.json",
+    "api_sha256": "850fe8ff3539cd53af44c2b284ba2fbb74aba01e47ece3168eaba850a02c2838",
+    "retained_api": "API/快速-v9/20-API.json",
+    "retained_native": "工作流/快速-v9/20.json",
+    "comfy_native": "<LOCAL_PATH>/20.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/20.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/20.png",
+        "path": "<LOCAL_PATH>/20.png",
+        "exists": true,
+        "sha256": "6433ea1d87c9642f6e5b5e2d2dd0b0fa3ddaa0403a1c41f268dfaf0c2dbbbf19",
+        "bytes": 2297726,
+        "archived_path": "inputs/FeishengFastV9/20.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/20-history.json",
+      "records/快速-v9/20-submitted.json",
+      "records/快速-v9/20-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "21.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/21-API.json",
+    "api_sha256": "2fea3b9099424575c6f5b4db1d9414e95b522888970bfd37c4e20210ad306d4e",
+    "retained_api": "API/快速-v9/21-API.json",
+    "retained_native": "工作流/快速-v9/21.json",
+    "comfy_native": "<LOCAL_PATH>/21.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/21.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/21.png",
+        "path": "<LOCAL_PATH>/21.png",
+        "exists": true,
+        "sha256": "3224b437b864d52c0e273dcc138ff18ec739791e726a7f2b84f66104bd77d48b",
+        "bytes": 1884793,
+        "archived_path": "inputs/FeishengFastV9/21.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/21-history.json",
+      "records/快速-v9/21-submitted.json",
+      "records/快速-v9/21-manifest.json"
+    ]
+  },
+  {
+    "group": "快速-v9",
+    "name": "22.json",
+    "original_api": "outputs/Feisheng-MV/补充与舞蹈-v9/workflows/22-API.json",
+    "api_sha256": "47693608b130dcd63ece260bc748a494f3c826a6a6e778411f814a7a193ee691",
+    "retained_api": "API/快速-v9/22-API.json",
+    "retained_native": "工作流/快速-v9/22.json",
+    "comfy_native": "<LOCAL_PATH>/22.json",
+    "comfy_userdata": "workflows/Feisheng-MV/快速-v9/22.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengFastV9/22.png",
+        "path": "<LOCAL_PATH>/22.png",
+        "exists": true,
+        "sha256": "48a43084383f378f4dd0da8494c0cb6e3f765865b526fe861de1d46f89c1baa5",
+        "bytes": 2326533,
+        "archived_path": "inputs/FeishengFastV9/22.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/快速-v9/22-history.json",
+      "records/快速-v9/22-submitted.json",
+      "records/快速-v9/22-manifest.json"
+    ]
+  },
+  {
+    "group": "补充-v8",
+    "name": "13.json",
+    "original_api": "outputs/Feisheng-MV/补充镜头-v8/workflows/13-API.json",
+    "api_sha256": "f78db746d2fe084d1c4c506f4ab3083d1541d41848744e3115ce25905b87cb62",
+    "retained_api": "API/补充-v8/13-API.json",
+    "retained_native": "工作流/补充-v8/13.json",
+    "comfy_native": "<LOCAL_PATH>/13.json",
+    "comfy_userdata": "workflows/Feisheng-MV/补充-v8/13.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengExtraV8/13.png",
+        "path": "<LOCAL_PATH>/13.png",
+        "exists": true,
+        "sha256": "370edd070966013703289c1d56620e8a8bd5f3ea0eb2bf25309c22c4c524c69c",
+        "bytes": 2082548,
+        "archived_path": "inputs/FeishengExtraV8/13.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/补充-v8/13-history.json",
+      "records/补充-v8/13-submitted.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "10-A.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/10-A-API.json",
+    "api_sha256": "038425823ef5d7751a2d1440e41b410e55863ceff2d7e5e30cc6bfe051af3c20",
+    "retained_api": "API/风格-v11/10-A-API.json",
+    "retained_native": "工作流/风格-v11/10-A.json",
+    "comfy_native": "<LOCAL_PATH>/10-A.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/10-A.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/10-A.png",
+        "path": "<LOCAL_PATH>/10-A.png",
+        "exists": true,
+        "sha256": "7b6b1f423a7e348166eac9cdaf2a72ac8708f09df0f77ba37b98512c0963a40e",
+        "bytes": 2544738,
+        "archived_path": "inputs/FeishengStyleV11/10-A.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/10-A-history.json",
+      "records/风格-v11/10-A-submitted.json",
+      "records/风格-v11/10-A-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "10-B.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/10-B-API.json",
+    "api_sha256": "a3e55c187da50e3b17d91e6a6151c3bce7e8be655b59ed3a66ae6931dc25169d",
+    "retained_api": "API/风格-v11/10-B-API.json",
+    "retained_native": "工作流/风格-v11/10-B.json",
+    "comfy_native": "<LOCAL_PATH>/10-B.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/10-B.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/10-B.png",
+        "path": "<LOCAL_PATH>/10-B.png",
+        "exists": true,
+        "sha256": "62e461aa273a601daa1702769662aec19027ab6b6ee55f87687a57874a3a5686",
+        "bytes": 3436123,
+        "archived_path": "inputs/FeishengStyleV11/10-B.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/10-B-history.json",
+      "records/风格-v11/10-B-submitted.json",
+      "records/风格-v11/10-B-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "10-C.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/10-C-API.json",
+    "api_sha256": "f700720ccaa33378d3803c3485e6a5df1734ccaa04aa3bd521bc1467c09a176e",
+    "retained_api": "API/风格-v11/10-C-API.json",
+    "retained_native": "工作流/风格-v11/10-C.json",
+    "comfy_native": "<LOCAL_PATH>/10-C.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/10-C.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/10-C.png",
+        "path": "<LOCAL_PATH>/10-C.png",
+        "exists": true,
+        "sha256": "9ab165e92f9fc4e823246e753303beb66221d63686a4c8d288c9fb3787b99a6c",
+        "bytes": 2801595,
+        "archived_path": "inputs/FeishengStyleV11/10-C.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/10-C-history.json",
+      "records/风格-v11/10-C-submitted.json",
+      "records/风格-v11/10-C-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "10-D.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/10-D-API.json",
+    "api_sha256": "98dfe3ca0ce07e562c503b0197d849494f386f1c181d8d4bbbdd20d1fa14d820",
+    "retained_api": "API/风格-v11/10-D-API.json",
+    "retained_native": "工作流/风格-v11/10-D.json",
+    "comfy_native": "<LOCAL_PATH>/10-D.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/10-D.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/10-D.png",
+        "path": "<LOCAL_PATH>/10-D.png",
+        "exists": true,
+        "sha256": "9564ba0267cb330317794831e12da59eca3945ad086ce006fa06dbb87a739351",
+        "bytes": 3254942,
+        "archived_path": "inputs/FeishengStyleV11/10-D.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/10-D-history.json",
+      "records/风格-v11/10-D-submitted.json",
+      "records/风格-v11/10-D-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "16-A.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/16-A-API.json",
+    "api_sha256": "875bcd6000cf823524aa0c80d77b7a4b06ec0038646e77eaebcf82ebc95c717a",
+    "retained_api": "API/风格-v11/16-A-API.json",
+    "retained_native": "工作流/风格-v11/16-A.json",
+    "comfy_native": "<LOCAL_PATH>/16-A.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/16-A.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/16-A.png",
+        "path": "<LOCAL_PATH>/16-A.png",
+        "exists": true,
+        "sha256": "b1441c618c9b57e0cb7d88f21181b50e897d4d0414e5728142413ee23e83b114",
+        "bytes": 2318868,
+        "archived_path": "inputs/FeishengStyleV11/16-A.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/16-A-history.json",
+      "records/风格-v11/16-A-submitted.json",
+      "records/风格-v11/16-A-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "16-B.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/16-B-API.json",
+    "api_sha256": "5dfd042a8c2b9701701dc10ba3e12c55851d77db1ece6c0c208eadc82a6b838a",
+    "retained_api": "API/风格-v11/16-B-API.json",
+    "retained_native": "工作流/风格-v11/16-B.json",
+    "comfy_native": "<LOCAL_PATH>/16-B.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/16-B.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/16-B.png",
+        "path": "<LOCAL_PATH>/16-B.png",
+        "exists": true,
+        "sha256": "f9b83096945608a91f554972fe41522a2dc28c7b2d7ddaded990cc2617a80400",
+        "bytes": 3609038,
+        "archived_path": "inputs/FeishengStyleV11/16-B.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/16-B-history.json",
+      "records/风格-v11/16-B-submitted.json",
+      "records/风格-v11/16-B-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "16-C.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/16-C-API.json",
+    "api_sha256": "5ec55ab3c79fd0789a71ee01c901613f4d27b1fc6e40169f448979e1854112bf",
+    "retained_api": "API/风格-v11/16-C-API.json",
+    "retained_native": "工作流/风格-v11/16-C.json",
+    "comfy_native": "<LOCAL_PATH>/16-C.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/16-C.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/16-C.png",
+        "path": "<LOCAL_PATH>/16-C.png",
+        "exists": true,
+        "sha256": "133c2f1d8da04445b05889510523c257afc5126d641d3aecee13d70bcabd1233",
+        "bytes": 2318330,
+        "archived_path": "inputs/FeishengStyleV11/16-C.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/16-C-history.json",
+      "records/风格-v11/16-C-submitted.json",
+      "records/风格-v11/16-C-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "16-C-control.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/16-C-control-API.json",
+    "api_sha256": "98d15f6c67fd58385b6d4dd1bae8714b3983e42a03e32b415fcea547c6ca714d",
+    "retained_api": "API/风格-v11/16-C-control-API.json",
+    "retained_native": "工作流/风格-v11/16-C-control.json",
+    "comfy_native": "<LOCAL_PATH>/16-C-control.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/16-C-control.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/16-C.png",
+        "path": "<LOCAL_PATH>/16-C.png",
+        "exists": true,
+        "sha256": "133c2f1d8da04445b05889510523c257afc5126d641d3aecee13d70bcabd1233",
+        "bytes": 2318330,
+        "archived_path": "inputs/FeishengStyleV11/16-C.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/16-C-control-history.json",
+      "records/风格-v11/16-C-control-submitted.json",
+      "records/风格-v11/16-C-control-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "16-D.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/16-D-API.json",
+    "api_sha256": "82bc4e3f75d23c1c0b77cb2d04613fca7f3420f0b86b837766e9b8656b0cd4d6",
+    "retained_api": "API/风格-v11/16-D-API.json",
+    "retained_native": "工作流/风格-v11/16-D.json",
+    "comfy_native": "<LOCAL_PATH>/16-D.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/16-D.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/16-D.png",
+        "path": "<LOCAL_PATH>/16-D.png",
+        "exists": true,
+        "sha256": "1d4bf58dc586b560f1bae6384026ad6179f21db38056bca2df0d688cf1dfe525",
+        "bytes": 3025210,
+        "archived_path": "inputs/FeishengStyleV11/16-D.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/16-D-history.json",
+      "records/风格-v11/16-D-submitted.json",
+      "records/风格-v11/16-D-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "19-A.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/19-A-API.json",
+    "api_sha256": "7a6d86161df54fe515e7349f159dbf3e233fd02041834d0766261dea07147bd3",
+    "retained_api": "API/风格-v11/19-A-API.json",
+    "retained_native": "工作流/风格-v11/19-A.json",
+    "comfy_native": "<LOCAL_PATH>/19-A.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/19-A.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/19-A.png",
+        "path": "<LOCAL_PATH>/19-A.png",
+        "exists": true,
+        "sha256": "3202e58b8045ebff4e6facb017695ee83fcc5c2a3fca6a99e35e6cf7ba6b414b",
+        "bytes": 2545087,
+        "archived_path": "inputs/FeishengStyleV11/19-A.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/19-A-history.json",
+      "records/风格-v11/19-A-submitted.json",
+      "records/风格-v11/19-A-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "19-B.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/19-B-API.json",
+    "api_sha256": "7f9ec758280a275d989a53576f381840023bbf1e34989c74d2773bf30b6a5b54",
+    "retained_api": "API/风格-v11/19-B-API.json",
+    "retained_native": "工作流/风格-v11/19-B.json",
+    "comfy_native": "<LOCAL_PATH>/19-B.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/19-B.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/19-B.png",
+        "path": "<LOCAL_PATH>/19-B.png",
+        "exists": true,
+        "sha256": "40a8afdb03c729f2fd0f1442268948f51bac1f86e5aaec1fa025cc3760b3a746",
+        "bytes": 3559342,
+        "archived_path": "inputs/FeishengStyleV11/19-B.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/19-B-history.json",
+      "records/风格-v11/19-B-submitted.json",
+      "records/风格-v11/19-B-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "19-C.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/19-C-API.json",
+    "api_sha256": "c5dcaf353978a8ecd7f0022ecad9cf80920c6c1d5da1fdf5b80c668e73aa4f5b",
+    "retained_api": "API/风格-v11/19-C-API.json",
+    "retained_native": "工作流/风格-v11/19-C.json",
+    "comfy_native": "<LOCAL_PATH>/19-C.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/19-C.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/19-C.png",
+        "path": "<LOCAL_PATH>/19-C.png",
+        "exists": true,
+        "sha256": "f601ed3f789c1d30f6472ff142323b715335b7a2243d7c02cb8699c39a71fd05",
+        "bytes": 2483659,
+        "archived_path": "inputs/FeishengStyleV11/19-C.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/19-C-history.json",
+      "records/风格-v11/19-C-submitted.json",
+      "records/风格-v11/19-C-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "19-D.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/19-D-API.json",
+    "api_sha256": "eee37d6a05014ae9dce68ab78064cb551d9fd2e0d7f88f221e26254f74d1f4ed",
+    "retained_api": "API/风格-v11/19-D-API.json",
+    "retained_native": "工作流/风格-v11/19-D.json",
+    "comfy_native": "<LOCAL_PATH>/19-D.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/19-D.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/19-D.png",
+        "path": "<LOCAL_PATH>/19-D.png",
+        "exists": true,
+        "sha256": "4420a0eca2c452dbcfbe187b36cf37937bebdcc43e5b189ce7793b3d7a69c06e",
+        "bytes": 3074377,
+        "archived_path": "inputs/FeishengStyleV11/19-D.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/19-D-history.json",
+      "records/风格-v11/19-D-submitted.json",
+      "records/风格-v11/19-D-video.json"
+    ]
+  },
+  {
+    "group": "风格-v11",
+    "name": "19-D-control.json",
+    "original_api": "outputs/Feisheng-MV/风格实验-v11/workflows/19-D-control-API.json",
+    "api_sha256": "1550c2c0d0b6a8c6b565d3e711e037302598da6645688cc3ef2ca7bf8fdda40d",
+    "retained_api": "API/风格-v11/19-D-control-API.json",
+    "retained_native": "工作流/风格-v11/19-D-control.json",
+    "comfy_native": "<LOCAL_PATH>/19-D-control.json",
+    "comfy_userdata": "workflows/Feisheng-MV/风格-v11/19-D-control.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengStyleV11/19-D.png",
+        "path": "<LOCAL_PATH>/19-D.png",
+        "exists": true,
+        "sha256": "4420a0eca2c452dbcfbe187b36cf37937bebdcc43e5b189ce7793b3d7a69c06e",
+        "bytes": 3074377,
+        "archived_path": "inputs/FeishengStyleV11/19-D.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/风格-v11/19-D-control-history.json",
+      "records/风格-v11/19-D-control-submitted.json",
+      "records/风格-v11/19-D-control-video.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "13.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/13-API.json",
+    "api_sha256": "16f68093a1d5375f9d45498a0f65609c4a1c44c77cfedf8a8f0ba38bf8428a96",
+    "retained_api": "API/高清-v10/13-API.json",
+    "retained_native": "工作流/高清-v10/13.json",
+    "comfy_native": "<LOCAL_PATH>/13.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/13.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/13.png",
+        "path": "<LOCAL_PATH>/13.png",
+        "exists": true,
+        "sha256": "370edd070966013703289c1d56620e8a8bd5f3ea0eb2bf25309c22c4c524c69c",
+        "bytes": 2082548,
+        "archived_path": "inputs/FeishengHDV10/13.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/13-history.json",
+      "records/高清-v10/13-submitted.json",
+      "records/高清-v10/13-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "14.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/14-API.json",
+    "api_sha256": "2eeeb451f249911ca29037e5e8917a056ce4d59fb1e078fd2e229efa1c4a926f",
+    "retained_api": "API/高清-v10/14-API.json",
+    "retained_native": "工作流/高清-v10/14.json",
+    "comfy_native": "<LOCAL_PATH>/14.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/14.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/14.png",
+        "path": "<LOCAL_PATH>/14.png",
+        "exists": true,
+        "sha256": "e4d8e15fd4a4bfb7743eac8d1c928d345d2c000a11a9dc3c40c94a9201932361",
+        "bytes": 2192272,
+        "archived_path": "inputs/FeishengHDV10/14.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/14-history.json",
+      "records/高清-v10/14-submitted.json",
+      "records/高清-v10/14-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "15.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/15-API.json",
+    "api_sha256": "f164bbf84df5008d46f8d9a87ae06dbafee95dc3435510c8e36eda2ffbb0a3a0",
+    "retained_api": "API/高清-v10/15-API.json",
+    "retained_native": "工作流/高清-v10/15.json",
+    "comfy_native": "<LOCAL_PATH>/15.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/15.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/15.png",
+        "path": "<LOCAL_PATH>/15.png",
+        "exists": true,
+        "sha256": "ac62fa5a03e2ba8fd0deb16ed541afd477732e905e72153c5865a591768fde0b",
+        "bytes": 2117390,
+        "archived_path": "inputs/FeishengHDV10/15.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/15-history.json",
+      "records/高清-v10/15-submitted.json",
+      "records/高清-v10/15-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "16.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/16-API.json",
+    "api_sha256": "ad4e0b7432368d33f2683bd410eec0bc797d44a89699c2f8f0102d29e9c95ce3",
+    "retained_api": "API/高清-v10/16-API.json",
+    "retained_native": "工作流/高清-v10/16.json",
+    "comfy_native": "<LOCAL_PATH>/16.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/16.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/16.png",
+        "path": "<LOCAL_PATH>/16.png",
+        "exists": true,
+        "sha256": "7263b5f50aba207df67abd527ebc99332c1cd7ed4762b3fa9a579bf0fca7529a",
+        "bytes": 2048324,
+        "archived_path": "inputs/FeishengHDV10/16.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/16-history.json",
+      "records/高清-v10/16-submitted.json",
+      "records/高清-v10/16-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "17.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/17-API.json",
+    "api_sha256": "df4068a27a732582ee3e0c50a2f4909a2b44d76b17ec205ee6151c1ce017ce7b",
+    "retained_api": "API/高清-v10/17-API.json",
+    "retained_native": "工作流/高清-v10/17.json",
+    "comfy_native": "<LOCAL_PATH>/17.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/17.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/17.png",
+        "path": "<LOCAL_PATH>/17.png",
+        "exists": true,
+        "sha256": "3829bbd12c83d521734d24c80c79a71e4bc11fd59b29900c67e6d8cf50f73537",
+        "bytes": 2171891,
+        "archived_path": "inputs/FeishengHDV10/17.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/17-history.json",
+      "records/高清-v10/17-submitted.json",
+      "records/高清-v10/17-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "18.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/18-API.json",
+    "api_sha256": "15e0c96cbb568f9163998756db4cfcc67683b9d12d932b7a00e8bca3ae09de05",
+    "retained_api": "API/高清-v10/18-API.json",
+    "retained_native": "工作流/高清-v10/18.json",
+    "comfy_native": "<LOCAL_PATH>/18.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/18.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/18.png",
+        "path": "<LOCAL_PATH>/18.png",
+        "exists": true,
+        "sha256": "0ca8cb5075ed1e49ee90bae1d58179b9c60eb163d1e595a5f0902c3cc1341282",
+        "bytes": 2136565,
+        "archived_path": "inputs/FeishengHDV10/18.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/18-history.json",
+      "records/高清-v10/18-submitted.json",
+      "records/高清-v10/18-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "19.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/19-API.json",
+    "api_sha256": "23f0bc92bceb09cacd8be55aec7c827c5fbaba87a8eb0ba16f68f1176714eb44",
+    "retained_api": "API/高清-v10/19-API.json",
+    "retained_native": "工作流/高清-v10/19.json",
+    "comfy_native": "<LOCAL_PATH>/19.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/19.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/19.png",
+        "path": "<LOCAL_PATH>/19.png",
+        "exists": true,
+        "sha256": "7e4f88f14dca5d96a883a279470467884a22a845898cfa6f68b029e22062aa82",
+        "bytes": 2217976,
+        "archived_path": "inputs/FeishengHDV10/19.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/19-history.json",
+      "records/高清-v10/19-submitted.json",
+      "records/高清-v10/19-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "20.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/20-API.json",
+    "api_sha256": "2577d86f819648bee3298c776618fc25ed9d1d1feda74b60ca165ab32791d3e6",
+    "retained_api": "API/高清-v10/20-API.json",
+    "retained_native": "工作流/高清-v10/20.json",
+    "comfy_native": "<LOCAL_PATH>/20.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/20.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/20.png",
+        "path": "<LOCAL_PATH>/20.png",
+        "exists": true,
+        "sha256": "6433ea1d87c9642f6e5b5e2d2dd0b0fa3ddaa0403a1c41f268dfaf0c2dbbbf19",
+        "bytes": 2297726,
+        "archived_path": "inputs/FeishengHDV10/20.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/20-history.json",
+      "records/高清-v10/20-submitted.json",
+      "records/高清-v10/20-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "21.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/21-API.json",
+    "api_sha256": "09d312594f502fbeb52dfd1f6436f5bf387e22041dd86dee3aba1617bdd7db00",
+    "retained_api": "API/高清-v10/21-API.json",
+    "retained_native": "工作流/高清-v10/21.json",
+    "comfy_native": "<LOCAL_PATH>/21.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/21.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/21.png",
+        "path": "<LOCAL_PATH>/21.png",
+        "exists": true,
+        "sha256": "3224b437b864d52c0e273dcc138ff18ec739791e726a7f2b84f66104bd77d48b",
+        "bytes": 1884793,
+        "archived_path": "inputs/FeishengHDV10/21.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/21-history.json",
+      "records/高清-v10/21-submitted.json",
+      "records/高清-v10/21-manifest.json"
+    ]
+  },
+  {
+    "group": "高清-v10",
+    "name": "22.json",
+    "original_api": "outputs/Feisheng-MV/高清素材-v10/workflows/22-API.json",
+    "api_sha256": "00a01d6694dff5739d7bdfaaf566fc46d9a47d8d923664e1f92faaa7c1d644e7",
+    "retained_api": "API/高清-v10/22-API.json",
+    "retained_native": "工作流/高清-v10/22.json",
+    "comfy_native": "<LOCAL_PATH>/22.json",
+    "comfy_userdata": "workflows/Feisheng-MV/高清-v10/22.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [
+      {
+        "comfy_input": "FeishengHDV10/22.png",
+        "path": "<LOCAL_PATH>/22.png",
+        "exists": true,
+        "sha256": "48a43084383f378f4dd0da8494c0cb6e3f765865b526fe861de1d46f89c1baa5",
+        "bytes": 2326533,
+        "archived_path": "inputs/FeishengHDV10/22.png"
+      }
+    ],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": [
+      "records/高清-v10/22-history.json",
+      "records/高清-v10/22-submitted.json",
+      "records/高清-v10/22-manifest.json"
+    ]
+  },
+  {
+    "group": "基础试验",
+    "name": "历史-H3Studio-文生图.json",
+    "original_api": "outputs/H3-4060Ti-8GB-API.json",
+    "api_sha256": "87432526fad20a822c5742a01728e84a0f18b805009a926aa63a4c26d68d0dad",
+    "retained_api": "API/基础试验/H3-4060Ti-8GB-API.json",
+    "retained_native": "工作流/基础试验/历史-H3Studio-文生图.json",
+    "comfy_native": "<LOCAL_PATH>/历史-H3Studio-文生图.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/历史-H3Studio-文生图.json",
+    "unavailable_nodes_in_current_backend": [
+      "H3StudioGenerate",
+      "H3StudioModels",
+      "H3StudioRender"
+    ],
+    "input_dependencies": [],
+    "static_graph_verified": false,
+    "browser_verified": false,
+    "note": "历史自定义节点试验；当前原生后端禁用了自定义节点",
+    "records": []
+  },
+  {
+    "group": "基础试验",
+    "name": "H3-4060Ti-8GB-Video.json",
+    "original_api": "outputs/H3-4060Ti-8GB-Video-API.json",
+    "api_sha256": "ab7ea547867046f982512151d0075415e4fabbfb69904e5a76d12bafc76cf676",
+    "retained_api": "API/基础试验/H3-4060Ti-8GB-Video-API.json",
+    "retained_native": "工作流/基础试验/H3-4060Ti-8GB-Video.json",
+    "comfy_native": "<LOCAL_PATH>/H3-4060Ti-8GB-Video.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/H3-4060Ti-8GB-Video.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  },
+  {
+    "group": "基础试验",
+    "name": "H3-Art-01-Ocean-in-a-Cup.json",
+    "original_api": "outputs/H3-Art-01-Ocean-in-a-Cup-API.json",
+    "api_sha256": "bd7f98480d07b5ab7217919f3da4fca4513c989213c685cc01671e3b454c4084",
+    "retained_api": "API/基础试验/H3-Art-01-Ocean-in-a-Cup-API.json",
+    "retained_native": "工作流/基础试验/H3-Art-01-Ocean-in-a-Cup.json",
+    "comfy_native": "<LOCAL_PATH>/H3-Art-01-Ocean-in-a-Cup.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/H3-Art-01-Ocean-in-a-Cup.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  },
+  {
+    "group": "基础试验",
+    "name": "H3-Art-02-Ink-Crane.json",
+    "original_api": "outputs/H3-Art-02-Ink-Crane-API.json",
+    "api_sha256": "6df5c718fc236fed2fb6728a401129617bd3c7211115d9eae8c4ea8671ac8b3c",
+    "retained_api": "API/基础试验/H3-Art-02-Ink-Crane-API.json",
+    "retained_native": "工作流/基础试验/H3-Art-02-Ink-Crane.json",
+    "comfy_native": "<LOCAL_PATH>/H3-Art-02-Ink-Crane.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/H3-Art-02-Ink-Crane.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  },
+  {
+    "group": "基础试验",
+    "name": "H3-Art-03-Red-Silk.json",
+    "original_api": "outputs/H3-Art-03-Red-Silk-API.json",
+    "api_sha256": "788f5ed83197e57ee1850163d251534003ed76cc77673d64e00c5cc7728301b9",
+    "retained_api": "API/基础试验/H3-Art-03-Red-Silk-API.json",
+    "retained_native": "工作流/基础试验/H3-Art-03-Red-Silk.json",
+    "comfy_native": "<LOCAL_PATH>/H3-Art-03-Red-Silk.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/H3-Art-03-Red-Silk.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  },
+  {
+    "group": "基础试验",
+    "name": "H3-Quality-768p-32step.json",
+    "original_api": "outputs/H3-Quality-768p-32step-API.json",
+    "api_sha256": "5d9cb7f0d5eecf0018c7971d2fcaf6aa0325623fa8a602c34aa902840e58335c",
+    "retained_api": "API/基础试验/H3-Quality-768p-32step-API.json",
+    "retained_native": "工作流/基础试验/H3-Quality-768p-32step.json",
+    "comfy_native": "<LOCAL_PATH>/H3-Quality-768p-32step.json",
+    "comfy_userdata": "workflows/Feisheng-MV/基础试验/H3-Quality-768p-32step.json",
+    "unavailable_nodes_in_current_backend": [],
+    "input_dependencies": [],
+    "static_graph_verified": true,
+    "browser_verified": false,
+    "note": "参数与连接已按冻结 API 核对；本轮按用户要求未操作网页",
+    "records": []
+  }
+]

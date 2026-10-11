@@ -1,0 +1,26 @@
+{
+  "file": "飞升-MV-1080p-节奏重剪-v2.mp4",
+  "sha256": "62f1c20d8df4e5301e14f0bb8e56b76d9019b173258ce1a86dffcc6450eccac6",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "decoded_frames": 2282,
+  "duration_seconds": 95.08333333333333,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "integrated_lufs": -12.0,
+  "true_peak_dbfs": -5.0,
+  "audio_vs_master_correlation": 0.9999588647276504,
+  "audio_offset_ms": 0.0,
+  "audio_level_ratio_vs_master": 0.998531699180603,
+  "very_dark_frames_mean_under_2": [],
+  "timeline_continuity": "passed",
+  "audio_preservation": "passed",
+  "limitations": [
+    "Automatic beat estimates are not a verified score transcription.",
+    "Native H3 resolution is 704x384; final output is upscaled 1080p.",
+    "Technical analysis and visual sampling do not substitute for subjective full headphone/speaker listening."
+  ]
+}

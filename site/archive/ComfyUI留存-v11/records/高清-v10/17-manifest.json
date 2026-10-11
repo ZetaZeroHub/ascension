@@ -1,0 +1,60 @@
+{
+  "shot": "17",
+  "name": "正面群舞",
+  "prompt_id": "09a72c17-153c-41b2-87e6-10a31e029428",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1959.053,
+  "interpolation_seconds": 47.86187672615051,
+  "seed": 26100817,
+  "source_reference_sha256": "3829bbd12c83d521734d24c80c79a71e4bc11fd59b29900c67e6d8cf50f73537",
+  "native_sha256": "fb735a3167b6869ffecb160c96c996ceefbe0ba407a22785404f024909e09b7a",
+  "master_sha256": "24e59f3606aa7fcaf71125d3dbb811b1ae854ff98ee4d38835bc94cbf959ff13",
+  "smooth_sha256": "0d212738ae9e82686571f1268c53df8016bcdea8c829b30c820447d2bd7ea4b2",
+  "master_file": "24fps母版\\17-正面群舞.mp4",
+  "smooth_file": "48fps剪辑版\\17-正面群舞.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\17-正面群舞.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.9258393608336526,
+    "max_frame_change": 3.8094444274902344,
+    "sha256": "24e59f3606aa7fcaf71125d3dbb811b1ae854ff98ee4d38835bc94cbf959ff13"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\17-正面群舞.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.0624133107716196,
+    "max_frame_change": 2.2424304485321045,
+    "sha256": "0d212738ae9e82686571f1268c53df8016bcdea8c829b30c820447d2bd7ea4b2"
+  },
+  "visual_review": "pending"
+}

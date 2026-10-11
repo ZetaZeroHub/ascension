@@ -1,0 +1,82 @@
+{
+  "13": {
+    "samples": 130,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 4915,
+    "min_commit_free_mib": 4623,
+    "max_gpu_memory_used_mib": 7694,
+    "mean_gpu_utilization_percent": 90.6
+  },
+  "14": {
+    "samples": 129,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 7876,
+    "min_commit_free_mib": 5294,
+    "max_gpu_memory_used_mib": 7259,
+    "mean_gpu_utilization_percent": 89.9
+  },
+  "15": {
+    "samples": 127,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 7367,
+    "min_commit_free_mib": 4910,
+    "max_gpu_memory_used_mib": 7283,
+    "mean_gpu_utilization_percent": 90.0
+  },
+  "16": {
+    "samples": 131,
+    "max_gpu_temperature_c": 79,
+    "min_ram_free_mib": 9108,
+    "min_commit_free_mib": 5120,
+    "max_gpu_memory_used_mib": 7428,
+    "mean_gpu_utilization_percent": 88.5
+  },
+  "17": {
+    "samples": 130,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 7238,
+    "min_commit_free_mib": 4681,
+    "max_gpu_memory_used_mib": 7451,
+    "mean_gpu_utilization_percent": 91.7
+  },
+  "18": {
+    "samples": 131,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 9230,
+    "min_commit_free_mib": 4650,
+    "max_gpu_memory_used_mib": 7576,
+    "mean_gpu_utilization_percent": 88.7
+  },
+  "19": {
+    "samples": 132,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 8923,
+    "min_commit_free_mib": 4525,
+    "max_gpu_memory_used_mib": 7264,
+    "mean_gpu_utilization_percent": 90.5
+  },
+  "20": {
+    "samples": 129,
+    "max_gpu_temperature_c": 77,
+    "min_ram_free_mib": 8041,
+    "min_commit_free_mib": 4866,
+    "max_gpu_memory_used_mib": 7376,
+    "mean_gpu_utilization_percent": 88.6
+  },
+  "21": {
+    "samples": 133,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 10326,
+    "min_commit_free_mib": 6385,
+    "max_gpu_memory_used_mib": 7311,
+    "mean_gpu_utilization_percent": 86.9
+  },
+  "22": {
+    "samples": 130,
+    "max_gpu_temperature_c": 78,
+    "min_ram_free_mib": 9175,
+    "min_commit_free_mib": 5274,
+    "max_gpu_memory_used_mib": 7297,
+    "mean_gpu_utilization_percent": 88.0
+  }
+}

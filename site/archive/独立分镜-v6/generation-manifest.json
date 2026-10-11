@@ -1,0 +1,206 @@
+{
+  "tool": "image_gen built-in",
+  "basePrompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: ",
+  "references": [
+    "<PROJECT>/outputs/Feisheng-MV/分镜收敛-v5/storyboard.png",
+    "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/reference/character.png"
+  ],
+  "anchorPrompt": "Create a SINGLE photorealistic full-body neutral character identity reference photograph, portrait 2:3, of the EXACT adult East Asian female courier already established in the supplied approved storyboard (same face as panels02 and07). Standing relaxed, straight, both feet and both hands fully visible separated from torso, three-quarter front view, looking toward lens with calm determined expression. Short straight black bob with natural side part, no makeup glamour. Matte dark burgundy long split coat of brushed cotton/wool with plain narrow matching waist belt, no metal decorations; plain black shirt, fitted black trousers, simple black ankle boots. ONE narrow gold thread on her RIGHT wrist only. No prop in hands, no jewelry besides the wrist thread. Plain soft warm grey studio wall and matte floor, diffuse large softbox light, no hard glossy highlights. Warm-grey soft analog photographic color, natural healthy neutral skin with pores but no oily shine, low saturation background, burgundy still rich, fine subtle grain, soft highlight shoulder and defined charcoal shadows. Use approved reference for identity, clothing and color only. No landscape, no storyboard panels, no text, no numbers, no labels, no stylized drawing, no plastic CGI, no sheen. This is a reference asset for matching the established protagonist, not a new design.",
+  "shots": [
+    [
+      "01",
+      "静止之城",
+      0,
+      4.8,
+      "28mm extreme wide rear view. Courier small lower center facing a monumental dry brutalist city, giant black ring suspended above street, a few sparse raindrops frozen in midair, fog distant only. Dry matte pavement. Empty right hand, seed not acquired yet. Strong simple perspective."
+    ],
+    [
+      "02",
+      "她看见了光",
+      4.8,
+      9.8,
+      "85mm intimate side profile closeup of courier face facing right, healthy neutral matte skin, single suspended rain droplet near her eye; faint warm light reflection in eye motivates her looking toward the seed. Soft charcoal architecture bokeh, dry hair, no glamour, no wet skin."
+    ],
+    [
+      "03",
+      "被封存的生命",
+      9.8,
+      19.2,
+      "40mm over RIGHT shoulder of courier whose bob and burgundy coat occupy lower left quarter; ahead a palm-sized pale gold sphere with one luminous fissure held inside a clear thin spherical membrane in a huge black ring chamber. Seed physically small not giant planet, camera can clearly see it. Soft dusty daylight, dry charcoal stone."
+    ],
+    [
+      "04",
+      "跨越禁令",
+      19.2,
+      28.8,
+      "85mm closeup of courier RIGHT HAND with a single thin gold wrist thread and burgundy sleeve, five anatomically correct fingers gripping a palm-sized 7cm matte pale-gold ceramic sphere with a single luminous fissure, pushing through a delicate clear slit membrane. Same dry chamber softly out of focus. Seed firmly between thumb and fingers, no extra hand or body."
+    ],
+    [
+      "05",
+      "追击",
+      28.8,
+      33.6,
+      "35mm side tracking composition, full courier body running left to right in a believable sprint, right hand firmly holding the 7cm seed near her chest, burgundy coat streaming left. Two huge floating black rings behind cast narrow soft search beams, dry rough stone elevated bridge, distant towers. Freeze readable real human running, not flying, no weapon."
+    ],
+    [
+      "06",
+      "逃路断裂",
+      33.6,
+      38.4,
+      "24mm wide oblique aerial geography. Courier stands on LEFT broken bridge end, facing right, seed in right hand. Huge missing section of bridge center, opposite RIGHT edge separated by a 10m abyss. Jagged stone, a few falling blocks. Circular city shaft clearly visible below, matching previous city. No intact Y junction, unmistakable no way across."
+    ],
+    [
+      "07",
+      "作出选择",
+      38.4,
+      50.4,
+      "65mm three-quarter medium close side view of courier standing on SAFE side of ledge, right hand with seed held to chest, wrist gold thread visible. She deliberately looks downward into a huge circular shaft behind right side of frame. Calm determined face, eyebrows slightly tense. Body upright not prone; clear voluntary decision, not slipping."
+    ],
+    [
+      "08",
+      "主动跃下",
+      50.4,
+      57.6,
+      "35mm side wide full body shot courier actively pushing off LEFT jagged ledge into circular shaft at RIGHT, one boot just left ledge, other knee forward, torso leaning purposefully forward, RIGHT hand tightly holding seed against chest; burgundy coat streams left. Readable deliberate athletic leap, anatomically natural, no upside-down headfirst posture, no extra limbs."
+    ],
+    [
+      "09",
+      "击入核心",
+      57.6,
+      67.2,
+      "50mm low close foreground view of 7cm cracked pale gold sphere touching matte black core stone, thin soft amber ring just begins spreading. Courier kneeling naturally behind it, right hand fingers just RELEASED the sphere, gold wrist thread visible; left palm stabilizes on ground. Face softly focused, not a contorted impact. Seed and releasing fingers hero, city foundation background. Physical causal action no fireworks."
+    ],
+    [
+      "10",
+      "逆转重力",
+      67.2,
+      74.4,
+      "28mm low angle full body courier beginning to levitate upright slowly, both EMPTY hands visible at sides, red coat hangs and flows down. Huge dry concrete blocks suspended at different depths within the vertical city shaft; broad diffuse ivory light overhead. Relaxed natural anatomy, same face clothing, no seed in hand after core release."
+    ],
+    [
+      "11",
+      "天幕破裂",
+      74.4,
+      76.8,
+      "18mm extreme wide grand climax, tiny upright courier hovering center as gigantic charcoal sky shell fractures outward in physically massive slabs revealing broad pale warm daylight. City towers below as scale reference. Burgundy silhouette legible, EMPTY hands. Elegant tectonic opening, no golden fireball, no laser fireworks, soft light even at climax, no shiny surfaces."
+    ],
+    [
+      "12",
+      "复苏与回归",
+      76.8,
+      95.08,
+      "50mm rear medium wide courier walking away into restored same city, coat calm, RIGHT empty relaxed hand visible with thin gold wrist thread. Sparse rain finally falls, muted pale green trees and warm lit windows, soft warm overcast daylight. Mostly dry matte weathered stone with occasional small damp patches, no mirror floor. Restrained hope, natural photo not CGI, no extra foreground characters."
+    ]
+  ],
+  "completed": [
+    {
+      "id": "02",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 85mm intimate side profile closeup of courier face facing right, healthy neutral matte skin, single suspended rain droplet near her eye; faint warm light reflection in eye motivates her looking toward the seed. Soft charcoal architecture bokeh, dry hair, no glamour, no wet skin.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-c094e1ab-900e-403c-a6b9-53191c11ffe9.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/02.png"
+    },
+    {
+      "id": "03",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 40mm over RIGHT shoulder of courier whose bob and burgundy coat occupy lower left quarter; ahead a palm-sized pale gold sphere with one luminous fissure held inside a clear thin spherical membrane in a huge black ring chamber. Seed physically small not giant planet, camera can clearly see it. Soft dusty daylight, dry charcoal stone.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-354485a6-ecc6-41b4-b309-52eaeed4b46f.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/03.png"
+    },
+    {
+      "id": "04",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 85mm closeup of courier RIGHT HAND with a single thin gold wrist thread and burgundy sleeve, five anatomically correct fingers gripping a palm-sized 7cm matte pale-gold ceramic sphere with a single luminous fissure, pushing through a delicate clear slit membrane. Same dry chamber softly out of focus. Seed firmly between thumb and fingers, no extra hand or body.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-5cb41698-2bad-45d4-af8c-3285a9820c6d.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/04.png"
+    },
+    {
+      "id": "05",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 35mm side tracking composition, full courier body running left to right in a believable sprint, right hand firmly holding the 7cm seed near her chest, burgundy coat streaming left. Two huge floating black rings behind cast narrow soft search beams, dry rough stone elevated bridge, distant towers. Freeze readable real human running, not flying, no weapon.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-7f8c3061-4f50-4777-9a11-ed5c3db97e1d.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/05.png"
+    },
+    {
+      "id": "06",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 24mm wide oblique aerial geography. Courier stands on LEFT broken bridge end, facing right, seed in right hand. Huge missing section of bridge center, opposite RIGHT edge separated by a 10m abyss. Jagged stone, a few falling blocks. Circular city shaft clearly visible below, matching previous city. No intact Y junction, unmistakable no way across.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-fd3f10fa-71a1-44df-9125-a7a727e175f4.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/06.png"
+    },
+    {
+      "id": "07",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 65mm three-quarter medium close side view of courier standing on SAFE side of ledge, right hand with seed held to chest, wrist gold thread visible. She deliberately looks downward into a huge circular shaft behind right side of frame. Calm determined face, eyebrows slightly tense. Body upright not prone; clear voluntary decision, not slipping.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-fc6fd947-c6bb-4644-9767-a0a8b51a0451.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/07.png"
+    },
+    {
+      "id": "08",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 35mm side wide full body shot courier actively pushing off LEFT jagged ledge into circular shaft at RIGHT, one boot just left ledge, other knee forward, torso leaning purposefully forward, RIGHT hand tightly holding seed against chest; burgundy coat streams left. Readable deliberate athletic leap, anatomically natural, no upside-down headfirst posture, no extra limbs.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-e1105824-9b5a-4bd2-87d2-f6b6a6b4496d.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/08.png"
+    },
+    {
+      "id": "09",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 50mm low close foreground view of 7cm cracked pale gold sphere touching matte black core stone, thin soft amber ring just begins spreading. Courier kneeling naturally behind it, right hand fingers just RELEASED the sphere, gold wrist thread visible; left palm stabilizes on ground. Face softly focused, not a contorted impact. Seed and releasing fingers hero, city foundation background. Physical causal action no fireworks.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-7ef459a6-7e24-4d64-bf0b-4aa4ecd2e7cf.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/09.png"
+    },
+    {
+      "id": "10",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 28mm low angle full body courier beginning to levitate upright slowly, both EMPTY hands visible at sides, red coat hangs and flows down. Huge dry concrete blocks suspended at different depths within the vertical city shaft; broad diffuse ivory light overhead. Relaxed natural anatomy, same face clothing, no seed in hand after core release.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-b4126334-8e1f-429b-81e3-df3e733a41c4.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/10.png"
+    },
+    {
+      "id": "11",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 18mm extreme wide grand climax, tiny upright courier hovering center as gigantic charcoal sky shell fractures outward in physically massive slabs revealing broad pale warm daylight. City towers below as scale reference. Burgundy silhouette legible, EMPTY hands. Elegant tectonic opening, no golden fireball, no laser fireworks, soft light even at climax, no shiny surfaces.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-1c8bb644-afbf-402d-9392-fa9d9e960798.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/11.png"
+    },
+    {
+      "id": "12",
+      "prompt": "Generate ONE standalone high-resolution landscape 16:9 cinematic photograph, not a collage or storyboard, no text numbers borders. Reference1 is approved story, palette, architecture; reference2 is the SAME courier face, hairstyle and exact wardrobe. Maintain exact identity and consistent costume: adult East Asian woman short black bob, matte burgundy brushed long coat narrow cloth belt, black shirt fitted trousers black ankle boots, single thin gold thread at RIGHT wrist only. Warm-grey soft analog photographic grade matching approved B look, natural neutral peach skin NOT olive, ivory highlights, soft shoulder, restrained saturation, subtle grain, textured charcoal blacks not lifted fog. Matte dry porous concrete, brushed fabric, dry matte skin; no oil shine, no gold CGI ornament, no mirror pavement, no glam retouch, no HDR sharpening. Dramatic scale but physically photographic. Seed when present is always a PALM-SIZED 7cm matte aged pale-gold ceramic sphere with ONE luminous fissure. Scene: 50mm rear medium wide courier walking away into restored same city, coat calm, RIGHT empty relaxed hand visible with thin gold wrist thread. Sparse rain finally falls, muted pale green trees and warm lit windows, soft warm overcast daylight. Mostly dry matte weathered stone with occasional small damp patches, no mirror floor. Restrained hope, natural photo not CGI, no extra foreground characters.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-b404a809-00b0-48be-a553-718e5ff2c5bb.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/12.png"
+    },
+    {
+      "id": "02",
+      "prompt": "Keep the exact woman face, short bob, expression, skin, framing, clothing, color and all foreground pixels composition. Remove ONLY the large glowing golden sphere and its surrounding transparent ring in background at right. Replace that area with softly out-of-focus plain charcoal architecture and one faint warm light. Keep one suspended raindrop by eye. No seed visible anywhere in this shot; she looks toward an offscreen object. No other changes.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-12681de4-2d6d-417a-9676-4ad752affae1.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/02.png",
+      "type": "continuity-repair"
+    },
+    {
+      "id": "03",
+      "prompt": "Preserve woman, outfit, black arch, framing and warm grey palette. Correct ONLY the seed apparatus scale and placement: replace oversized distant spherical device with a small thin transparent membrane globe just 15cm across, holding a single 7cm pale gold cracked seed at its center, floating at the woman's shoulder height only ONE ARM LENGTH ahead of her. It must read as a small reachable object within this enormous arch, with EMPTY air around it, no large gold armillary rings. Seed is smaller than her hand. No other spheres. Also reduce ground reflections to diffuse matte stone.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-3ece5eae-b258-4237-a352-1b2eff856686.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/03.png",
+      "type": "continuity-repair"
+    },
+    {
+      "id": "04",
+      "prompt": "Keep foreground hand gripping the SINGLE seed and membrane exactly, same composition, fingers, clothing and warm-grey palette. REMOVE the second golden seed and its little circular mechanism that appears in the distant background near the top center. That distant black ring must now be EMPTY, with plain soft-focus grey architecture visible through it. There is only ONE seed in the entire image, in the hand. Make seed surface matte ceramic not shiny metal; preserve small luminous fissure. No new props.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-4afa48c9-fc9d-4ee1-a938-4df7314a1027.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/04.png",
+      "type": "continuity-repair"
+    },
+    {
+      "id": "05",
+      "prompt": "Preserve woman's exact face, legs running left-to-right, outfit, environment, camera and lighting. Change BOTH ARMS: she now securely cups the SAME single small 7cm cracked golden seed against her upper chest with BOTH HANDS together protectively while running. Both elbows bent forward, both wrists next to seed, NO ARM extending behind her. Exactly two hands five fingers each. Only her anatomical RIGHT wrist has one fine gold thread, other wrist bare. Seed about small mandarin size, no duplicate. Natural protective sprint with two hands held to chest, same burgundy coat movement.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-c3fb2853-dc96-45ac-8c18-c2a8c8530050.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/05.png",
+      "type": "continuity-repair"
+    },
+    {
+      "id": "08",
+      "prompt": "Preserve exact leaping woman's face, full body legs, left ledge/right shaft, coat, lighting and composition. Change BOTH ARMS to cradle the ONE 7cm cracked golden seed securely against upper chest using BOTH HANDS together; both elbows bent forward, both wrists beside seed, no arm stretched behind. Exact two hands with anatomically plausible fingers, fine gold thread only on RIGHT wrist, other wrist bare. It is a voluntary leap protecting a precious object with two hands. No duplicate seed, no other changes.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-5d0b44bc-3e1a-40d2-b250-c8e93dcd7810.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/08.png",
+      "type": "continuity-repair"
+    },
+    {
+      "id": "11",
+      "prompt": "Recompose this as a radically MORE DISTANT extreme wide establishing shot of the SAME climax. Camera pulls back tenfold. Heroine is a tiny full-body burgundy human silhouette occupying ONLY 8 percent of frame height at exact center, not a foreground portrait. Massive black sky ceiling of interconnected stone slabs cracks open radially across the entire upper sky, huge fissure reveals pale warm daylight, giant pieces peel outward. Dark unbroken ceiling at edges provides contrast and makes the central opening unmistakable. City towers far below convey scale. Same heroine outfit and empty hands, same matte stone warm-grey soft photographic grade, subtle light not shiny golden fireworks. Whole scene readable, strict16:9 no borders no text.",
+      "source": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-1458ee5f-f988-456d-913a-e5ec0b1d1f96.png",
+      "target": "<PROJECT>/outputs/Feisheng-MV/独立分镜-v6/frames/11.png",
+      "type": "continuity-repair"
+    }
+  ],
+  "firstShotSource": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-b8a85793-d312-4e99-8279-73dc7c418e8c.png"
+}

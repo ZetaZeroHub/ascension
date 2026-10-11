@@ -1,0 +1,24 @@
+{
+  "json_files_validated": 734,
+  "html_pages": 27,
+  "security_findings": [],
+  "missing_html_references": [],
+  "browser_checks": {
+    "local_film_playback": true,
+    "film_duration": 93.761995,
+    "frame_size": [
+      1280,
+      720
+    ],
+    "mobile_viewport": [
+      390,
+      844
+    ],
+    "mobile_horizontal_overflow": false,
+    "languages": [
+      "zh-CN",
+      "en"
+    ]
+  },
+  "opaque_encrypted_draft_files_excluded": 4
+}

@@ -1,0 +1,5192 @@
+[
+  {
+    "kind": "realism",
+    "base_model": "<LOCAL_PATH>/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "matched_targets": 104,
+    "missing_targets": [],
+    "shape_mismatch": [],
+    "passed": true,
+    "scope": "static name and dimension compatibility; runtime evidence is separately recorded",
+    "checks": [
+      {
+        "adapter": "diffusion_model.blocks.0.attn.out_proj",
+        "target": "blocks.0.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.0.attn.qkv_proj",
+        "target": "blocks.0.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.1.attn.out_proj",
+        "target": "blocks.1.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.1.attn.qkv_proj",
+        "target": "blocks.1.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.10.attn.out_proj",
+        "target": "blocks.10.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.10.attn.qkv_proj",
+        "target": "blocks.10.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.11.attn.out_proj",
+        "target": "blocks.11.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.11.attn.qkv_proj",
+        "target": "blocks.11.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.12.attn.out_proj",
+        "target": "blocks.12.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.12.attn.qkv_proj",
+        "target": "blocks.12.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.13.attn.out_proj",
+        "target": "blocks.13.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.13.attn.qkv_proj",
+        "target": "blocks.13.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.14.attn.out_proj",
+        "target": "blocks.14.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.14.attn.qkv_proj",
+        "target": "blocks.14.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.15.attn.out_proj",
+        "target": "blocks.15.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.15.attn.qkv_proj",
+        "target": "blocks.15.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.16.attn.out_proj",
+        "target": "blocks.16.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.16.attn.qkv_proj",
+        "target": "blocks.16.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.17.attn.out_proj",
+        "target": "blocks.17.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.17.attn.qkv_proj",
+        "target": "blocks.17.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.18.attn.out_proj",
+        "target": "blocks.18.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.18.attn.qkv_proj",
+        "target": "blocks.18.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.19.attn.out_proj",
+        "target": "blocks.19.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.19.attn.qkv_proj",
+        "target": "blocks.19.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.2.attn.out_proj",
+        "target": "blocks.2.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.2.attn.qkv_proj",
+        "target": "blocks.2.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.20.attn.out_proj",
+        "target": "blocks.20.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.20.attn.qkv_proj",
+        "target": "blocks.20.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.21.attn.out_proj",
+        "target": "blocks.21.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.21.attn.qkv_proj",
+        "target": "blocks.21.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.22.attn.out_proj",
+        "target": "blocks.22.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.22.attn.qkv_proj",
+        "target": "blocks.22.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.23.attn.out_proj",
+        "target": "blocks.23.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.23.attn.qkv_proj",
+        "target": "blocks.23.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.24.attn.out_proj",
+        "target": "blocks.24.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.24.attn.qkv_proj",
+        "target": "blocks.24.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.25.attn.out_proj",
+        "target": "blocks.25.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.25.attn.qkv_proj",
+        "target": "blocks.25.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.26.attn.out_proj",
+        "target": "blocks.26.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.26.attn.qkv_proj",
+        "target": "blocks.26.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.27.attn.out_proj",
+        "target": "blocks.27.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.27.attn.qkv_proj",
+        "target": "blocks.27.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.28.attn.out_proj",
+        "target": "blocks.28.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.28.attn.qkv_proj",
+        "target": "blocks.28.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.29.attn.out_proj",
+        "target": "blocks.29.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.29.attn.qkv_proj",
+        "target": "blocks.29.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.3.attn.out_proj",
+        "target": "blocks.3.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.3.attn.qkv_proj",
+        "target": "blocks.3.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.30.attn.out_proj",
+        "target": "blocks.30.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.30.attn.qkv_proj",
+        "target": "blocks.30.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.31.attn.out_proj",
+        "target": "blocks.31.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.31.attn.qkv_proj",
+        "target": "blocks.31.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.32.attn.out_proj",
+        "target": "blocks.32.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.32.attn.qkv_proj",
+        "target": "blocks.32.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.33.attn.out_proj",
+        "target": "blocks.33.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.33.attn.qkv_proj",
+        "target": "blocks.33.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.34.attn.out_proj",
+        "target": "blocks.34.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.34.attn.qkv_proj",
+        "target": "blocks.34.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.35.attn.out_proj",
+        "target": "blocks.35.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.35.attn.qkv_proj",
+        "target": "blocks.35.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.36.attn.out_proj",
+        "target": "blocks.36.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.36.attn.qkv_proj",
+        "target": "blocks.36.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.37.attn.out_proj",
+        "target": "blocks.37.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.37.attn.qkv_proj",
+        "target": "blocks.37.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.38.attn.out_proj",
+        "target": "blocks.38.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.38.attn.qkv_proj",
+        "target": "blocks.38.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.39.attn.out_proj",
+        "target": "blocks.39.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.39.attn.qkv_proj",
+        "target": "blocks.39.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.4.attn.out_proj",
+        "target": "blocks.4.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.4.attn.qkv_proj",
+        "target": "blocks.4.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.40.attn.out_proj",
+        "target": "blocks.40.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.40.attn.qkv_proj",
+        "target": "blocks.40.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.41.attn.out_proj",
+        "target": "blocks.41.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.41.attn.qkv_proj",
+        "target": "blocks.41.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.42.attn.out_proj",
+        "target": "blocks.42.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.42.attn.qkv_proj",
+        "target": "blocks.42.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.43.attn.out_proj",
+        "target": "blocks.43.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.43.attn.qkv_proj",
+        "target": "blocks.43.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.44.attn.out_proj",
+        "target": "blocks.44.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.44.attn.qkv_proj",
+        "target": "blocks.44.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.45.attn.out_proj",
+        "target": "blocks.45.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.45.attn.qkv_proj",
+        "target": "blocks.45.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.46.attn.out_proj",
+        "target": "blocks.46.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.46.attn.qkv_proj",
+        "target": "blocks.46.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.47.attn.out_proj",
+        "target": "blocks.47.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.47.attn.qkv_proj",
+        "target": "blocks.47.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.48.attn.out_proj",
+        "target": "blocks.48.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.48.attn.qkv_proj",
+        "target": "blocks.48.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.49.attn.out_proj",
+        "target": "blocks.49.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.49.attn.qkv_proj",
+        "target": "blocks.49.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.5.attn.out_proj",
+        "target": "blocks.5.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.5.attn.qkv_proj",
+        "target": "blocks.5.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.6.attn.out_proj",
+        "target": "blocks.6.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.6.attn.qkv_proj",
+        "target": "blocks.6.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.7.attn.out_proj",
+        "target": "blocks.7.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.7.attn.qkv_proj",
+        "target": "blocks.7.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.8.attn.out_proj",
+        "target": "blocks.8.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.8.attn.qkv_proj",
+        "target": "blocks.8.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.9.attn.out_proj",
+        "target": "blocks.9.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.blocks.9.attn.qkv_proj",
+        "target": "blocks.9.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.token_refiner.blocks.0.attn.out_proj",
+        "target": "token_refiner.blocks.0.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.token_refiner.blocks.0.attn.qkv_proj",
+        "target": "token_refiner.blocks.0.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.token_refiner.blocks.1.attn.out_proj",
+        "target": "token_refiner.blocks.1.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "diffusion_model.token_refiner.blocks.1.attn.qkv_proj",
+        "target": "token_refiner.blocks.1.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      }
+    ]
+  },
+  {
+    "kind": "sketch",
+    "base_model": "<LOCAL_PATH>/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+    "matched_targets": 200,
+    "missing_targets": [],
+    "shape_mismatch": [],
+    "passed": true,
+    "scope": "static name and dimension compatibility; runtime evidence is separately recorded",
+    "checks": [
+      {
+        "adapter": "lora_unet_blocks_0_attn_out_proj",
+        "target": "blocks.0.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_0_attn_qkv_proj",
+        "target": "blocks.0.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_0_mlp_fc1",
+        "target": "blocks.0.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_0_mlp_fc2",
+        "target": "blocks.0.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_10_attn_out_proj",
+        "target": "blocks.10.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_10_attn_qkv_proj",
+        "target": "blocks.10.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_10_mlp_fc1",
+        "target": "blocks.10.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_10_mlp_fc2",
+        "target": "blocks.10.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_11_attn_out_proj",
+        "target": "blocks.11.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_11_attn_qkv_proj",
+        "target": "blocks.11.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_11_mlp_fc1",
+        "target": "blocks.11.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_11_mlp_fc2",
+        "target": "blocks.11.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_12_attn_out_proj",
+        "target": "blocks.12.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_12_attn_qkv_proj",
+        "target": "blocks.12.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_12_mlp_fc1",
+        "target": "blocks.12.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_12_mlp_fc2",
+        "target": "blocks.12.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_13_attn_out_proj",
+        "target": "blocks.13.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_13_attn_qkv_proj",
+        "target": "blocks.13.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_13_mlp_fc1",
+        "target": "blocks.13.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_13_mlp_fc2",
+        "target": "blocks.13.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_14_attn_out_proj",
+        "target": "blocks.14.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_14_attn_qkv_proj",
+        "target": "blocks.14.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_14_mlp_fc1",
+        "target": "blocks.14.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_14_mlp_fc2",
+        "target": "blocks.14.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_15_attn_out_proj",
+        "target": "blocks.15.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_15_attn_qkv_proj",
+        "target": "blocks.15.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_15_mlp_fc1",
+        "target": "blocks.15.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_15_mlp_fc2",
+        "target": "blocks.15.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_16_attn_out_proj",
+        "target": "blocks.16.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_16_attn_qkv_proj",
+        "target": "blocks.16.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_16_mlp_fc1",
+        "target": "blocks.16.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_16_mlp_fc2",
+        "target": "blocks.16.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_17_attn_out_proj",
+        "target": "blocks.17.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_17_attn_qkv_proj",
+        "target": "blocks.17.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_17_mlp_fc1",
+        "target": "blocks.17.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_17_mlp_fc2",
+        "target": "blocks.17.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_18_attn_out_proj",
+        "target": "blocks.18.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_18_attn_qkv_proj",
+        "target": "blocks.18.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_18_mlp_fc1",
+        "target": "blocks.18.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_18_mlp_fc2",
+        "target": "blocks.18.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_19_attn_out_proj",
+        "target": "blocks.19.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_19_attn_qkv_proj",
+        "target": "blocks.19.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_19_mlp_fc1",
+        "target": "blocks.19.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_19_mlp_fc2",
+        "target": "blocks.19.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_1_attn_out_proj",
+        "target": "blocks.1.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_1_attn_qkv_proj",
+        "target": "blocks.1.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_1_mlp_fc1",
+        "target": "blocks.1.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_1_mlp_fc2",
+        "target": "blocks.1.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_20_attn_out_proj",
+        "target": "blocks.20.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_20_attn_qkv_proj",
+        "target": "blocks.20.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_20_mlp_fc1",
+        "target": "blocks.20.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_20_mlp_fc2",
+        "target": "blocks.20.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_21_attn_out_proj",
+        "target": "blocks.21.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_21_attn_qkv_proj",
+        "target": "blocks.21.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_21_mlp_fc1",
+        "target": "blocks.21.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_21_mlp_fc2",
+        "target": "blocks.21.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_22_attn_out_proj",
+        "target": "blocks.22.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_22_attn_qkv_proj",
+        "target": "blocks.22.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_22_mlp_fc1",
+        "target": "blocks.22.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_22_mlp_fc2",
+        "target": "blocks.22.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_23_attn_out_proj",
+        "target": "blocks.23.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_23_attn_qkv_proj",
+        "target": "blocks.23.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_23_mlp_fc1",
+        "target": "blocks.23.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_23_mlp_fc2",
+        "target": "blocks.23.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_24_attn_out_proj",
+        "target": "blocks.24.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_24_attn_qkv_proj",
+        "target": "blocks.24.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_24_mlp_fc1",
+        "target": "blocks.24.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_24_mlp_fc2",
+        "target": "blocks.24.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_25_attn_out_proj",
+        "target": "blocks.25.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_25_attn_qkv_proj",
+        "target": "blocks.25.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_25_mlp_fc1",
+        "target": "blocks.25.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_25_mlp_fc2",
+        "target": "blocks.25.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_26_attn_out_proj",
+        "target": "blocks.26.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_26_attn_qkv_proj",
+        "target": "blocks.26.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_26_mlp_fc1",
+        "target": "blocks.26.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_26_mlp_fc2",
+        "target": "blocks.26.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_27_attn_out_proj",
+        "target": "blocks.27.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_27_attn_qkv_proj",
+        "target": "blocks.27.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_27_mlp_fc1",
+        "target": "blocks.27.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_27_mlp_fc2",
+        "target": "blocks.27.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_28_attn_out_proj",
+        "target": "blocks.28.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_28_attn_qkv_proj",
+        "target": "blocks.28.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_28_mlp_fc1",
+        "target": "blocks.28.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_28_mlp_fc2",
+        "target": "blocks.28.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_29_attn_out_proj",
+        "target": "blocks.29.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_29_attn_qkv_proj",
+        "target": "blocks.29.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_29_mlp_fc1",
+        "target": "blocks.29.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_29_mlp_fc2",
+        "target": "blocks.29.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_2_attn_out_proj",
+        "target": "blocks.2.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_2_attn_qkv_proj",
+        "target": "blocks.2.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_2_mlp_fc1",
+        "target": "blocks.2.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_2_mlp_fc2",
+        "target": "blocks.2.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_30_attn_out_proj",
+        "target": "blocks.30.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_30_attn_qkv_proj",
+        "target": "blocks.30.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_30_mlp_fc1",
+        "target": "blocks.30.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_30_mlp_fc2",
+        "target": "blocks.30.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_31_attn_out_proj",
+        "target": "blocks.31.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_31_attn_qkv_proj",
+        "target": "blocks.31.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_31_mlp_fc1",
+        "target": "blocks.31.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_31_mlp_fc2",
+        "target": "blocks.31.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_32_attn_out_proj",
+        "target": "blocks.32.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_32_attn_qkv_proj",
+        "target": "blocks.32.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_32_mlp_fc1",
+        "target": "blocks.32.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_32_mlp_fc2",
+        "target": "blocks.32.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_33_attn_out_proj",
+        "target": "blocks.33.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_33_attn_qkv_proj",
+        "target": "blocks.33.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_33_mlp_fc1",
+        "target": "blocks.33.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_33_mlp_fc2",
+        "target": "blocks.33.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_34_attn_out_proj",
+        "target": "blocks.34.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_34_attn_qkv_proj",
+        "target": "blocks.34.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_34_mlp_fc1",
+        "target": "blocks.34.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_34_mlp_fc2",
+        "target": "blocks.34.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_35_attn_out_proj",
+        "target": "blocks.35.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_35_attn_qkv_proj",
+        "target": "blocks.35.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_35_mlp_fc1",
+        "target": "blocks.35.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_35_mlp_fc2",
+        "target": "blocks.35.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_36_attn_out_proj",
+        "target": "blocks.36.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_36_attn_qkv_proj",
+        "target": "blocks.36.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_36_mlp_fc1",
+        "target": "blocks.36.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_36_mlp_fc2",
+        "target": "blocks.36.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_37_attn_out_proj",
+        "target": "blocks.37.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_37_attn_qkv_proj",
+        "target": "blocks.37.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_37_mlp_fc1",
+        "target": "blocks.37.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_37_mlp_fc2",
+        "target": "blocks.37.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_38_attn_out_proj",
+        "target": "blocks.38.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_38_attn_qkv_proj",
+        "target": "blocks.38.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_38_mlp_fc1",
+        "target": "blocks.38.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_38_mlp_fc2",
+        "target": "blocks.38.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_39_attn_out_proj",
+        "target": "blocks.39.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_39_attn_qkv_proj",
+        "target": "blocks.39.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_39_mlp_fc1",
+        "target": "blocks.39.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_39_mlp_fc2",
+        "target": "blocks.39.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_3_attn_out_proj",
+        "target": "blocks.3.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_3_attn_qkv_proj",
+        "target": "blocks.3.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_3_mlp_fc1",
+        "target": "blocks.3.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_3_mlp_fc2",
+        "target": "blocks.3.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_40_attn_out_proj",
+        "target": "blocks.40.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_40_attn_qkv_proj",
+        "target": "blocks.40.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_40_mlp_fc1",
+        "target": "blocks.40.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_40_mlp_fc2",
+        "target": "blocks.40.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_41_attn_out_proj",
+        "target": "blocks.41.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_41_attn_qkv_proj",
+        "target": "blocks.41.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_41_mlp_fc1",
+        "target": "blocks.41.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_41_mlp_fc2",
+        "target": "blocks.41.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_42_attn_out_proj",
+        "target": "blocks.42.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_42_attn_qkv_proj",
+        "target": "blocks.42.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_42_mlp_fc1",
+        "target": "blocks.42.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_42_mlp_fc2",
+        "target": "blocks.42.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_43_attn_out_proj",
+        "target": "blocks.43.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_43_attn_qkv_proj",
+        "target": "blocks.43.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_43_mlp_fc1",
+        "target": "blocks.43.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_43_mlp_fc2",
+        "target": "blocks.43.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_44_attn_out_proj",
+        "target": "blocks.44.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_44_attn_qkv_proj",
+        "target": "blocks.44.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_44_mlp_fc1",
+        "target": "blocks.44.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_44_mlp_fc2",
+        "target": "blocks.44.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_45_attn_out_proj",
+        "target": "blocks.45.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_45_attn_qkv_proj",
+        "target": "blocks.45.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_45_mlp_fc1",
+        "target": "blocks.45.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_45_mlp_fc2",
+        "target": "blocks.45.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_46_attn_out_proj",
+        "target": "blocks.46.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_46_attn_qkv_proj",
+        "target": "blocks.46.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_46_mlp_fc1",
+        "target": "blocks.46.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_46_mlp_fc2",
+        "target": "blocks.46.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_47_attn_out_proj",
+        "target": "blocks.47.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_47_attn_qkv_proj",
+        "target": "blocks.47.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_47_mlp_fc1",
+        "target": "blocks.47.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_47_mlp_fc2",
+        "target": "blocks.47.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_48_attn_out_proj",
+        "target": "blocks.48.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_48_attn_qkv_proj",
+        "target": "blocks.48.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_48_mlp_fc1",
+        "target": "blocks.48.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_48_mlp_fc2",
+        "target": "blocks.48.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_49_attn_out_proj",
+        "target": "blocks.49.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_49_attn_qkv_proj",
+        "target": "blocks.49.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_49_mlp_fc1",
+        "target": "blocks.49.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_49_mlp_fc2",
+        "target": "blocks.49.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_4_attn_out_proj",
+        "target": "blocks.4.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_4_attn_qkv_proj",
+        "target": "blocks.4.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_4_mlp_fc1",
+        "target": "blocks.4.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_4_mlp_fc2",
+        "target": "blocks.4.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_5_attn_out_proj",
+        "target": "blocks.5.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_5_attn_qkv_proj",
+        "target": "blocks.5.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_5_mlp_fc1",
+        "target": "blocks.5.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_5_mlp_fc2",
+        "target": "blocks.5.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_6_attn_out_proj",
+        "target": "blocks.6.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_6_attn_qkv_proj",
+        "target": "blocks.6.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_6_mlp_fc1",
+        "target": "blocks.6.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_6_mlp_fc2",
+        "target": "blocks.6.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_7_attn_out_proj",
+        "target": "blocks.7.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_7_attn_qkv_proj",
+        "target": "blocks.7.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_7_mlp_fc1",
+        "target": "blocks.7.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_7_mlp_fc2",
+        "target": "blocks.7.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_8_attn_out_proj",
+        "target": "blocks.8.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_8_attn_qkv_proj",
+        "target": "blocks.8.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_8_mlp_fc1",
+        "target": "blocks.8.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_8_mlp_fc2",
+        "target": "blocks.8.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_9_attn_out_proj",
+        "target": "blocks.9.attn.out_proj.weight",
+        "base_shape": [
+          5376,
+          7168
+        ],
+        "down": [
+          32,
+          7168
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_9_attn_qkv_proj",
+        "target": "blocks.9.attn.qkv_proj.weight",
+        "base_shape": [
+          21504,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          21504,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_9_mlp_fc1",
+        "target": "blocks.9.mlp.fc1.weight",
+        "base_shape": [
+          28672,
+          5376
+        ],
+        "down": [
+          32,
+          5376
+        ],
+        "up": [
+          28672,
+          32
+        ],
+        "shape_matches": true
+      },
+      {
+        "adapter": "lora_unet_blocks_9_mlp_fc2",
+        "target": "blocks.9.mlp.fc2.weight",
+        "base_shape": [
+          5376,
+          14336
+        ],
+        "down": [
+          32,
+          14336
+        ],
+        "up": [
+          5376,
+          32
+        ],
+        "shape_matches": true
+      }
+    ]
+  }
+]

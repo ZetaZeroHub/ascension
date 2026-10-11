@@ -1,0 +1,20 @@
+[
+  {
+    "eid": "16-C",
+    "only_adapter_changed": true,
+    "frames": 73,
+    "mean_pixel_difference_0_255": 14.234492935546458,
+    "first_frame_difference": 2.5227084159851074,
+    "note": "Pixel difference measures change, not aesthetic quality.",
+    "comparison_sha256": "8a1430836997c6f07f93c0e571edb39f3e91dc5f1dce6840fb25a7697ccaae5c"
+  },
+  {
+    "eid": "19-D",
+    "only_adapter_changed": true,
+    "frames": 73,
+    "mean_pixel_difference_0_255": 86.34335117470728,
+    "first_frame_difference": 2.7532408237457275,
+    "note": "Pixel difference measures change, not aesthetic quality.",
+    "comparison_sha256": "76ab2817c8575041c59e4a2b1df088a18a68bcb7cd2858219f8c6e3f7ada74e3"
+  }
+]

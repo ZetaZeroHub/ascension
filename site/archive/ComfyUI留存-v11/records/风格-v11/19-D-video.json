@@ -1,0 +1,32 @@
+{
+  "eid": "19-D",
+  "prompt_id": "d3a6afb9-d4ba-480d-a5b9-1a9e76d16934",
+  "file": "clips\\19-D.mp4",
+  "native_file": "native\\19-D.mp4",
+  "native_size": [
+    640,
+    384
+  ],
+  "resolution_note": "Generated at 640x384, centre-cropped to 640x360 and Lanczos scaled to 1280x720",
+  "steps": 8,
+  "turbo": true,
+  "seed": 26101119,
+  "style_adapter": "FeishengStyleV11/minimax_h3_looping_sketch_anime_v1.safetensors",
+  "style_strength": 0.95,
+  "first_frame_sha256": "4420a0eca2c452dbcfbe187b36cf37937bebdcc43e5b189ce7793b3d7a69c06e",
+  "generation_seconds": 181.186,
+  "sha256": "d2224011d1ac940297620428e1bf4856216ded746fbb0b3689d02c0b43ea2b36",
+  "native_sha256": "d5b0c518fa968d8a0e6f7ce99a2e53d6883ef1b4bbd6fe463d450750e679b843",
+  "verified": true,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "frames": 73,
+  "duration_seconds": 3.0416666666666665,
+  "audio_streams": 0,
+  "black_frames": [],
+  "mean_frame_change": 3.7818557086090245,
+  "max_frame_change": 12.764907836914062
+}

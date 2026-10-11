@@ -1,0 +1,102 @@
+[
+  {
+    "shot": "13",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-d6948561-6ab3-443d-a80a-20415428f005.png",
+    "saved_file": "frames/13.png",
+    "sha256": "370edd070966013703289c1d56620e8a8bd5f3ea0eb2bf25309c22c4c524c69c",
+    "creative_prompt_summary": "手持开裂金色种子的手部微距，酒红大衣、金手环、暖灰城市虚焦背景",
+    "identity_reference": "reference/character.png",
+    "style": "warm grey B"
+  },
+  {
+    "shot": "14",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-3dfd0a00-97be-4775-896e-17d676e64929.png",
+    "saved_file": "frames/14.png",
+    "sha256": "e4d8e15fd4a4bfb7743eac8d1c928d345d2c000a11a9dc3c40c94a9201932361",
+    "creative_prompt_summary": "断桥边缘两只黑靴低机位细节，碎石与深渊",
+    "identity_reference": "reference/character.png",
+    "style": "warm grey B"
+  },
+  {
+    "shot": "15",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-003c6c25-0196-44b7-97a6-d1f153b72a61.png",
+    "saved_file": "frames/15.png",
+    "sha256": "ac62fa5a03e2ba8fd0deb16ed541afd477732e905e72153c5865a591768fde0b",
+    "creative_prompt_summary": "核心表面单个开裂金色种子微距，同心环，无人物",
+    "identity_reference": "reference/character.png",
+    "style": "warm grey B"
+  },
+  {
+    "shot": "16",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-f29d5085-2d11-467f-a53e-72d73c3a969a.png",
+    "saved_file": "frames/16.png",
+    "sha256": "7263b5f50aba207df67abd527ebc99332c1cd7ed4762b3fa9a579bf0fca7529a",
+    "creative_prompt_summary": "恢复城市中的主角后侧回望半身",
+    "identity_reference": "reference/character.png",
+    "style": "warm grey B"
+  },
+  {
+    "shot": "17",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-932da5fb-9297-4221-be13-6ca73485fbac.png",
+    "saved_file": "frames/17.png",
+    "sha256": "3829bbd12c83d521734d24c80c79a71e4bc11fd59b29900c67e6d8cf50f73537",
+    "creative_prompt_summary": "黑棚正面全身，主角与两位灰色雕塑服装伴舞，白色残躯雕塑及苔藓景观",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  },
+  {
+    "shot": "18",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-972a1f33-32c0-4c68-b9d6-80e9876838b2.png",
+    "saved_file": "frames/18.png",
+    "sha256": "0ca8cb5075ed1e49ee90bae1d58179b9c60eb163d1e595a5f0902c3cc1341282",
+    "creative_prompt_summary": "低机位三分之四全身独舞，白色羽翼雕塑及黑砾石枯草景观",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  },
+  {
+    "shot": "19",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-a8b6f914-dd3a-4e3f-9b8c-b21c940a308a.png",
+    "saved_file": "frames/19.png",
+    "sha256": "7e4f88f14dca5d96a883a279470467884a22a845898cfa6f68b029e22062aa82",
+    "creative_prompt_summary": "侧面全身，三人舞，白色螺旋雕塑及枯山水盆景",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  },
+  {
+    "shot": "20",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-548e250f-058e-48db-a853-52a308c13464.png",
+    "saved_file": "frames/20.png",
+    "sha256": "6433ea1d87c9642f6e5b5e2d2dd0b0fa3ddaa0403a1c41f268dfaf0c2dbbbf19",
+    "creative_prompt_summary": "高位俯拍三人舞，白色环状雕塑与圆形沙庭",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  },
+  {
+    "shot": "21",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-18f26ad7-bc8c-46a0-af57-87076009370e.png",
+    "saved_file": "frames/21.png",
+    "sha256": "3224b437b864d52c0e273dcc138ff18ec739791e726a7f2b84f66104bd77d48b",
+    "creative_prompt_summary": "三分之四半身近景，白雕塑虚焦与冷青横向光线",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  },
+  {
+    "shot": "22",
+    "provider": "built-in image_gen.imagegen",
+    "source_file": "<USER_HOME>/.codex/generated_images/01a10d13-8b77-7111-b165-05f37f961a99/exec-bf2d85a7-3d7e-41ad-bbf3-44fd2af9af24.png",
+    "saved_file": "frames/22.png",
+    "sha256": "48a43084383f378f4dd0da8494c0cb6e3f765865b526fe861de1d46f89c1baa5",
+    "creative_prompt_summary": "后方三分之四全身，白色胸像序列、树形苔藓岛与两位伴舞",
+    "identity_reference": "reference/character.png",
+    "style": "black studio, cold cyan-grey shadows, neutral skin, burgundy matte costume, white sculptures, restrained warm rim and horizontal optical streaks"
+  }
+]

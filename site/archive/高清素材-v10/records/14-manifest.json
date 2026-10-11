@@ -1,0 +1,60 @@
+{
+  "shot": "14",
+  "name": "断桥脚步",
+  "prompt_id": "fdaf15c8-d162-4faf-8655-eebf91e7bcb1",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1934.012,
+  "interpolation_seconds": 42.76694416999817,
+  "seed": 26100814,
+  "source_reference_sha256": "e4d8e15fd4a4bfb7743eac8d1c928d345d2c000a11a9dc3c40c94a9201932361",
+  "native_sha256": "b6ecab1e3cada580610d8712e419a2e14585579fda7a10d1f02dd2b37567d3b4",
+  "master_sha256": "8a84602499974f278da6dabf25e3f6db7c2be4220ee8e2b3ce27272c8323b688",
+  "smooth_sha256": "4eb7023c7e7ce2d5f7483c7d12a5e41fc7a25fdbc4e5144b40b2a6f6ba863e2f",
+  "master_file": "24fps母版\\14-断桥脚步.mp4",
+  "smooth_file": "48fps剪辑版\\14-断桥脚步.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\14-断桥脚步.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.8124207651954356,
+    "max_frame_change": 1.7928704023361206,
+    "sha256": "8a84602499974f278da6dabf25e3f6db7c2be4220ee8e2b3ce27272c8323b688"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\14-断桥脚步.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 0.46126265204813227,
+    "max_frame_change": 1.1053935289382935,
+    "sha256": "4eb7023c7e7ce2d5f7483c7d12a5e41fc7a25fdbc4e5144b40b2a6f6ba863e2f"
+  },
+  "visual_review": "pending"
+}

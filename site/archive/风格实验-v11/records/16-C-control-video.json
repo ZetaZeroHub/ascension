@@ -1,0 +1,32 @@
+{
+  "eid": "16-C-control",
+  "prompt_id": "fe503f87-7035-4a80-a389-9e32edbf1fb0",
+  "file": "clips\\16-C-control.mp4",
+  "native_file": "native\\16-C-control.mp4",
+  "native_size": [
+    640,
+    384
+  ],
+  "resolution_note": "Generated at 640x384, centre-cropped to 640x360 and Lanczos scaled to 1280x720",
+  "steps": 8,
+  "turbo": true,
+  "seed": 26101116,
+  "style_adapter": null,
+  "style_strength": 0,
+  "first_frame_sha256": "133c2f1d8da04445b05889510523c257afc5126d641d3aecee13d70bcabd1233",
+  "generation_seconds": 153.139,
+  "sha256": "724fb36a98c21e98e8ebbdb9fc5ea5f14d076ed039638723d77a60a4804528e2",
+  "native_sha256": "12097e9dd98d55b1c4f0a9ecee17026f12d8b82907b861c7789eed52846cc9ce",
+  "verified": true,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "frames": 73,
+  "duration_seconds": 3.0416666666666665,
+  "audio_streams": 0,
+  "black_frames": [],
+  "mean_frame_change": 1.7786268608437643,
+  "max_frame_change": 2.288425922393799
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19-D",
+  "shot": "19",
+  "style": "D",
+  "imagegen_file": "<USER_HOME>\\.codex\\generated_images\\01a10d13-8b77-7111-b165-05f37f961a99\\exec-d5f3b1b9-54b9-45e0-881f-47c827266678.png",
+  "prompt": "Create ONE wide 16:9 art storyboard by transforming Image 1 into the cyanotype photographic print medium shown in Image 2. Image 1 is the target scene, Image 2 is only the medium and palette reference. Preserve the exact composition, shot angle, important buildings or stage props, the same mature adult East Asian lead character's recognizable face and short bob haircut, long belted coat shape, the same separate supporting adult dancers if present, and all their poses. A refined archival cyanotype contact print on matte cotton rag paper: deep Prussian blue exposed fields, natural cream-white negative contours and human details, subtle paper fibres, delicate organic branching photogram detail integrated into existing architecture, soft unpredictable exposure edges inside the image. Genuine photographic-negative print logic and tactile tonal separation; a rich fine-art monochrome print, not a normal colour photo with a blue tint. No red or orange, pure blue and cream palette. Keep the same story moment: upright floating heroine and suspended blocks, shoulder-turn portrait and city ring, or three separate dancers with sculpture and bonsai. Full coherent scene printed on paper, no book, no label, no specimen text, no collage, no panels or frame, no logo or watermark. Keep people and architecture recognizable and the scene readable. Output only the transformed wide image.",
+  "engine": "built-in image_gen",
+  "sha256": "4420a0eca2c452dbcfbe187b36cf37937bebdcc43e5b189ce7793b3d7a69c06e",
+  "size": [
+    1672,
+    941
+  ],
+  "delivered_file": "frames\\19-D.png"
+}

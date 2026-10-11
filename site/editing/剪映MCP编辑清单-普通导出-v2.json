@@ -1,0 +1,917 @@
+{
+  "draft": {
+    "name": "飞升-MV-节拍衔接精修-v2-普通导出",
+    "width": 1280,
+    "height": 720,
+    "fps": 24
+  },
+  "tracks": [
+    {
+      "type": "video",
+      "name": "逐镜音乐与动作精修",
+      "segments": [
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\01-静止之城.mp4",
+          "start": 0,
+          "duration": 4791667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 4750000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\02-看见光.mp4",
+          "start": 4791667,
+          "duration": 4791666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 4750000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\03-接近种子.mp4",
+          "start": 9583333,
+          "duration": 4791667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 4750000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\04-眼神.mp4",
+          "start": 14375000,
+          "duration": 2416667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2375000,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\05-伸手.mp4",
+          "start": 16791667,
+          "duration": 2541666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2500000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\06-取种子.mp4",
+          "start": 19333333,
+          "duration": 3458334,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 3416667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\07-握紧种子.mp4",
+          "start": 22791667,
+          "duration": 2375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\08-内心律动.mp4",
+          "start": 25166667,
+          "duration": 2291666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2250000,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\09-奔跑.mp4",
+          "start": 27458333,
+          "duration": 2375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\10-衣摆与步伐.mp4",
+          "start": 29833333,
+          "duration": 2625000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.035
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2583333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\11-群舞行进.mp4",
+          "start": 32458333,
+          "duration": 2333334,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2291667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\12-抵达断桥.mp4",
+          "start": 34791667,
+          "duration": 3625000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 3583333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\13-桥缘脚步.mp4",
+          "start": 38416667,
+          "duration": 2375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\14-抉择.mp4",
+          "start": 40791667,
+          "duration": 2500000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2458333,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\15-赭石群舞意象.mp4",
+          "start": 43291667,
+          "duration": 1083333,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1041667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\16-石翼独舞.mp4",
+          "start": 44375000,
+          "duration": 1208333,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1166667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\17-下沉强拍.mp4",
+          "start": 45583333,
+          "duration": 1083334,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1041667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\18-决心.mp4",
+          "start": 46666667,
+          "duration": 1458333,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1416667,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\19-种子脉动.mp4",
+          "start": 48125000,
+          "duration": 2291667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2250000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\20-离桥.mp4",
+          "start": 50416667,
+          "duration": 3583333,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 3541667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\21-坠入深井.mp4",
+          "start": 54000000,
+          "duration": 3750000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 3708333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\22-放回核心.mp4",
+          "start": 57750000,
+          "duration": 2416667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2375000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\23-涟漪扩散.mp4",
+          "start": 60166667,
+          "duration": 2375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\24-俯拍旋转.mp4",
+          "start": 62541667,
+          "duration": 1041666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1000000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\25-抬臂.mp4",
+          "start": 63583333,
+          "duration": 1250000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1208333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\26-重力倒转.mp4",
+          "start": 64833333,
+          "duration": 1166667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1125000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\27-上升.mp4",
+          "start": 66000000,
+          "duration": 1208333,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.035
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1166667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\28-群舞释放.mp4",
+          "start": 67208333,
+          "duration": 1041667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1000000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\29-赭石飞升.mp4",
+          "start": 68250000,
+          "duration": 1375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\30-地貌意象.mp4",
+          "start": 69625000,
+          "duration": 541667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 500000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\31-蓝晒转换.mp4",
+          "start": 70166667,
+          "duration": 750000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 708333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\32-舞蹈扬臂.mp4",
+          "start": 70916667,
+          "duration": 1041666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1000000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\33-米纸群舞.mp4",
+          "start": 71958333,
+          "duration": 1083334,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1041667,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\34-天幕蓄力.mp4",
+          "start": 73041667,
+          "duration": 1375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1333333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\35-天幕打开.mp4",
+          "start": 74416667,
+          "duration": 2500000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.035
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2458333,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\36-回到城市.mp4",
+          "start": 76916667,
+          "duration": 2291666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2250000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\37-归来回望.mp4",
+          "start": 79208333,
+          "duration": 2416667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2375000,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\38-群舞收束.mp4",
+          "start": 81625000,
+          "duration": 1166667,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1125000,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\39-米纸记忆.mp4",
+          "start": 82791667,
+          "duration": 1250000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "uniform_scale",
+              "time": 1208333,
+              "value": 1.035
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\40-微笑.mp4",
+          "start": 84041667,
+          "duration": 2375000,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 2333333,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "source": "<EDIT_PROJECT>\\剪辑片段\\41-继续向前与余韵.mp4",
+          "start": 86416667,
+          "duration": 8666666,
+          "volume": 0,
+          "keyframes": [
+            {
+              "property": "uniform_scale",
+              "time": 0,
+              "value": 1.02
+            },
+            {
+              "property": "uniform_scale",
+              "time": 8625000,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 0,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 7166667,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 8625000,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "name": "上升微粒与核心涟漪",
+      "segments": [
+        {
+          "source": "<EDIT_PROJECT>\\上升微粒与核心涟漪-v2.mp4",
+          "start": 0,
+          "duration": 95083333,
+          "volume": 0,
+          "mix_mode": "滤色",
+          "clip": {
+            "alpha": 0.78
+          }
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "name": "种子脉冲与冷暖光束",
+      "segments": [
+        {
+          "source": "<EDIT_PROJECT>\\冷暖光束与种子脉冲-v2.mp4",
+          "start": 0,
+          "duration": 95083333,
+          "volume": 0,
+          "mix_mode": "滤色",
+          "clip": {
+            "alpha": 0.74
+          }
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "name": "光学转场",
+      "segments": [
+        {
+          "source": "<EDIT_PROJECT>\\切点光学过渡-v2.mp4",
+          "start": 0,
+          "duration": 95083333,
+          "volume": 0,
+          "mix_mode": "滤色",
+          "clip": {
+            "alpha": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "飞升原音乐",
+      "segments": [
+        {
+          "source": "<USER_HOME>\\Documents\\Codex\\2026-10-11\\mcp-thread-01a1272d-8c0d-7bd1-800c\\outputs\\飞升-原音乐母带.wav",
+          "start": 0,
+          "duration": 95081000,
+          "volume": 1
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "片名与尾题",
+      "segments": [
+        {
+          "text": "飞 升",
+          "start": 1500000,
+          "duration": 3000000,
+          "style": {
+            "size": 6.5,
+            "color": [
+              0.91,
+              0.875,
+              0.79
+            ],
+            "align": 1,
+            "letter_spacing": 4
+          },
+          "clip": {
+            "transform_x": -0.79,
+            "transform_y": -0.77
+          },
+          "keyframes": [
+            {
+              "property": "alpha",
+              "time": 0,
+              "value": 0
+            },
+            {
+              "property": "alpha",
+              "time": 600000,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 2400000,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 2958333,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "飞 升",
+          "start": 90400000,
+          "duration": 4450000,
+          "style": {
+            "size": 11,
+            "color": [
+              0.91,
+              0.875,
+              0.79
+            ],
+            "align": 1,
+            "letter_spacing": 4
+          },
+          "clip": {
+            "transform_x": 0,
+            "transform_y": 0
+          },
+          "keyframes": [
+            {
+              "property": "alpha",
+              "time": 0,
+              "value": 0
+            },
+            {
+              "property": "alpha",
+              "time": 600000,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 3850000,
+              "value": 1
+            },
+            {
+              "property": "alpha",
+              "time": 4408333,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

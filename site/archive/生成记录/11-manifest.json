@@ -1,0 +1,17 @@
+{
+  "scene": "11",
+  "prompt_id": "67cc5233-6a07-427c-a017-c0f9fb71954a",
+  "model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+  "seed": 26071011,
+  "steps": 20,
+  "native_size": [
+    704,
+    384
+  ],
+  "frames": 124,
+  "generation_seconds": 424.626,
+  "file": "<PROJECT>\\work\\feisheng\\remotion\\public\\clips\\11.mp4",
+  "sha256": "1668389870967e6a1c0ba90abe42de0aa921ed965361864691670fba6831b3f4",
+  "first_sha256": "9d9b12d5ecdfc9c8bf1beda63a202a3ac11bb1ccfe4b266c0fa6a04a085c50d8",
+  "last_sha256": "6a139a50f694271a57c76885f464f9238ea3a9659fb971185a59c7f08232861e"
+}

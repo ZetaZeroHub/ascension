@@ -1,0 +1,32 @@
+{
+  "method": "full-file decoding plus sequential contact-sheet visual review; not real-time playback or frame-by-frame full-resolution review",
+  "sample_stride_frames": {
+    "13": 12,
+    "14": 12,
+    "15": 12,
+    "16": 8,
+    "17": 8,
+    "18": 8,
+    "19": 8,
+    "20": 8,
+    "21": 6,
+    "22": 6
+  },
+  "result": "usable editable footage with limitations documented",
+  "confidence": {
+    "technical": "high",
+    "visual_microdetail": "medium"
+  },
+  "observations": {
+    "13": "手指逐渐握紧，裂缝亮度变化，单一道具保持；适合决心插镜。",
+    "14": "前脚靠近边缘并落稳，碎石下落，镜头连续。",
+    "15": "种子保持在地面，环状光向外扩散，适合核心触发之后。",
+    "16": "侧脸回望后微笑，面部与原角色大体一致，低分辨率微细节变化。",
+    "17": "侧步接抬臂和下蹲；主角与两位伴舞保持分离，手部微细节偏软。",
+    "18": "下蹲接前倾伸展；背景光带扩张较明显，可作强节拍视觉变化。",
+    "19": "侧向行进接抬臂舒展；背景雕塑在运镜中有轻微形状变化，宜短截使用。",
+    "20": "俯拍旋转及衣摆展开，主角与伴舞分离；实际转身幅度大于提示词设定。",
+    "21": "胸肩与手臂舞句，包含抬膝，手臂短暂遮挡脸部；近景细节偏软。",
+    "22": "背面迈步接转身收束，后排伴舞抬臂；实际转身大于提示词的四分之一圈。"
+  }
+}

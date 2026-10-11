@@ -1,0 +1,60 @@
+{
+  "shot": "19",
+  "name": "侧面行进",
+  "prompt_id": "7afb06b4-cd6d-43d8-ae9f-ecb24370727f",
+  "steps": 25,
+  "turbo_lora": false,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "source_frames": 124,
+  "source_fps": 24,
+  "output_frames": 248,
+  "output_fps": 48,
+  "duration": 5.166666666666667,
+  "interpolation": "FFmpeg motion compensated interpolation, bidirectional EPZS, adaptive OBMC, VSBMC",
+  "generation_seconds": 1988.605,
+  "interpolation_seconds": 44.771522521972656,
+  "seed": 26100819,
+  "source_reference_sha256": "7e4f88f14dca5d96a883a279470467884a22a845898cfa6f68b029e22062aa82",
+  "native_sha256": "af565a4c414eab37c2a4ca8f9040a078dab717a4df31a292c41d421aa9c9afb1",
+  "master_sha256": "6499039200bee8d4338818c71014e0881c4f276d4c6b32bec5ac67ad8f2655bb",
+  "smooth_sha256": "1dedb8a673f8528945cb26b6f0c6832955af26818b2f0d7b4e73f6094dc0ca52",
+  "master_file": "24fps母版\\19-侧面行进.mp4",
+  "smooth_file": "48fps剪辑版\\19-侧面行进.mp4",
+  "verified": true,
+  "qa_master": {
+    "file": "24fps母版\\19-侧面行进.mp4",
+    "frames": 124,
+    "fps": 24.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 2.0082586198681738,
+    "max_frame_change": 4.199282169342041,
+    "sha256": "6499039200bee8d4338818c71014e0881c4f276d4c6b32bec5ac67ad8f2655bb"
+  },
+  "qa_smooth": {
+    "file": "48fps剪辑版\\19-侧面行进.mp4",
+    "frames": 248,
+    "fps": 48.0,
+    "size": [
+      1280,
+      720
+    ],
+    "duration": 5.166666666666667,
+    "black_frames": [],
+    "mean_frame_change": 1.127460265101352,
+    "max_frame_change": 2.4406943321228027,
+    "sha256": "1dedb8a673f8528945cb26b6f0c6832955af26818b2f0d7b4e73f6094dc0ca52"
+  },
+  "visual_review": "pending"
+}

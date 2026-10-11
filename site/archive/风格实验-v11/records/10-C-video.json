@@ -1,0 +1,32 @@
+{
+  "eid": "10-C",
+  "prompt_id": "ec5e0538-ed92-4512-a524-6aae141efb21",
+  "file": "clips\\10-C.mp4",
+  "native_file": "native\\10-C.mp4",
+  "native_size": [
+    640,
+    384
+  ],
+  "resolution_note": "Generated at 640x384, centre-cropped to 640x360 and Lanczos scaled to 1280x720",
+  "steps": 8,
+  "turbo": true,
+  "seed": 26101110,
+  "style_adapter": "FeishengStyleV11/h3-realism-people-t2v-i2v-r2v.safetensors",
+  "style_strength": 0.7,
+  "first_frame_sha256": "9ab165e92f9fc4e823246e753303beb66221d63686a4c8d288c9fb3787b99a6c",
+  "generation_seconds": 150.116,
+  "sha256": "529d896033ef8843f46eb9273adb0a4cd5e6c69555f62abd1a1f23e7189a76b4",
+  "native_sha256": "6ef54ec134b71a2af3ca6ad79c1af44a212e15df7f10ccf26c6f38758cb2f436",
+  "verified": true,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "frames": 73,
+  "duration_seconds": 3.0416666666666665,
+  "audio_streams": 0,
+  "black_frames": [],
+  "mean_frame_change": 0.9499048350585831,
+  "max_frame_change": 1.8869444131851196
+}

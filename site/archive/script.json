@@ -1,0 +1,89 @@
+{
+  "logline": "一条被重力与秩序束缚的红绸，在光的召唤下穿越试炼，放下对自我的紧缚，飞升后把光带回原来的世界。",
+  "scenes": [
+    {
+      "id": "01",
+      "title": "重力之室",
+      "hero_stage": "平凡世界",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The silk tip slowly lifts in a faint breath of air. Keep the walls, plinth, light and camera stable. A contemplative nearly still opening. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "02",
+      "title": "来自裂隙的召唤",
+      "hero_stage": "冒险召唤",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The slit of warm light slowly widens and the ribbon tip rises toward it. A very slow push forward, no camera rotation. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "03",
+      "title": "自缚",
+      "hero_stage": "拒绝召唤",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The simple knot slowly tightens around the pillar. The loose tail trembles then becomes still. No extra ribbon strands appear. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "04",
+      "title": "水中的路",
+      "hero_stage": "指引",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon tip touches the water once and a concentric ripple expands. Hold the doorway and reflection stable. No new objects. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "05",
+      "title": "越界",
+      "hero_stage": "跨越门槛",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon flows gently through the portal in one continuous movement. Keep its material and continuous shape, with a very slow forward camera movement. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "06",
+      "title": "无尽阶梯",
+      "hero_stage": "试炼",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon slowly climbs the steps like a current of air drawing it upward. The staircase remains rigid and stable. One slow upward camera drift. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "07",
+      "title": "镜廊",
+      "hero_stage": "逼近深处",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon advances along the corridor, reflections moving coherently with it. One slow forward dolly. No additional physical ribbons or characters. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "08",
+      "title": "悬于深渊",
+      "hero_stage": "磨难",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon slowly bows downward under an invisible weight. The stone architecture stays still. Build tension without breaking the ribbon into random fragments. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "09",
+      "title": "归零",
+      "hero_stage": "死亡与放下",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The silk coil slowly tightens and the tiny golden core brightens. Hold the dramatic release for the next shot; no cut, no explosion. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "10",
+      "title": "破茧",
+      "hero_stage": "重生",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The red silk cocoon unfurls into a broad graceful arc as the golden core reveals itself. This is the strongest release in the film. Keep one connected piece of fabric and stable architecture. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "11",
+      "title": "穿环而上",
+      "hero_stage": "回归之路",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon ascends smoothly through the rings. Very slow upward camera movement, rigid rings, connected fabric, no sudden cuts. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "12",
+      "title": "飞升",
+      "hero_stage": "最终转化",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The broad silk arc rises and reveals the warm light. A deliberate graceful release, with a subtle push forward. Keep the horizon and monolith still. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "13",
+      "title": "携光归来",
+      "hero_stage": "带回礼物",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The ribbon gently descends and touches the plinth once; warm light slowly spreads along existing floor seams. No destruction, no new architecture. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    },
+    {
+      "id": "14",
+      "title": "世界已改变",
+      "hero_stage": "新平衡",
+      "visual_action": "Monumental contemporary abstract surrealist cinema, photoreal sculptural installation, brutalist concrete, obsidian reflecting water, one continuous deep-crimson silk ribbon as the sole protagonist, no human figures, no faces, no birds, no lettering. Restrained charcoal grey, crimson and pale gold palette. Extreme architectural scale, immaculate composition, dramatic volumetric side light, atmospheric depth, tactile silk with natural folds, subtle fine film grain. Landscape 16:9 film still, full bleed, no border, no captions, no watermark. One clear focal subject. The silk settles almost imperceptibly into stillness. Locked camera, stable golden light, a long breath of calm for the music tail. Use the supplied first and last frame as the exact visual anchors. One continuous shot. No speech, no captions."
+    }
+  ]
+}

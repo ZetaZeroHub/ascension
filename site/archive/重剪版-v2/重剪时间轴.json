@@ -1,0 +1,199 @@
+{
+  "fps": 24,
+  "durationInFrames": 2282,
+  "audioOffsetFrames": 0,
+  "scenes": [
+    {
+      "id": "01",
+      "from": 0,
+      "to": 236,
+      "title": "重力之室"
+    },
+    {
+      "id": "02",
+      "from": 236,
+      "to": 462,
+      "title": "来自裂隙的召唤"
+    },
+    {
+      "id": "03",
+      "from": 462,
+      "to": 577,
+      "title": "自缚"
+    },
+    {
+      "id": "04",
+      "from": 577,
+      "to": 692,
+      "title": "水中的路"
+    },
+    {
+      "id": "05",
+      "from": 692,
+      "to": 807,
+      "title": "越界"
+    },
+    {
+      "id": "06",
+      "from": 807,
+      "to": 922,
+      "title": "无尽阶梯"
+    },
+    {
+      "id": "07",
+      "from": 922,
+      "to": 1037,
+      "title": "镜廊"
+    },
+    {
+      "id": "08",
+      "from": 1037,
+      "to": 1210,
+      "title": "悬于深渊"
+    },
+    {
+      "id": "09",
+      "from": 1210,
+      "to": 1382,
+      "title": "归零"
+    },
+    {
+      "id": "10",
+      "from": 1382,
+      "to": 1498,
+      "title": "破茧"
+    },
+    {
+      "id": "11",
+      "from": 1498,
+      "to": 1613,
+      "title": "穿环而上"
+    },
+    {
+      "id": "12",
+      "from": 1613,
+      "to": 1843,
+      "title": "飞升"
+    },
+    {
+      "id": "13",
+      "from": 1843,
+      "to": 2074,
+      "title": "携光归来"
+    },
+    {
+      "id": "14",
+      "from": 2074,
+      "to": 2282,
+      "title": "世界已改变"
+    }
+  ],
+  "cuts": [
+    {
+      "kind": "scene_cut",
+      "scene": "02",
+      "frame": 236,
+      "seconds": 9.833333333333334,
+      "basis": "unchanged opening edit",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "03",
+      "frame": 462,
+      "seconds": 19.25,
+      "basis": "unchanged opening edit",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "04",
+      "frame": 577,
+      "seconds": 24.041666666666668,
+      "basis": "unchanged opening edit",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "05",
+      "frame": 692,
+      "seconds": 28.833333333333332,
+      "basis": "unchanged opening edit",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "06",
+      "frame": 807,
+      "seconds": 33.625,
+      "basis": "unchanged opening edit",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "07",
+      "frame": 922,
+      "seconds": 38.416666666666664,
+      "basis": "38.4s low-frequency attack; begin mirror trial at the requested revision range",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "08",
+      "frame": 1037,
+      "seconds": 43.208333333333336,
+      "basis": "43.2s phrase pulse; move from mirror corridor into bridge tension",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "09",
+      "frame": 1210,
+      "seconds": 50.416666666666664,
+      "basis": "50.4s spectral attack and harmonic-change neighborhood; extend anticipation",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "10",
+      "frame": 1382,
+      "seconds": 57.583333333333336,
+      "basis": "57.6s sustained bass entry; retain the main release",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "11",
+      "frame": 1498,
+      "seconds": 62.416666666666664,
+      "basis": "62.4s bass attack after two 2.4-second bar units; tighten the opening action",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "12",
+      "frame": 1613,
+      "seconds": 67.20833333333333,
+      "basis": "67.2s strongest late bass transient; reveal the ascension at the phrase reset",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "13",
+      "frame": 1843,
+      "seconds": 76.79166666666667,
+      "basis": "76.8s onset before the bass texture falls away; transition into return",
+      "confidence": "medium"
+    },
+    {
+      "kind": "scene_cut",
+      "scene": "14",
+      "frame": 2074,
+      "seconds": 86.41666666666667,
+      "basis": "86.4s last active attack before decay; begin resolution before the tail",
+      "confidence": "medium"
+    }
+  ],
+  "reframeAccents": [],
+  "note": "V2 uses local multiband attacks and phrase grouping; inferred bar grouping is not a verified score transcription. Removes all six abrupt reframe accents."
+}

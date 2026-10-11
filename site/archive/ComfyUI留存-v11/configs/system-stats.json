@@ -1,0 +1,82 @@
+{
+  "system": {
+    "os": "win32",
+    "ram_total": 34212798464,
+    "ram_free": 9676738560,
+    "comfyui_version": "0.37.4",
+    "required_frontend_version": "1.52.7",
+    "installed_templates_version": "0.11.69",
+    "required_templates_version": "0.11.69",
+    "comfy_package_versions": [
+      {
+        "name": "comfyui-frontend-package",
+        "installed": "1.52.7",
+        "required": "1.52.7"
+      },
+      {
+        "name": "comfyui-workflow-templates",
+        "installed": "0.11.69",
+        "required": "0.11.69"
+      },
+      {
+        "name": "comfyui-embedded-docs",
+        "installed": "0.5.12",
+        "required": "0.5.12"
+      },
+      {
+        "name": "comfy-kitchen",
+        "installed": "0.2.35",
+        "required": "0.2.35"
+      },
+      {
+        "name": "comfy-aimdo",
+        "installed": "0.5.5",
+        "required": "0.5.5"
+      }
+    ],
+    "python_version": "3.12.9 (main, Feb 12 2025, 14:52:31) [MSC v.1942 64 bit (AMD64)]",
+    "pytorch_version": "2.9.1+cu130",
+    "embedded_python": false,
+    "deploy_environment": "local-desktop2-standalone",
+    "argv": [
+      "ComfyUI/main.py",
+      "--base-directory",
+      "<LOCAL_PATH>/newcomfyui",
+      "--user-directory",
+      "<LOCAL_PATH>/user",
+      "--input-directory",
+      "<LOCAL_PATH>/input",
+      "--output-directory",
+      "<LOCAL_PATH>/output",
+      "--temp-directory",
+      "<PROJECT>\\work\\feisheng\\style-v11\\ComfyTemp",
+      "--extra-model-paths-config",
+      "<USER_HOME>/AppData/Roaming/Comfy Desktop/instance-model-paths/inst-1786180594835.yaml",
+      "--port",
+      "8000",
+      "--disable-all-custom-nodes",
+      "--disable-api-nodes",
+      "--enable-dynamic-vram",
+      "--fast-disk",
+      "--disable-pinned-memory",
+      "--vram-headroom",
+      "2.5",
+      "--cache-ram",
+      "6",
+      "8",
+      "--preview-method",
+      "none"
+    ]
+  },
+  "devices": [
+    {
+      "name": "cuda:0 NVIDIA GeForce RTX 4060 Ti : cudaMallocAsync",
+      "type": "cuda",
+      "index": 0,
+      "vram_total": 8585216000,
+      "vram_free": 5523153816,
+      "torch_vram_total": 100663296,
+      "torch_vram_free": 84190104
+    }
+  ]
+}

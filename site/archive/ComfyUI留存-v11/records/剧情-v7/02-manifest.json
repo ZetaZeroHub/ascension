@@ -1,0 +1,18 @@
+{
+  "shot": "02",
+  "prompt_id": "86fb5101-0f1d-4373-8979-fb2ef5f46ab3",
+  "generation_seconds": 1972.542,
+  "native_size": [
+    1280,
+    736
+  ],
+  "output_size": [
+    1280,
+    720
+  ],
+  "frames": 124,
+  "fps": 24,
+  "steps": 25,
+  "seed": 26100802,
+  "sha256": "7d3c5bbd4ef50fd5084e29bec814a978830094e95b26136eba54917659c2a082"
+}

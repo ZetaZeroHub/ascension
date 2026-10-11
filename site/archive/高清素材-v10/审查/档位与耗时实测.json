@@ -1,0 +1,90 @@
+{
+  "paired_shots": 10,
+  "total_shots": 10,
+  "fast_generation_seconds": {
+    "min": 174.303,
+    "median": 183.813,
+    "max": 209.109
+  },
+  "hd_generation_seconds": {
+    "min": 1905.83,
+    "median": 1959.931,
+    "max": 2002.793
+  },
+  "hd_interpolation_seconds": {
+    "median": 45.63905084133148
+  },
+  "median_hd_to_fast_generation_ratio": 10.66263539575547,
+  "rows": [
+    {
+      "shot": "13",
+      "name": "握紧种子",
+      "fast_seconds": 174.303,
+      "hd_seconds": 1949.884,
+      "interpolation_seconds": 46.2725932598114
+    },
+    {
+      "shot": "14",
+      "name": "断桥脚步",
+      "fast_seconds": 179.551,
+      "hd_seconds": 1934.012,
+      "interpolation_seconds": 42.76694416999817
+    },
+    {
+      "shot": "15",
+      "name": "核心涟漪",
+      "fast_seconds": 201.25,
+      "hd_seconds": 1905.83,
+      "interpolation_seconds": 43.15477180480957
+    },
+    {
+      "shot": "16",
+      "name": "归来回望",
+      "fast_seconds": 187.129,
+      "hd_seconds": 1966.0,
+      "interpolation_seconds": 45.58171629905701
+    },
+    {
+      "shot": "17",
+      "name": "正面群舞",
+      "fast_seconds": 209.109,
+      "hd_seconds": 1959.053,
+      "interpolation_seconds": 47.86187672615051
+    },
+    {
+      "shot": "18",
+      "name": "低机位独舞",
+      "fast_seconds": 180.497,
+      "hd_seconds": 1969.062,
+      "interpolation_seconds": 45.09443950653076
+    },
+    {
+      "shot": "19",
+      "name": "侧面行进",
+      "fast_seconds": 197.835,
+      "hd_seconds": 1988.605,
+      "interpolation_seconds": 44.771522521972656
+    },
+    {
+      "shot": "20",
+      "name": "俯拍旋转",
+      "fast_seconds": 177.31,
+      "hd_seconds": 1941.202,
+      "interpolation_seconds": 48.74385213851929
+    },
+    {
+      "shot": "21",
+      "name": "近景律动",
+      "fast_seconds": 202.412,
+      "hd_seconds": 2002.793,
+      "interpolation_seconds": 45.69638538360596
+    },
+    {
+      "shot": "22",
+      "name": "后方收束",
+      "fast_seconds": 178.23,
+      "hd_seconds": 1960.809,
+      "interpolation_seconds": 45.808173179626465
+    }
+  ]
+}

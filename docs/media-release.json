@@ -1,0 +1,34 @@
+{
+  "version": "v1.0.0",
+  "packs": [
+    {
+      "name": "ascension-media-01.zip",
+      "bytes": 466412169,
+      "files": 212,
+      "sha256": "5667dfb64126c6c98aee435e0874ca2252efad6d2a6783bb24ba714ce53f6919",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-01.zip"
+    },
+    {
+      "name": "ascension-media-02.zip",
+      "bytes": 466393565,
+      "files": 213,
+      "sha256": "dfa746258674d773f1b575b1cbebeb7b29798804f059e338cd3d7d1abe1cc5e2",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-02.zip"
+    },
+    {
+      "name": "ascension-media-03.zip",
+      "bytes": 442835833,
+      "files": 169,
+      "sha256": "57db037a5699b42105e69aad7b5121b4c9f3623f1b75350bcc063a94a3c4b835",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-03.zip"
+    },
+    {
+      "name": "ascension-media-04.zip",
+      "bytes": 409000039,
+      "files": 83,
+      "sha256": "da76b800cc0e890c7d63812fe555b258ace0977a8e40646bcda7c91d75533961",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-04.zip"
+    }
+  ],
+  "total_media_files": 677
+}

@@ -1,0 +1,13 @@
+{
+  "archive": "<PROJECT>\\outputs\\Feisheng-MV\\飞升-四风格分镜与短片-v11.zip",
+  "bytes": 335853198,
+  "sha256": "ac2d4fef7770c4ec5d262a4f6017d53f3b28b076669c7e382e00d61b873f6200",
+  "members": 737,
+  "crc_verified": true,
+  "local_html_links_verified": true,
+  "credential_pattern_scan_passed": true,
+  "full_weights_in_archive": false,
+  "weight_retention": "Actual model files remain at the verified installed <LOCAL_PATH>/COMFY and <LOCAL_PATH>/... paths in 模型清单.json",
+  "browser_qa_performed": false,
+  "reason": "User chose file saving only."
+}

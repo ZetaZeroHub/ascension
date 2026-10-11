@@ -1,0 +1,32 @@
+{
+  "eid": "19-D-control",
+  "prompt_id": "fb580998-8e4e-4fb9-a422-a49d3aa76472",
+  "file": "clips\\19-D-control.mp4",
+  "native_file": "native\\19-D-control.mp4",
+  "native_size": [
+    640,
+    384
+  ],
+  "resolution_note": "Generated at 640x384, centre-cropped to 640x360 and Lanczos scaled to 1280x720",
+  "steps": 8,
+  "turbo": true,
+  "seed": 26101119,
+  "style_adapter": null,
+  "style_strength": 0,
+  "first_frame_sha256": "4420a0eca2c452dbcfbe187b36cf37937bebdcc43e5b189ce7793b3d7a69c06e",
+  "generation_seconds": 151.779,
+  "sha256": "62b8a22164555e1e69a36317faad016efc600fe7253ff1c79b5ee0967778b117",
+  "native_sha256": "c50b02638e486f1c057de5f6f49e81d88ef64954a4af2bdbfc9d6c23558b0c4b",
+  "verified": true,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "frames": 73,
+  "duration_seconds": 3.0416666666666665,
+  "audio_streams": 0,
+  "black_frames": [],
+  "mean_frame_change": 2.7824296135869293,
+  "max_frame_change": 5.7615509033203125
+}

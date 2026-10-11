@@ -1,0 +1,98 @@
+[
+  {
+    "shot": "01",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.31942876252701613,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "02",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.6344772533975481,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "03",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.671998894069253,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "04",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 3.2174483028248075,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "05",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 3.9416889274508002,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "06",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 1.1314253406372012,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "07",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.1934360256797172,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "08",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 6.243540172533291,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "09",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.7652517427516178,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "10",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 1.5009252995979496,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "11",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.8585155704285858,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  },
+  {
+    "shot": "12",
+    "frames": 124,
+    "sha256_matches": true,
+    "mean_frame_difference": 0.6691367471121191,
+    "identical_adjacent_frames": 0,
+    "decode_pass": true
+  }
+]

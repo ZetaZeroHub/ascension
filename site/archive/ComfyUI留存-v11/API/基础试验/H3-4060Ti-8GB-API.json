@@ -1,0 +1,48 @@
+{
+  "1": {
+    "class_type": "H3StudioModels",
+    "inputs": {
+      "diffusion_model": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+      "text_encoder": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "video_vae": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "turbo_lora": "None"
+    }
+  },
+  "2": {
+    "class_type": "H3StudioGenerate",
+    "inputs": {
+      "models": [
+        "1",
+        0
+      ],
+      "prompt": "A red ceramic mug on a wooden table, a yellow lemon to its right, soft daylight, natural detailed product photography.",
+      "aspect_ratio": "custom pixels",
+      "megapixels": 0.25,
+      "width": 512,
+      "height": 512
+    }
+  },
+  "3": {
+    "class_type": "H3StudioRender",
+    "inputs": {
+      "image_job": [
+        "2",
+        0
+      ],
+      "steps": 30,
+      "seed": 42,
+      "sampler_name": "er_sde",
+      "scheduler": "simple"
+    }
+  },
+  "4": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "3",
+        0
+      ],
+      "filename_prefix": "H3_4060Ti_8GB"
+    }
+  }
+}

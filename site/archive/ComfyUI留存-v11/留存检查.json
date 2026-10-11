@@ -1,0 +1,22 @@
+{
+  "api_count": 68,
+  "native_count": 68,
+  "counts": {
+    "剧情-v7": 12,
+    "基础试验": 6,
+    "快速-v9": 10,
+    "快速档示例": 1,
+    "早期红绸": 14,
+    "补充-v8": 1,
+    "风格-v11": 14,
+    "高清-v10": 10
+  },
+  "native_backend_supported": 67,
+  "missing_inputs": [],
+  "userdata_listing_verified": true,
+  "browser_interaction_performed": false,
+  "current_history_count": 14,
+  "queued": 0,
+  "running": 0,
+  "model_count": 9
+}

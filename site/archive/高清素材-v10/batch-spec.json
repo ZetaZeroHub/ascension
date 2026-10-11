@@ -1,0 +1,32 @@
+{
+  "objective": "逐个把这些素材高清化，增强步数、增强分辨率和帧率或扩时长",
+  "shots": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+  ],
+  "total": 10,
+  "native_size": [
+    1280,
+    736
+  ],
+  "delivery_size": [
+    1280,
+    720
+  ],
+  "steps": 25,
+  "turbo": false,
+  "native_fps": 24,
+  "interpolated_fps": 48,
+  "duration": 5.166666666666667,
+  "source_batch": "<PROJECT>\\outputs\\Feisheng-MV\\补充与舞蹈-v9",
+  "started": 1791475876.100956,
+  "runner_pid": 41304
+}

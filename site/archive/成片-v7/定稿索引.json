@@ -1,0 +1,7 @@
+{
+  "file": "飞升-MV-720p-定稿.mp4",
+  "sha256": "d11e3e13d2466bf595fe2701e4f7a4f48ed41f777f5df79f37dc118e6ebc5bdd",
+  "technical_validation": "审查/验证结果.json",
+  "visual_review": "审查/visual-review.json",
+  "review_method": "Viewed all 8 continuous contact sheets (one sample every 12 frames) and all 7 cut-boundary sheets (two preceding frames, the cut frame and two following frames), plus native clip contact sheets and rendered VFX previews. Audio assessed through complete decoded waveform correlation, offset and loudness, not subjective listening."
+}

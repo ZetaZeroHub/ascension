@@ -1,0 +1,225 @@
+{
+  "prompt": [
+    31,
+    "a3570c50-1b9d-456e-8697-5c22aa88ce35",
+    {
+      "1": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+          "weight_dtype": "default"
+        }
+      },
+      "2": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+          "type": "minimax",
+          "device": "default"
+        }
+      },
+      "3": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+        }
+      },
+      "6": {
+        "class_type": "MiniMaxH3ImageToVideo",
+        "inputs": {
+          "clip": [
+            "2",
+            0
+          ],
+          "vae": [
+            "3",
+            0
+          ],
+          "prompt": "Single uninterrupted cinematic dance shot in a black studio, same adult East Asian woman with short black bob, matte burgundy coat, black trousers and black boots. Restrained cool cyan shadows, neutral skin, moving soft light streaks behind the dancer, fine film texture. Coherent human anatomy, grounded feet, stable face, no extra limbs, no cuts, no captions, no graphic overlays. Dance phrase at approximately 100 beats per minute, sharp accents with controlled pauses. White sculptures stay rigid. Tight waist-up three-quarter portrait. The same dancer performs a sharp chest isolation, turns her gaze toward camera, sweeps one forearm across below her chin without covering her face, then settles with a controlled exhale. Camera gently pushes in, short black hair moves naturally. Pale blue horizontal light travels behind her, tiny warm edge highlights. Maintain exact face and human hands, no finger choreography.",
+          "width": 1280,
+          "height": 736,
+          "length": 124,
+          "first_frame": [
+            "16",
+            0
+          ]
+        }
+      },
+      "7": {
+        "class_type": "KSamplerSelect",
+        "inputs": {
+          "sampler_name": "res_multistep"
+        }
+      },
+      "8": {
+        "class_type": "BasicScheduler",
+        "inputs": {
+          "model": [
+            "1",
+            0
+          ],
+          "scheduler": "simple",
+          "steps": 25,
+          "denoise": 1.0
+        }
+      },
+      "9": {
+        "class_type": "BasicGuider",
+        "inputs": {
+          "model": [
+            "1",
+            0
+          ],
+          "conditioning": [
+            "6",
+            0
+          ]
+        }
+      },
+      "10": {
+        "class_type": "RandomNoise",
+        "inputs": {
+          "noise_seed": 26100821
+        }
+      },
+      "11": {
+        "class_type": "SamplerCustomAdvanced",
+        "inputs": {
+          "noise": [
+            "10",
+            0
+          ],
+          "guider": [
+            "9",
+            0
+          ],
+          "sampler": [
+            "7",
+            0
+          ],
+          "sigmas": [
+            "8",
+            0
+          ],
+          "latent_image": [
+            "6",
+            1
+          ]
+        }
+      },
+      "12": {
+        "class_type": "VAEDecode",
+        "inputs": {
+          "samples": [
+            "11",
+            0
+          ],
+          "vae": [
+            "3",
+            0
+          ]
+        }
+      },
+      "14": {
+        "class_type": "CreateVideo",
+        "inputs": {
+          "images": [
+            "12",
+            0
+          ],
+          "fps": 24.0,
+          "bit_depth": 8,
+          "color_space": "sRGB",
+          "codec": "none"
+        }
+      },
+      "15": {
+        "class_type": "SaveVideo",
+        "inputs": {
+          "video": [
+            "14",
+            0
+          ],
+          "filename_prefix": "video/FeishengHDV10_21_native720_25step",
+          "format": "mp4",
+          "codec": {
+            "codec": "h264",
+            "encoding": {
+              "encoding": "re-encode",
+              "crf": 16.0
+            }
+          }
+        }
+      },
+      "16": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "FeishengHDV10/21.png"
+        }
+      }
+    },
+    {
+      "client_id": "codex-feisheng-hd-v10",
+      "create_time": 1791489997299
+    },
+    [
+      "15"
+    ]
+  ],
+  "outputs": {
+    "15": {
+      "images": [
+        {
+          "filename": "FeishengHDV10_21_native720_25step_00001_.mp4",
+          "subfolder": "video",
+          "type": "output"
+        }
+      ],
+      "animated": [
+        true
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "a3570c50-1b9d-456e-8697-5c22aa88ce35",
+          "timestamp": 1791489997300
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1",
+            "2",
+            "3",
+            "7",
+            "8"
+          ],
+          "prompt_id": "a3570c50-1b9d-456e-8697-5c22aa88ce35",
+          "timestamp": 1791489997383
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "a3570c50-1b9d-456e-8697-5c22aa88ce35",
+          "timestamp": 1791492000093
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "15": {
+      "node_id": "15",
+      "display_node": "15",
+      "parent_node": null,
+      "real_node_id": "15"
+    }
+  }
+}

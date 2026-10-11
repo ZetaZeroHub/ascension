@@ -1,0 +1,287 @@
+{
+  "passed": true,
+  "scope": "14 independent full decodes, exact executed API and file hashes; visual contact-sheet review of all 14",
+  "browser_verified": false,
+  "browser_note": "User requested file saving only; no further page interaction.",
+  "still_count": 12,
+  "style_video_count": 12,
+  "control_video_count": 2,
+  "reports": [
+    {
+      "eid": "10-A",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 166.927,
+      "sha256": "f25b8472b8dd8589bb7473cd79ff850b73454e4d81c287cc2efa6c3e8dcdde85"
+    },
+    {
+      "eid": "10-B",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 155.666,
+      "sha256": "9f29a39afea8cc4ee9c1e66d8ae9c8eb16ddc271785c96698481a8c95e830060"
+    },
+    {
+      "eid": "10-C",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 150.116,
+      "sha256": "529d896033ef8843f46eb9273adb0a4cd5e6c69555f62abd1a1f23e7189a76b4"
+    },
+    {
+      "eid": "10-D",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 161.301,
+      "sha256": "832201ffff02a3281561ec90ab2fa7b35c1ee4165bd871cfce05c4938acd383f"
+    },
+    {
+      "eid": "16-A",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 150.234,
+      "sha256": "08ac05a2184e072234a1c44e34b9fc52cfc5fab4696c115898eece05e0d9e46a"
+    },
+    {
+      "eid": "16-B",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 214.542,
+      "sha256": "8fb087d98364bcf9fef6889fae529def569ac1928223df2a876d4b8986fdcfd7"
+    },
+    {
+      "eid": "16-C",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 158.859,
+      "sha256": "06c4459f69a9bc9abeaa55b8cd9c295c8a6c2db8a5b9fbcaa35ffb460b1fb9d4"
+    },
+    {
+      "eid": "16-D",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 165.625,
+      "sha256": "18cc517562908d2a7ab2107727582a772f4a13bf9f49f55567d94f0525f888fb"
+    },
+    {
+      "eid": "19-A",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 210.831,
+      "sha256": "01c8f675982af4b51d61ff6dde9779f7e2574b5a68cf2b9589e1821dfb77a08f"
+    },
+    {
+      "eid": "19-B",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 161.072,
+      "sha256": "ed6eec977157dbc468290f068981b8064cec490066cef5f403341c73ea2b1b59"
+    },
+    {
+      "eid": "19-C",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 161.566,
+      "sha256": "31c6a1c8c7dc8cef5adb340ca1eaa3a77166b903da13f69a0e5c84544caaecef"
+    },
+    {
+      "eid": "19-D",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 181.186,
+      "sha256": "d2224011d1ac940297620428e1bf4856216ded746fbb0b3689d02c0b43ea2b36"
+    },
+    {
+      "eid": "16-C-control",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 153.139,
+      "sha256": "724fb36a98c21e98e8ebbdb9fc5ea5f14d076ed039638723d77a60a4804528e2"
+    },
+    {
+      "eid": "19-D-control",
+      "history_success": true,
+      "api_matches_executed": true,
+      "full_decode_verified": true,
+      "frames": 73,
+      "fps": 24,
+      "native_size": [
+        640,
+        384
+      ],
+      "preview_size": [
+        1280,
+        720
+      ],
+      "generation_seconds": 151.779,
+      "sha256": "62b8a22164555e1e69a36317faad016efc600fe7253ff1c79b5ee0967778b117"
+    }
+  ],
+  "generation_seconds": {
+    "min": 150.116,
+    "median": 161.1865,
+    "max": 214.542,
+    "total": 2342.843
+  },
+  "resources": {
+    "peak_gpu_celsius": 74,
+    "min_free_ram_mib": 6666,
+    "min_free_commit_mib": 4721
+  },
+  "visual_notes": {
+    "A": "Matte paper/ceramic look holds through restrained motion; suitable for quiet passages.",
+    "B": "Mineral relief and contour texture persist; face reads as sculptural rather than natural skin.",
+    "C": "Most direct continuity with the original courier, terracotta architecture and dry studio floor.",
+    "D": "Cyanotype stays blue/cream, but 19-D deliberately retained as an exploration: dark background lifts to cream early in motion. Use as an insert or transition, not a seamless dark-studio replacement."
+  },
+  "resolution_note": "Native 640x384 cropped to 640x360 then Lanczos 1280x720. No interpolation. Silent audition clips.",
+  "paired_comparison_visually_reviewed": true,
+  "confidence": {
+    "asset_retention_and_generation": "high",
+    "aesthetic_preference": "medium",
+    "browser_loading": "not tested by user choice"
+  }
+}

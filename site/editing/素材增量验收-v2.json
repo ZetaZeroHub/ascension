@@ -1,0 +1,30 @@
+{
+  "current_files": 235,
+  "previous_files": 232,
+  "new_paths": [
+    "<PROJECT>\\outputs\\Feisheng-MV\\ComfyUI留存-v11\\inputs\\FeishengV7\\05-motion.mp4",
+    "<PROJECT>\\outputs\\Feisheng-MV\\风格实验-v11\\comparison\\16-C-side-by-side.mp4",
+    "<PROJECT>\\outputs\\Feisheng-MV\\风格实验-v11\\comparison\\19-D-side-by-side.mp4"
+  ],
+  "changed": [],
+  "new_content": [
+    {
+      "path": "<PROJECT>\\outputs\\Feisheng-MV\\风格实验-v11\\comparison\\16-C-side-by-side.mp4",
+      "sha256": "8a1430836997c6f07f93c0e571edb39f3e91dc5f1dce6840fb25a7697ccaae5c",
+      "bytes": 906965
+    },
+    {
+      "path": "<PROJECT>\\outputs\\Feisheng-MV\\风格实验-v11\\comparison\\19-D-side-by-side.mp4",
+      "sha256": "76ab2817c8575041c59e4a2b1df088a18a68bcb7cd2858219f8c6e3f7ada74e3",
+      "bytes": 1157190
+    }
+  ],
+  "v1_imported_comparison_videos": 2,
+  "v1_bin_after_import": 221,
+  "standalone_v11_clips_already_in_previous_library": 14,
+  "current_registry_files": 235,
+  "current_unique_contents": 187,
+  "current_library_files": 208,
+  "final_draft": "飞升-MV-节拍衔接精修-v2-普通导出",
+  "final_bin_count": 209
+}

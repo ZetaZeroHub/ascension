@@ -1,0 +1,16 @@
+{
+  "segments": 41,
+  "frames": 2282,
+  "track_count": 6,
+  "all_22_main_shots": true,
+  "unique_source_shots": 28,
+  "max_cue_rounding_error_ms": 20.366666666667754,
+  "consecutive_source_time_continuity": "pass",
+  "no_silent_tail_hard_cut": "last continuous shot starts at 86.4167s",
+  "all_clip_probes": "pass",
+  "old_boundaries_reviewed": 41,
+  "native_display_and_export": "pass: six-track ordinary export copy opened and successfully exported",
+  "builtin_filter_export_block": "one VIP item reported by native editor; retained 8-track attempt and created separate 6-track export copy",
+  "final_manifest": "剪映MCP编辑清单-普通导出-v2.json",
+  "native_filter_trial": "eight-track reference retained; final colour grading implemented in local edited media"
+}
