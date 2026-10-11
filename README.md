@@ -6,7 +6,7 @@
 
 一部视觉音乐概念 MV，也是一份可以拆开学习、继续创作的制作档案。章浩提出创作方向与修改意见，AI 完成分镜、工作流配置、素材生成、筛选、剪辑和验证。我们公开的不只是成片，还有从第一句提示词到最后一个切点的过程。
 
-**[观看影片与设定集](https://art.zzh.app) · [下载素材包](https://github.com/ZetaZeroHub/ascension/releases/tag/v1.0.0) · [English](README.en.md)**
+**[观看影片与设定集](https://art.zzh.app) · [下载图稿与制作资料](https://github.com/ZetaZeroHub/ascension/releases/tag/v1.0.0) · [English](README.en.md)**
 
 > “0 成本”指本地视频生成没有额外 API 费用，不包含已有电脑、AI 订阅及电费；部分分镜参考图使用 AI 图像服务生成。四天为作者提供的制作工期：概念与分镜 1 天、素材生成 2 天、自动化剪辑 1 天，不是可向所有机器保证的耗时。
 
@@ -18,17 +18,17 @@
 | 用自己的机器复现一个镜头 | [ComfyUI 安装与复现](docs/REPRODUCE.md) |
 | 找工作流、输入图、模型 | [工作流目录](site/archive/ComfyUI留存-v11/工作流) · [API 目录](site/archive/ComfyUI留存-v11/API) · [模型清单](site/archive/ComfyUI留存-v11/模型清单.json) |
 | 学提示词、分镜和节拍方法 | [技能与安装](docs/SKILLS.md) · [制作过程](docs/PROCESS.md) |
-| 自己重新剪辑 | [素材下载](https://github.com/ZetaZeroHub/ascension/releases/tag/v1.0.0) · [剪辑工程迁移](docs/EDITING.md) |
+| 学习剪辑与重新生成 | [剪辑时间线与素材替换](docs/EDITING.md) |
 
 ## 这个项目保留了什么
 
 - **26 个可浏览页面**：红绸概念、故事与人物定型、调色对照、独立分镜、舞蹈扩展、四种材质实验、制作记录。
 - **68 份原生节点工作流 + 68 份 API 配置**：保留种子、采样步数、提示词、参考帧和连接关系。
-- **76 项 ComfyUI 输入素材、61 份历史记录、9 项模型记录**：文件名、用途、大小与校验范围可查。
-- **可编辑剪辑资料**：时间线、MCP 编辑清单、原始/衍生片段、切点调整与抽帧对照。
+- **75 张原始 ComfyUI 输入图、61 份历史记录、9 项模型记录**：文件名、用途、大小与校验范围可查。历史第 76 项为运动参考视频，仅留存在作者本机。
+- **可编辑剪辑资料**：时间线、MCP 编辑清单、切点调整与静态抽帧对照；原始/衍生视频和独立音轨不上传。
 - **历史生产脚本与新的便携工具**：前者记录当时怎么做，后者帮助下载素材、安装工作流和重定位剪辑路径。
 
-素材单独放在 Release 中。克隆代码后，下载所有 `ascension-media-*.zip` 并解压到仓库根目录，保留 ZIP 内的 `site/` 路径。各包互补，不是重复的不同版本。不要将大模型权重放入此仓库。
+网站仅保留静态图稿和一条完整 MV，模型权重及所有历史视频/音频素材不上传。默认下载 `ascension-website-media.zip`；需要在 ComfyUI 复现时，再选下 `ascension-comfy-input-images.zip`，其中 75 张原始输入图位于 `reproduction/inputs/`，不会部署到网站。两个包用途不同，无需为浏览网站下载原始输入图。
 
 ## 普通显卡怎样跑大模型
 
@@ -72,10 +72,11 @@ python scripts/fetch_media.py
 python -m http.server 8080 --directory site --bind 127.0.0.1
 ```
 
-打开 `http://127.0.0.1:8080`。下载体积见 Release 清单；也可以先只克隆代码阅读文档。网站用原生 HTML/CSS/JS，支持中英文、原生视频播放、懒加载分镜与减少动态效果偏好。
+打开 `http://127.0.0.1:8080`。默认只下载轻量网站媒体包，体积见 Release 清单。原始输入图需显式添加 `--inputs`。也可以先只克隆代码阅读文档。网站用原生 HTML/CSS/JS，支持中英文、原生视频播放、懒加载分镜与减少动态效果偏好。
 
 ```text
-site/                 网站、历史图稿、公开工作流和剪辑档案
+site/                 网站、压缩图稿、公开工作流和剪辑档案
+reproduction/inputs/  可选原始输入图，不部署到网站
 production-scripts/   脱敏后的历史生产代码，需按自己的路径适配
 scripts/              便携安装、下载、重定位和发布检查
 skills/               本项目编写的可安装创作技能

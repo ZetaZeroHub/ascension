@@ -1,6 +1,6 @@
 {
   "archive_html": 26,
-  "published_files": 1596,
+  "published_files": 1056,
   "excluded_paths": [
     "工程审计.log",
     "成片响度检测.log",
@@ -75,5 +75,5 @@
     "opaque-or-invalid-json/draft_meta_info.json",
     "opaque-or-invalid-json/draft_content.json"
   ],
-  "policy": "All source files remain untouched. Public copies remove private paths, credential fields, image metadata and container metadata. Models and third-party plugin binaries omitted."
+  "policy": "Website: static previews and one featured MV only. No weights or historical AV files. 75 original input images in optional reproduction/inputs package outside the site. Historical 76th motion-reference video omitted."
 }

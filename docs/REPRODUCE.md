@@ -22,12 +22,12 @@
 在仓库根目录运行：
 
 ```sh
-python scripts/fetch_media.py
+python scripts/fetch_media.py --inputs
 python scripts/prepare_comfy.py --comfy-root /path/to/ComfyUI --dry-run
 python scripts/prepare_comfy.py --comfy-root /path/to/ComfyUI
 ```
 
-Windows 示例：`--comfy-root "D:/ComfyUI"`。脚本只复制输入图和工作流；遇到不同内容的同名文件会停止，不覆盖。不会启动 ComfyUI、修改显卡设置、下载大模型或提交队列。
+Windows 示例：`--comfy-root "D:/ComfyUI"`。可选包提供 75 张原始输入图。历史运动参考视频 `05-motion.mp4` 不随包分发；依赖它的工作流需换成自己的运动参考视频。脚本只复制输入图和工作流；遇到不同内容的同名文件会停止，不覆盖。不会启动 ComfyUI、修改显卡设置、下载大模型或提交队列。
 
 在 ComfyUI 中打开 `user/default/workflows/Ascension/风格-v11/16-C.json`，或把相应原生 JSON 拖入画布。使用 `API/` 下的 JSON 时需通过 ComfyUI API 提交，不是同一种文件格式。
 

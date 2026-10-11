@@ -26,3 +26,4 @@ site/editing/**/*.m4a
 site/editing/**/*.wav
 downloads/
 local-*.json
+reproduction/inputs/

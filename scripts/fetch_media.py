@@ -8,10 +8,11 @@ def sha(p):
   for b in iter(lambda:f.read(1024*1024),b''):h.update(b)
  return h.hexdigest()
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--list',action='store_true');a=ap.parse_args()
+ ap=argparse.ArgumentParser();ap.add_argument('--list',action='store_true');ap.add_argument('--inputs',action='store_true',help='Also download optional original ComfyUI images outside the web root');a=ap.parse_args()
  root=Path(__file__).resolve().parents[1]
  packs=json.loads((root/'docs/media-release.json').read_text(encoding='utf-8'))['packs']
  for item in packs:
+  if item.get('optional') and not a.inputs:continue
   print(item['name'],round(item['bytes']/1024**2,1),'MiB')
   if a.list:continue
   cache=root/'downloads';cache.mkdir(exist_ok=True);target=cache/item['name']
@@ -24,7 +25,7 @@ def main():
   with zipfile.ZipFile(target) as z:
    for info in z.infolist():
     dst=(root/info.filename).resolve()
-    if not dst.is_relative_to(root.resolve()) or not info.filename.startswith('site/'):raise SystemExit('Unsafe ZIP entry')
+    if root.resolve() not in dst.parents or not info.filename.startswith(('site/','reproduction/inputs/')):raise SystemExit('Unsafe ZIP entry')
    for info in z.infolist():
     if info.is_dir():continue
     dst=root/info.filename

@@ -24,7 +24,7 @@ def main():
   if f.suffix=='.json':
    try:json.loads(s);json_count+=1
    except ValueError:problems.append({'file':f.relative_to(root).as_posix(),'type':'invalid_json'})
-  if f.suffix=='.html' and f.is_relative_to(site):
+  if f.suffix=='.html' and site in f.parents:
    h=Links();h.feed(s)
    for tag,key,url in h.refs:
     u=urlsplit(url)

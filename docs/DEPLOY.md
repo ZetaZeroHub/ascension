@@ -1,6 +1,6 @@
 # 静态部署
 
-网站无运行时服务与数据库，只需发布 `site/`。Git 仓库中的源文件和 Release 媒体包共同组成完整站点。
+网站无运行时服务与数据库，只需发布 `site/`。Git 仓库中的源文件和默认的轻量网站媒体包共同组成站点。`fetch_media.py` 不带 `--inputs`：原始输入图不会下载到服务器。`site/` 中仅有一条完整 MV，不含模型权重、历史视频或独立音轨。
 
 ```sh
 git clone https://github.com/ZetaZeroHub/ascension.git

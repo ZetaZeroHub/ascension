@@ -2,33 +2,21 @@
   "version": "v1.0.0",
   "packs": [
     {
-      "name": "ascension-media-01.zip",
-      "bytes": 466412169,
-      "files": 212,
-      "sha256": "5667dfb64126c6c98aee435e0874ca2252efad6d2a6783bb24ba714ce53f6919",
-      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-01.zip"
+      "name": "ascension-website-media.zip",
+      "bytes": 143070242,
+      "files": 214,
+      "optional": false,
+      "sha256": "4742c3eda9485eafaedec2ec38b18d2f44dfb3b370799e8ae5c5a1e857419fce",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-website-media.zip"
     },
     {
-      "name": "ascension-media-02.zip",
-      "bytes": 466393565,
-      "files": 213,
-      "sha256": "dfa746258674d773f1b575b1cbebeb7b29798804f059e338cd3d7d1abe1cc5e2",
-      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-02.zip"
-    },
-    {
-      "name": "ascension-media-03.zip",
-      "bytes": 442835833,
-      "files": 169,
-      "sha256": "57db037a5699b42105e69aad7b5121b4c9f3623f1b75350bcc063a94a3c4b835",
-      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-03.zip"
-    },
-    {
-      "name": "ascension-media-04.zip",
-      "bytes": 409000039,
-      "files": 83,
-      "sha256": "da76b800cc0e890c7d63812fe555b258ace0977a8e40646bcda7c91d75533961",
-      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-media-04.zip"
+      "name": "ascension-comfy-input-images.zip",
+      "bytes": 159226589,
+      "files": 75,
+      "optional": true,
+      "sha256": "cd447887bdc69e87b96d64d772217fb7ade9a725749f1d9b2043df014bce355b",
+      "url": "https://github.com/ZetaZeroHub/ascension/releases/download/v1.0.0/ascension-comfy-input-images.zip"
     }
   ],
-  "total_media_files": 677
+  "policy": "Only static art and the featured film on the website. Original input images are optional, outside the web root. No source video/audio or weights."
 }

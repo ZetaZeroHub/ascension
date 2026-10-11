@@ -2,7 +2,7 @@
 
 **One RTX 4060 Ti. Zero additional video API fees. Four days. Let imagination rise.**
 
-[Watch the film and visual archive](https://art.zzh.app) · [Media downloads](https://github.com/ZetaZeroHub/ascension/releases/tag/v1.0.0) · [中文](README.md)
+[Watch the film and visual archive](https://art.zzh.app) · [Art & production downloads](https://github.com/ZetaZeroHub/ascension/releases/tag/v1.0.0) · [中文](README.md)
 
 A visual music concept MV by Zhang Hao, with an open production archive. The author supplied direction and revisions through prompts. AI performed production using a combination of MCP, scripts, APIs and UI control.
 
@@ -12,11 +12,11 @@ A visual music concept MV by Zhang Hao, with an open production archive. The aut
 
 - 26 browsable historical pages, including character development, storyboards, grading comparisons and style studies.
 - 68 native ComfyUI workflows and 68 API configurations.
-- 76 input assets, 61 execution snapshots and nine model records.
-- Editable timeline/manifests, original and derived footage, and cut-point review sheets.
+- 75 original input images, 61 execution snapshots and nine model records. The historical 76th input was a motion-reference video and is not redistributed.
+- Editable timelines/manifests and static cut-point review sheets. Original and derived clips and separate audio tracks stay offline.
 - Historical production scripts, portable setup tools and project-specific creative skills.
 
-Large media is distributed through Releases, not Git history. Download all `ascension-media-*.zip` archives and extract them into this repository, preserving their `site/` paths. Model weights are not redistributed.
+The website contains static art and one featured film only. `ascension-website-media.zip` is the default download. Use `python scripts/fetch_media.py --inputs` to also obtain 75 original reference images under `reproduction/inputs/`, outside the web root. No model weights, historical video clips or separate audio tracks are uploaded.
 
 ## Local preview
 
